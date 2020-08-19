@@ -1,4 +1,4 @@
-!TITLE=anti-AD
+!TITLE=AntiAD
 !VER=20200815105255
 !URL=https://github.com/privacy-protection-tools/anti-AD
 !TOTAL_LINES=34473
