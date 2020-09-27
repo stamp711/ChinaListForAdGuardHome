@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AntiAD
-! Version: 20200925093352
+! Version: 20200926164530
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 
 ||*.wap.xsbiquge.com^
@@ -24082,7 +24082,6 @@
 ||huatuo.qq.com^
 ||iask.qq.com^
 ||isdspeed.qq.com^
-||iwx.mail.qq.com^
 ||wit.qq.com^
 ||jqmt.qq.com^
 ||jsapi.html5.qq.com^
