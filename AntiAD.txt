@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AntiAD
-! Version: 20200926164530
+! Version: 20200928075032
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 
 ||*.wap.xsbiquge.com^
@@ -10838,7 +10838,6 @@
 ||emxyuehfnlssg.com^
 ||enaceanspection.info^
 ||ename.com.cn^
-||ename.net^
 ||enavtfdjjcmgy.com^
 ||enbvylulfg.com^
 ||encedagric.club^
