@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AntiAD
-! Version: 20201005002205
+! Version: 20201005115153
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 
 ||*.wap.xsbiquge.com^
@@ -6182,7 +6182,7 @@
 ||bluecore.com^
 ||bluecounter.de^
 ||bluedawning.com^
-||bluehost.com^
+||img.bluehost.com^
 ||gg.blueidea.com^
 ||blueioabj.com^
 ||bluekai.com^
