@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AntiAD
-! Version: 20201007094120
+! Version: 20201009174743
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 
 ||*.wap.xsbiquge.com^
@@ -35063,3 +35063,4 @@
 @@||sax.sina.com.cn^
 @@||news-app.abumedia.yql.yahoo.com^
 @@||meizu.coapi.moji.com^
+@@||track.cpau.info^
