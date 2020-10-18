@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202010171216
-! Last Modified: 2020年10月17日 12:16
+! Version: 202010180415
+! Last Modified: 2020年10月18日 04:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -259,6 +259,8 @@ chaturbate.com##.banner
 junshi.china.com###mod-box
 junshi.china.com##.w_xiao>.side_bdgg
 toutiao.china.com###js-free-time-show
+! COCOmanhua
+@@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
 ! 低端影视
 ||ddrk.me/vjs-plugins/videojs.das.min.js
 !通用去除dplayer播放器logo   https://bbs.kafan.cn/forum.php?mod=redirect&goto=findpost&ptid=2180923&pid=46929896
@@ -473,7 +475,8 @@ iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
 qq.com##.mod_ad
 v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
 v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-@@||qq.com/fcgi-bin/
+@@||video.qq.com/fcgi-bin/
+||mark.l.qq.com/fcgi-bin/get_video_mark_all?idlist=
 ||adss.video.qq.com/
 ||gtimg.com/qqlive/
 ||miaozhen.com/
@@ -541,8 +544,9 @@ www.dyjihe.com##.tempWrap
 haitur.com,www.haicaoys.com,www.cdfdy.com,www.labays.com,www.meiyuktv.cn##.dplayer-web-fullscreen-fix .float-box
 haitur.com##.container:style(max-width:90%!important;width:90%!important)
 haitur.com##.left-content:style(width:77%!important)
-www.imomoe.in,hehua.net,kakadm.com##+js(ra, target, a[href^="/"])
-www.imomoe.in###adl,#adr
+www.imomoe.ai,hehua.net,kakadm.com##+js(ra, target, a[href^="/"])
+www.imomoe.ai###adl,#adr
+||alicdn.com/$image,domain=api.xiaomingming.org
 yatu.tv###loadtop,[id^=myas],#myds1,#daohang
 3z9e.cn
 anquanzhuomian.com
@@ -1674,6 +1678,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||xyadtlyy.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -9292,6 +9297,7 @@ _yad_jsonp_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||alicdn.com^$domain=xiaomingming.org
+||feijisu5.com/js/huimi-
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 bde4.com##A[href*=".yabo816."]
@@ -16466,6 +16472,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||bcebos.com^$script,domain=31xiaoshuo.org
 !#Novels
+||ffupiiv.cn^
 ||wenlang.com^$third-party
 ||pdfmxsh.cn^
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
