@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202012210025
-! Last Modified: 2020年12月21日 00:25
+! Version: 202012220416
+! Last Modified: 2020年12月22日 04:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -454,111 +454,123 @@ tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! 乘风 视频广告过滤规则
-v.youku.com##.control-phonewatch,#right-title-ad-banner
-!v.youku.com##+js(nano-stb)
-||atm.youku.com/
-||cibntv.net/youku/$media
-||valipl.cp31.ott.cibntv.net/$media
-|https://static.youku.com/index/js/ikuAdapterNew.js
-|https://js.ykimg.com/youku/dist/js/lib/ikuAdapterNew.js
-!||ykimg.com/material/$image
-!youku.com##.ad-wrap
-||sealine.youku.com/yk/*callback=adpagesdk$script
-iqiyi.com##div[data-adzone],#block-V
-!iqiyi.com##+js(nano-sib)
-iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
-!||t7z.cupid.iqiyi.com/show$script,important
-||static.iqiyi.com/js/common/mars_v.js$script
-||iqiyi.com/videos/other/20$xmlhttprequest,object-subrequest
-||iqiyipic.com/image/20*_100000$image
-||ssports.iqiyi.com/app/$object-subrequest
-qq.com##.mod_ad
-v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
-v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-@@||video.qq.com/fcgi-bin/
-||mark.l.qq.com/fcgi-bin/get_video_mark_all?idlist=
-||adss.video.qq.com/
-||gtimg.com/qqlive/
-||miaozhen.com/
-||reachmax.cn/
-||tencentmind.com/
-||xtgreat.com/
-bilibili.com##.gg-floor-module,#slide_ad
-||api.bilibili.com/x/web-show/res/loc?pf=$~script
-||hdslb.com/bfs/sycp/creative_img/$image
-acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
-||aixifan.com/static/*/appGuide/
-cctv.com###bgAd_div
-||imall.cctv.com/$subdocument
-||bjcathay.com/
-pptv.com##div[id^=afp_],div[id$=-afp],#video-download-game
-||synacast.com
-||de.as.pptv.com^
-||g.pptv.com/game/$subdocument
-@@||tb.mgtv.com/sdk/*/ad-sdk.js$script
-||video.da.mgtv.com/$media
-ys.da.mgtv.com
-||da.mgtv.com/mediafiles/wiad_creative/$image
-@@||js.tv.itc.cn/gg.seed.js
-||css.tv.itc.cn/m/img/player/dlBanner.$image
-||data.vod.itc.cn/*&prod=ad&$media
-||api.my.tv.sohu.com/wm/getads.do?
-||aty.sohu.com/
-||go.sohu.com/
-||tv.sohu.com/upload/csad/admaster/$image
-tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
-1905.com##.ad-couplet,#hd-tab-label4,div.bd-tab.video-list:last-child
-||aliyun.com^$domain=1905.com
-||aliyuncs.com^$domain=1905.com
-@@||ark.letv.com/adx?adzone=
-@@||stat.letv.com/$script
-*/letv-gug/$media,object-subrequest
-||letvimg.com/$object,object-subrequest
-||letvimg.com/*_gugwl/$image
-||js.letvcdn.com/*_banner_$script
-||banana.le.com/
-adxvip.com
-behe.com
-biddingx.com
-cr-nielsen.com
-fancyapi.com
-kejet.net
-||jd.com/$domain=le.com
-ulmdb.cn
-yoyi.com.cn
-zhiziyun.com
-le.com##.banner_ad,#rightBottomPop,div.banner_left,div.banner_right,[id^=pause_a_content_h5ad]
-douyu.com##div[class$="-ad"],div[class|=ad],div.no-login
-||douyucdn.cn/adxdsp/$image
-||wan.douyu.com/
-douyu.com,huya.com##a[href^="https://g.wan."]
-huya.com###hy-ad,#hy-ab,#huya-ab
-||g.huya.com/
-||pub.funshion.com
-*/preroll/$media,domain=91porn.com
-||91p20.space^
-||waust.at^
-||www.dililitv.com/*.php?ad=$script
-dililitv.com,hmtv.me,imeiju.io,mkvdo.com,zxfun.net##+js(acis,Object.defineProperty,location.href)
-www.dyjihe.com##.tempWrap
-haitur.com,www.haicaoys.com,www.cdfdy.com,www.labays.com,www.meiyuktv.cn##.dplayer-web-fullscreen-fix .float-box
-haitur.com##.container:style(max-width:90%!important;width:90%!important)
-haitur.com##.left-content:style(width:77%!important)
-imomoe.*,hehua.net,kakadm.com,milimili.tv##+js(ra, target, a[href^="/"])
-!imomoe.*###adl,#adr
-||alicdn.com/$image,domain=api.xiaomingming.org
-yatu.tv###loadtop,[id^=myas],#myds1,#daohang
-3z9e.cn
-anquanzhuomian.com
-ch-hr12333.com
-g1c5.com
-ieeod0.com
-tracker.novage.com.ua
-tracker.openwebtorrent.com
-fourier.taobao.com
-v4dwkcv.com
-youle55.com
-||www.yatu.tv/image/*.gif^$image
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>维护中 (502)</title>
+  <link href="/static/errors/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link href="/static/errors/stylesheets/static_error.css?1562925143822" media="screen" rel="stylesheet"
+    type="text/css">
+  <link href="/static/errors/stylesheets/iconfont.css" media="screen" rel="stylesheet" type="text/css">
+</head>
+<body class="ui_basic application">
+  <header class="common-header fixed noborder floating" id="git-header-nav">
+    <div class="ui container">
+      <div class="ui menu">
+        <div class="item gitosc-logo"><a href="/"><img class="ui inline image"
+              src="/static/errors/images/logo.svg?t=158106664"></a></div><a href="/explore" class="item "
+          title="开源项目">开源软件</a><a href="/enterprises" class="item " title="企业版">企业版<sup
+            class="ui red label">特惠</sup></a><a href="/education" class="item " title="高校版">高校版</a><a
+          href="https://blog.gitee.com" class="item " title="博客" target="_blank">博客</a>
+        <div class="right menu userbar" id="git-nav-user-bar">
+          <div class="item">
+            <form accept-charset="UTF-8" action="/search" id="projects-search-form" method="get" autocomplete="on">
+              <div class="ui icon left mini fluid input"><input id="search_top-search-input" name="q" placeholder="搜索项目"
+                  type="text"><i class="iconfont icon-search" id="projects-search"></i><input id="group_id"
+                  name="group_id" type="hidden"><input id="project_id" name="project_id" type="hidden"><input id="type"
+                  name="type" type="hidden"></div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="container error midCenter">
+    <div class="content">
+      <center>
+        <div class="image-box"><img src="/static/errors/images/502.png"></div>
+        <h3>Gitee 正在进行系统维护（2020 年 12 月 22 日4:00～4:30），请稍后再访问。</h3>
+      </center>
+    </div>
+  </div>
+  <footer id="git-footer-main" style='margin: 0'>
+    <div class="ui container footer-content">
+      <div class="ui two column grid">
+        <div class="column">
+          <p><a href="/" target="_blank">© Gitee.com</a></p>
+          <div class="ui two column grid" id="footer-left">
+            <div class="column">
+              <div class="ui link list">
+                <div class="item"><a href="/about_us" class="item">关于我们</a></div>
+                <div class="item"><a href="/terms" class="item">使用条款</a></div>
+                <div class="item"><a href="/oschina/git-osc/issues" class="item">意见建议</a></div>
+                <div class="item"><a href="/links.html" class="item">合作伙伴</a></div>
+              </div>
+            </div>
+            <div class="column">
+              <div class="ui link list">
+                <div class="item"><a href="/all-about-git" class="item">Git 大全</a></div>
+                <div class="item"><a href="https://oschina.gitee.io/learn-git-branching" class="item">Git 命令学习</a></div>
+                <div class="item"><a href="https://copycat.gitee.com" class="item">代码克隆检测</a></div>
+                <div class="item"><a href="/appclient" class="item">APP与插件下载</a></div>
+              </div>
+            </div>
+            <div class="column">
+              <div class="ui link list">
+                <div class="item"></div>
+                <div class="item"><a href="/gitee-stars" class="item">Gitee 封面人物</a></div>
+                <div class="item"><a href="/gvp" class="item">GVP 项目</a></div>
+                <div class="item"><a href="https://blog.gitee.com" class="item">Gitee 博客</a></div>
+              </div>
+            </div>
+            <div class="column">
+              <div class="ui link list">
+                <div class="item"><a href="/api/v5/swagger" class="item">OpenAPI</a></div>
+                <div class="item"><a href="/help" class="item">帮助文档</a></div>
+                <div class="item"><a href="/self_services" class="item">在线自助服务</a></div>
+                <div class="item"><a href="/git-osc" class="item">更新日志</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column right aligned followus">
+          <div class="qrcode weixin"><img alt="Qrcode-weixin" src="/static/errors/images/qrcode-weixin.jpg">
+            <p class="weixin-text">微信服务号</p>
+          </div>
+          <div class="phone-and-qq column">
+            <div class="ui list official-support-container">
+              <div class="item official-support"><a
+                  href="//shang.qq.com/wpa/qunwpa?idkey=b37511816c39dde9ca9bbb659747d12c473368151952456ccfe533bf07b03887"
+                  class="icon-popup" title="点击加入 Gitee 官方群"><i
+                    class="iconfont icon-logo-qq"></i><span>官方技术交流QQ群：1050025484</span></a></div>
+              <div class="item mail-and-zhihu"><a href="mailto: git@oschina.cn"><i
+                    class="iconfont icon-ic-mail"></i><span id="git-footer-email">git#oschina.cn</span></a><a
+                  href="https://www.zhihu.com/org/ma-yun-osc/" target="_blank"><i
+                    class="iconfont icon-zhihu"></i><span>Gitee</span></a></div>
+              <div class="item">企业版售前及售后使用咨询：400-606-0201</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="bottombar">
+      <div class="ui container">
+        <div class="ui grid">
+          <div class="five wide column partner">本站带宽由<a href="https://www.anchnet.com/" target="_blank"
+              title="anchnet"><img alt="51idc" src="/static/errors/images/51idc.png"></a> 提供</div>
+          <div class="eleven wide column right aligned">
+            <div class="copyright"><a href="http://www.miitbeian.gov.cn/">粤ICP备12009483号-8</a>深圳市奥思网络科技有限公司版权所有</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="/static/errors/javascripts/jquery.min.js"></script>
+  <script src="/static/errors/javascripts/static_error.js" type="text/javascript"></script>
+  <script src="/static/errors/javascripts/letter_avatar.js" type="text/javascript"></script>
+  <script>var email = $("#git-footer-email").text(); $("#git-footer-email").text(email.replace("#", "@"));</script>
+</body>
+</html>
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
@@ -1700,7 +1712,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||parisianmacao.bet^
+||suning.fit^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -3501,6 +3513,7 @@ ubmcmm.baidustatic.com
 ||panel-cn.com^
 ||papa9394.com^$third-party
 ||papa999.xyz^
+||parisianmacao.bet^
 ||pay838.com^
 ||pcmzn.com^
 ||pdsjycm.com^
@@ -5546,6 +5559,7 @@ _yad_jsonp_
 ||alicdn.com/imgextra/i1/3491683832/TB2A4QaisjI8KJjSsppXXXbyVXa_
 ||alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_
 ||alicdn.com/kf/*.gif$domain=tzfile.com
+||alicdn.com/kf/H23e4be4c556744c4bef772eb0ad9d938G.jpg
 ||alicdn.com/kf/H4fa310799bf04b33803900c0f629094bQ.jpg
 ||alicdn.com/kf/H8105709d8ee745139cfd5affe30a9d719.jpg
 ||alicdn.com/kf/H9df22b1c3f0041b2874ddfd38836993em.gif
@@ -8495,6 +8509,7 @@ _yad_jsonp_
 ||sozi.cn/images/tj/hukead.gif
 ||sozi.cn/images/tj/szdown
 ||sozi.cn/templets/sozi/js/js.js
+||speedtest.cn/api/v2/showpic?
 ||speedtest.cn/assets/images/ce_
 ||sportscn.com/js/commerical
 ||sportsv.net/dist/ads/
@@ -9466,14 +9481,16 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||speedtest.cn/api/v2/showpic?
-||alicdn.com/kf/H23e4be4c556744c4bef772eb0ad9d938G.jpg
+||zlyk.com^*/ysapp.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-tophub.today##.ax
-sm.ms##.advertising_1
-sm.ms##.advertising_2
-3dmgame.com##A[onclick="goxiazai()"]
+poxiaotv.com##video[onclick]
+chinaz.com###loc.Mnav-right02
+chinaz.com###topTxt
+chinaz.com###setPbottomMedia
+chinaz.com###setHomeTonglanCMedia
+chinaz.com##.header-media__text
+jiumodiary.com###forum-panel
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -11325,6 +11342,8 @@ aicoin.net.cn,bccn.net,hkepc.com,iviewui.com##.advertisement
 chinacar.com.cn##.advertising
 10086.cn##.advertisingOther_img
 speedtest.cn##.advertisingSpace
+sm.ms##.advertising_1
+sm.ms##.advertising_2
 ifeng.com##.advmark
 afzhan.com,cngold.org,hbzhan.com,panjin.net,qq.com,tongxiang.net##.advs
 it165.net##.advyello
@@ -11410,6 +11429,7 @@ yangmaodang.org##.autumn-single-bottom-a-d
 yangmaodang.org##.autumn-single-top-a-d
 liba.com##.avdert1190
 dcloud.net.cn##.aw-ad-item
+tophub.today##.ax
 yam.com##.axdBox
 kknews.cc,read01.com##.axslot
 tophub.today##.axx
@@ -13996,6 +14016,7 @@ frdic.com,godic.net##a[onclick*="/ads/"]
 pcsoft.com.cn##a[onclick*="_ad"]
 caibaojian.com##a[onclick*="aliyun"]
 caibaojian.com##a[onclick*="aly"]
+3dmgame.com##A[onclick^="goxiazai"]
 jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 fixdown.com##a[onclick^="count_down"]
 52pk.com##a[onclick^="ga"]
@@ -14197,7 +14218,6 @@ oschina.net##div[data-traceid*="_ad_"]
 oschina.net##div[data-tracepid="question_detai_above"]
 zhihu.com##div[data-type="ad"]
 le.com##div[data-type="bottomLayerView"]
-zhihu.com##div[data-za-detail-view-path-is_ad]
 weibo.com##div[feedtype="ad"]
 heirui.cn##div[id$="MASK"]
 mail.126.com,mail.163.com##div[id$="_AdDiv"]
@@ -15633,6 +15653,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > di
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > style[id^="s-"] + div[id]:nth-child(2)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > style[id^="s-"] + style + div[id]:nth-child(3)
 baidu.com###content_right > div > div[id^="m"]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###con-ar > .result-op[mu*="nourl.ubs.baidu.com"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > div[id][data-click^="\7b \"fm"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > div:not(#con-ar):not([class])
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > table
@@ -15702,7 +15723,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 /\.(?:com|com\.cn|cn|cc|net|org|me|tv)\/[0-9a-z]{9,}\.js/$script,domain=023up.com|2345.com|388g.com|962.net|baixing.com|danzhou8.com|diyju.com|doutula.com|downxia.com|duanmeiwen.com|dxsbb.com|ecar168.cn|egouz.com|epinv.com|ershenghuo.com|fh21.com.cn|ganji.com|gaokao.com|gexing.me|geyanw.com|glook.cn|guangyuanol.cn|gxscse.com|h4.com.cn|hunanweishi.cn|ichong123.com|ijq.tv|imdb.cn|iplaysoft.com|jb51.net|jiancai365.cn|jiankang.com|jianke.com|jing55.com|jsyst.cn|jucanw.com|juqingba.cn|juzimi.com|kj-cy.cn|kuaidiwo.cn|kukuw.com|laobanfa.com|lc123.net|lcdushi.com|lux88.com|lz13.cn|managershare.com|mfcad.com|mi168.com|mmyuer.com|mnw.cn|mobanwang.com|muchong.com|mumujita.com|nanrenwo.net|newxue.com|nipic.com|pai-hang-bang.com|pingguolv.com|qbaobei.com|qeo.cn|qianzhan.com|qinghua5.com|qqjay.com|rising.cn|sanwen8.cn|sbar.com.cn|sdsgwy.com|shangxueba.com|shouyihuo.com|shuaijiao.com|sj33.cn|southmoney.com|sumiaowang.com|techweb.com.cn|thn21.com|tom61.com|tongxiehui.net|tupian1.cn|tvsou.com|ubaike.cn|uc129.com|vccoo.com|vipyl.com|vodjk.com|vvvdj.com|wenku.baidu.com|wenzhangba.com|wiki8.com|wufangbo.com|xijucn.com|xilu.com|xiziwang.net|yac8.com|yangshengtang123.com|ybjk.com|yesky.com|yiluzouhao.com|yinhang123.net|yishuzi.com|ykit.cn|youth.cn|yxlady.com|yzmg.com|zbyw.cn|zhev.com.cn|zw3e.com
 /\.js\?[a-z]+=[a-z]+$/$script,domain=china.cn|faxingsj.com|gouchezj.com|gushiwen.org|iask.sina.com.cn|jandan.net|jianbihua.org|jintang114.org|juqingba.cn|km.com|meishichina.com|mrcjcn.com|oh100.com|phb123.com|piaoliang.com|qqtn.com|t262.com|tianqi.com|unjs.com|wesiedu.com|ximizi.com|xinjunshicn.net|xinshipu.com|xuexila.com|yjbys.com|zaojv.com|zgjm.org|zhongyao1.com|zqnf.com
 ?*=*=*=$subdocument,domain=00cha.com|01fy.cn|06ps.com|08160.cn|0s.net.cn|10000xing.cn|100how.com|1010jiajiao.com|1024sj.com|11467.com|114piaowu.com|120ask.com|16xx8.com|192ly.com|1ppt.com|1ting.com|201980.com|21hubei.com|23yy.com|256.cc|263y.com|2hanju.com|2liang.net|315hyw.com|32r.com|32xp.com|360changshi.com|360doc.cn|360zuowen.com|39.net|4aqq.com|5000yan.com|515fa.com|51edu.com|51sxue.com|51test.net|51zxw.net|52wubi.com|52zxw.com|59wz.com|5djiaren.com|5h.com|5nd.com|5seestar.com|5tps.com|66law.cn|7k7k.com|7y7.com|800400.net|86huoche.com|8794.cn|911cha.com|91jucai.com|91zhongkao.com|949949.com|9553.com|99.com.cn|9939.com|9ht.com|ab126.com|admin5.com|aihami.com|aiyangedu.com|aizhan.com|ankangwang.com|annhe.net|apple886.com|arpun.com|askci.com|aspku.com|atobo.com|b2b168.com|b2b6.com|babihu.com|baicaolu.net|baotang5.com|baoxianzx.com|bbdj.com|bendibao.com|bianzhile.com|blog.sina.cn|boosj.com|bu-shen.com|bytravel.cn|c1km4.com|chajiaotong.com|chazidian.com|china.com|chinacar.com.cn|chinakaoyan.com|chinawj.com.cn|chuiyue.com|cidianwang.com|cjcp.com.cn|cnbanbao.cn|cncn.com|cnkang.com|cnlinfo.net|coozhi.com|cr173.com|csai.cn|cyyangqiguan.com|d17.cc|d1xz.net|daquan.com|dayfund.cn|dgzj.com|diangon.com|ditiezu.com|diyifanwen.com|dugoogle.com|eastday.com|enterdesk.com|exam58.com|fangdaijisuanqi.com|faxingzhan.com|friok.com|fun48.com|game234.com|gaosan.com|gaotie.cn|guancha.cn|gucheng.com|gugu5.com|guidaye.com|gulongbbs.com|gushiwen.cn|hc23.com|hqhot.com|huangye88.com|hxnews.com|hydcd.com|icauto.com.cn|idongde.com|isanxia.com|ixinwei.com|jeasyui.net|jf258.com|jianbihua.com|jianbihuadq.com|jinbaodm.com|jingdianlaoge.com|jy135.com|kdslife.com|latiaozixun.net|liuxue86.com|m.douban.com|makepolo.com|mama.cn|meishij.net|mipcache.bdstatic.com|miyudaquan.com|nanhuwang.com|pansoso.com|pctowap.com|pig66.com|pikacn.com|pingguolv.com|pingshu8.com|ppzuowen.com|qcrx.cn|qcwxjs.com|qizuang.com|qm120.com|qncye.com|qqzhi.com|quwenqushi.com|riji.cn|riji100zi.com|rr95.com|ruiwen.com|sc115.com|shadafang.com|shangc.net|shenchuang.com|souid.com|ssqzj.com|szdushi.com.cn|szhk.com|tvmao.com|uzuzuz.com|vswang.com|weather.com.cn|webshu.net|wenkuxiazai.com|wenshenxiu.com|wmxa.cn|woyaogexing.com|xiachufang.com|xiangha.com|xiao84.com|xiaole8.com|xiegw.cn|xywy.com|xzbu.com|yanyue.cn|yaozui.com|yellowurl.cn|yiqig.cn|yiyouliao.com|yuwenmi.com|yxad.com|yyrtv.com|zanyiba.com|zdface.com|zhifure.com|zhongyoo.com|zixuntop.com|ziyuanm.com|zjbiz.net|zuowen8.com|zuowenku.net|zuowenwang.net|zuoyesou.com|zybus.com
-||mm.jbzj.com^
 ###bd-hl-content
 ###container > #pic_container
 ###container > .item.title_normal
@@ -16260,6 +16280,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||mg.glwxw.net^
 ||milk.yesky.com.cn^
 ||mipujia.com^$third-party
+||mm.jbzj.com^
 ||mo-tuo.com^
 ||mountain.zhidao.baidu.com^
 ||mpb1.iteye.com^
@@ -16770,6 +16791,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||libs.baidu.com^$domain=138txt.com|18xs.org|1biqu.com|1kanshu.cc|230book.com|23hh.com|23txt.com|23wxx.com|258zw.com|266ks.com|27xsw.com|2baob.com|30sy.com|33yq.com|365book.net|37zw.net|39shubao.com|3yt.com|52biquge.com|58xs.com|5ccc.tw|78zw.com|81zw.me|99mk.com|99shumeng.net|aikantxt.la|aomolit.com|balingtxt.com|baoshuu.com|biduo.cc|biqiuge8.com|biqubao.com|biqudu.tv|biquga.com|biquge.com.cn|biquge.info|biquge.lu|biquge.tv|biquge11.com|biquge18.co|biquge6.com|biquge98.com|biqugecd.com|biqugego.com|biqugemm.com|biqugesc.com|biquku.la|biqusan.com|biquyi.com|bixia.org|biyuwu.cc|bodekang.net|boluoxs.com|bookbao.org|booktxt.net|botaodz.com|bqkan.com|bshuku.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|clewx.com|dashenxiaoshuo.com|day66.com|ddxs.cc|ddxsku.com|dushuge.net|farpop.com|gdbzkz.com|guaili.org|hatxt.com|hbfie.org|hehuamei.com|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hybiquge.com|imiaobige.com|ishisetianxia.com|ixiatxt.com|ixs.la|ixuanquge.com|jianlaixiaoshuo.com|jinshulo.com|jx.la|kkbiqu2.com|liewen.la|lindiankanshu.cc|liudatxt.com|lwtxt.net|lwxstxt.com|mhtwx.la|mubige.com|paoshu8.com|pfwx.com|piaotianxs.com|ppskw.com|qbxs8.net|qianrenge.cc|qiqint.la|qq717.com|quledu.net|qushuba.com|rmxs8.com|shu008.com|shuhaiwu.com|shumil.co|shuquge.com|siluke.tv|skyzww.com|soxscc.com|tangsanshu.com|tpszw.com|ttzw.tv|txshuku.net|tycqxs.com|u33.me|uidzhx.com|v63xs.com|vipxs.la|wanwenhui.com|wenxuem.com|wrlwx.com|x23us.me|x81zw.com|xaixs.org|xbiquge.la|xbiqugecc.com|xbiqugew.net|xbiquke.com|xbqge.net|xcmxsw.com|xdingdiann.com|xieyixs.com|xinshuhaige.com|xinxs.la|xs222.co|xs5200.com|xs98.com|xsbiqu.com|xsbiqugew.com|xsqishu.com|xsw55.com|xszww.com|xuehong.cc|xuehongxs.com|xyusk.com|yawenb.com|yikanxiaoshuo.com|yq-888.com|yruan.com|yssm.info|yunxs.com|zbzw.la|zhnxcw.com|zhuaji.org|zwdu.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+||kpirog.com^
 bxwx666.org###addiv3
 bxwx666.org###bdstatic
 55shuba.com###botDiv
@@ -16778,6 +16800,7 @@ bxwx666.org###bdstatic
 ##.box_con[style="border-radius:10px;background-color:#ff0000;padding:15px;"]
 .ca.bxwx3.org^
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
+##.layui-row[style="border-radius:10px;background-color:#ff0000;padding:15px;margin:15px;margin-right:0px;margin-left:0px;"]
 ##.layui-row[style="border-radius:10px;background-color:#ff0000;padding:15px;margin:15px;"]
 ##.layui-row[style="height:160px;border-radius:10px;background-color:#ff0000;padding:15px;margin:15px;"]
 .m.23txt.com^
@@ -19511,6 +19534,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
+@@||bytedance.com/ttwid/union/register/
 ||hjfile.cn/analytics/site/TrackEvent.js
 !---------------------------------Temporary-----------------------------------!
 ! EasyList Lite
