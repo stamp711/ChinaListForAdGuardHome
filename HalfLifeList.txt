@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202108100813
-! Last Modified: 2021年08月10日 08:13
+! Version: 202108110820
+! Last Modified: 2021年08月11日 08:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1929,6 +1929,7 @@ _xiuno_com_ad/
 .xyz/vs.php?id=$script,third-party
 //s.php?id=$script,third-party
 //vs.php?id=$script,third-party
+/39mqfl/x-
 /99vjj/*$third-party
 /\.com\/[0-9a-z]{2}\/[0-9a-z]{2}\/[0-9a-z]{2}\/[0-9a-z]{32}\.js/$script,third-party
 /adposid/*
@@ -3916,6 +3917,7 @@ ubmcmm.baidustatic.com
 ||uctrac.com^$third-party
 ||ucxgg.com^
 ||ud831d2.com^
+||ud831d4.com^
 ||ue2bm3.cn^
 ||ueadlian.com^$third-party
 ||ufstone.com^$third-party
@@ -14824,8 +14826,7 @@ aeink.com##p[style*=".alicdn.com/"]
 aeink.com##p[style*="82px;background:"]
 itkeyword.com##p[style="line-height:1.4; margin-top:8px; margin-bottom:10px;"]
 isiyuan.net#?##page-list > ul > .layui-row:-abp-has(.ad)
-pcbeta.com#?#div[class]:-abp-properties(height: 169px;*padding-top: 10px;)
-pcbeta.com#?#div[class]:-abp-properties(height: 171px;)
+pcbeta.com#?#div[class]:-abp-properties(/height: (169|171)px;/)
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维码|助教|0 元|报名费|原价/) + p + p > img
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维码|助教|0 元|报名费|原价/) + p > img
 samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
@@ -17922,6 +17923,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||gzts188.com^
 ||gzzena.com^
 ||h4kdxs.com^
+||h728.cn^
 ||habyc.com^
 ||haichengdzsp.com^
 ||haishengwh123.cn^
@@ -18106,6 +18108,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||jgcq3003.com^
 ||jh3pin.com^
 ||jhgff23az.biqugetv.com^
+||jhwt.shop^
 ||jia-huan.cn^
 ||jiachangwuliu.cn^
 ||jiahewine.cn^
@@ -18268,6 +18271,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||lerenzx.cn^
 ||lesanmo.top^
 ||lexph.com^
+||leyxue.cn^
 ||lezengxin.com^
 ||lfdydk.com^
 ||lflable.com^
@@ -18332,6 +18336,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||lusrg.cn^
 ||luxoshopde.com^
 ||luyouxi.cn^
+||lv-xin.cn^
 ||lvkuaizi.com^
 ||lvsechufang.com^
 ||lwlscy.com^
@@ -18641,6 +18646,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||ricqo.com^
 ||rishenglaw.cn^
 ||rjtpos.cn^
+||rmipoz.com/dp.js
 ||rmwdn.com^
 ||rockcoke.cn^
 ||romgv.com^
@@ -19249,6 +19255,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||zc710956.top^
 ||zcand.com^
 ||zdovrb.cn^
+||zdryg.com^
 ||zenwq.com^
 ||zfood029.com^
 ||zgchaye123.com^
@@ -19328,6 +19335,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||zwdu.com/static/scripts/common.
 ||zwhkug.cn^
 ||zwkssb.com^
+||zwrj999.cn^
 ||zwwl.shop^
 ||zwychain.cn^
 ||zxglpj.cn^
@@ -19743,6 +19751,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
 @@||huke88.com^*-tracking.js
+@@||img4399.com/static/huodong/daily/fpv2.js
 @@||ipip.net/ping.php?
 @@||jd.com/setCookie?
 @@||jd.com^*&refer=http$script
@@ -19787,7 +19796,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||udn.com/mall/images/spacer.gif?
 @@||viu.com^*/tracking/tracking.js
 @@||wl.jd.com/joya.js
-@@||img4399.com/static/huodong/daily/fpv2.js
 @@||wl.jd.com/wl.js
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
