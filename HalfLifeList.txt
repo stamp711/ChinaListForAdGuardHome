@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202109200813
-! Last Modified: 2021年09月20日 08:13
+! Version: 202109210812
+! Last Modified: 2021年09月21日 08:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5099,6 +5099,7 @@ _yad_jsonp_
 ||52zy.com/other/js/
 ||5328t.com/js/jquery.js
 ||53shop.com/ime/*.js
+||53shop.com/img/*.js
 ||53shop.com/js/dun.js
 ||543et.com/detail/
 ||5442tu.com/style/ads5442.js
@@ -7217,6 +7218,8 @@ _yad_jsonp_
 ||inhe.net/Uploadfiles/inhegg2016/
 ||inlishui.com/index.php?m=poster&
 ||inoreader.com/adv/$domain=inoreader.com
+||inray.cn/template/conch/asset/js/atop.js
+||inray.cn/template/conch/asset/js/gglms.js
 ||inszu.com/js/qian/
 ||inte.sogou.com^
 ||iocoder.cn/alert/js/alert.js
@@ -13111,6 +13114,7 @@ kaifu.com##.play_fmt
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.play_list_panel
 ifeng.com##.playad
 gimy.tv##.playadbox
+85tube.com##.player + .sponsor
 league-funny.com##.player_bb
 qq.com##.player_bg_ad
 acc39.com##.player_ggw
@@ -15303,6 +15307,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||75.125.41.29:8080/*/
 @@||85po.com^$generichide
 @@||85porn.net^$generichide
+@@||85tube.com/player/player_ads.html
+@@||85tube.com^$generichide
 @@||88box.com/images/ad_images/
 @@||930mh.com/js/config.js
 @@||939394.org/ad-blocker.js
@@ -17244,6 +17250,7 @@ smjb.net##div[style*="height: 50%"]
 xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||01tn.cn^
 ||027whht.com^
+||029mxhs.cn^
 ||0511qsfhknvz.xyz^
 ||0517kongyaji.com^
 ||0518dfgwert.xyz^
@@ -17970,6 +17977,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||ffupiiv.cn^
 ||ffyyfy.top^
 ||fhlong2000.xyz^
+||fhnhkt.cn^
 ||findx2.info^
 ||fintechpi.com^
 ||first11.cn^
@@ -18207,6 +18215,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||hnhgw.cn^
 ||hnjcdjx.com^
 ||hnkuangshan.cn^
+||hnsykly.cn^
 ||hntiantai.cn^
 ||hnwjlhg.cn^
 ||hnxahz.com^
@@ -18530,6 +18539,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||lerenzx.cn^
 ||lesanmo.top^
 ||leslieyu.com.cn^
+||letong.xyz^
 ||lexph.com^
 ||leyxue.cn^
 ||lezengxin.com^
@@ -19023,6 +19033,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||shufan.club^
 ||shumilou.co/style/html5.js
 ||shunxinyuancaiwu.cn^
+||shweiwen.cn^
 ||signstu.top^
 ||simon184.cn^
 ||sinabuy.cn^
@@ -19688,6 +19699,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||zixun8.com^
 ||ziyeaiying.com^
 ||zizcy.com^
+||zjcxyh.cn^
 ||zjjrlx4.com^
 ||zjksgl.com^
 ||zjlfqf.com^
