@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202110220817
-! Last Modified: 2021年10月22日 08:17
+! Version: 202110230813
+! Last Modified: 2021年10月23日 08:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1184,6 +1184,7 @@ _xiuno_com_ad/
 ###aatop[class^="top_box"]
 ###ad > .pre-img
 ###ad-SNSSplashAd
+###ad1[onclick="window.open(this.url)"]
 ###ad6cn
 ###adBody07
 ###adLeftFloat
@@ -2592,6 +2593,7 @@ ubmcmm.baidustatic.com
 ||arrows-hitech.com^
 ||asleyty.com^
 ||assigned.cn^
+||asu05mm.cn^
 ||at98.com^
 ||atanx.alicdn.com^
 ||audit8.com^
@@ -4188,6 +4190,7 @@ ubmcmm.baidustatic.com
 ||wka8.com^
 ||wm-mxc.com^
 ||wmrmb.cn^$third-party
+||wmspw.com^
 ||wnlyjhb.com^
 ||wo19.top^
 ||wo685.com^$third-party
@@ -5402,6 +5405,8 @@ _yad_jsonp_
 ||94994.com*/js/plugin/shoppingMall/
 ||949949.com/2013/end/hot_news.js
 ||94as.com/cxlnb.php
+||94itv.app/casino/
+||94itv.net/f/
 ||9527yy.com/images/02/9527.jpg
 ||9527yy.com/js/data2.js
 ||9553.com/otherhtml/
@@ -10607,6 +10612,7 @@ pianhd.com###myCarousel
 pianyuan.org###myModal
 qqjia.com###myadsL
 xiaoz.me###mygg
+cpnn.com.cn###myimg
 2345.com###mzBrowserWrap
 28188.com,28188.net,yxad.com###nav
 ccav1.com###nav-menu > ul > .menu-item > a[href^="http"]:not([href*="yigujin."])
@@ -12169,7 +12175,7 @@ downza.cn##.downbtn-top
 portablesoft.org##.downcenter
 yxzoo.com##.downgg
 51xiazai.cn,onlinedown.net##.downgs
-3dmgame.com##.downl_L > div[class]:not(.dllist):not(.feedback)
+3dmgame.com##.downl_L > div[class]:not(.downl_list):not(.dllist):not(.feedback)
 3dmgame.com##.downl_L > span[style="display:none;"] + div[class]
 3dmgame.com##.downl_L > style + div
 duote.com##.download-box:first-child
@@ -12842,6 +12848,8 @@ bt.cn##.left_wrap:nth-child(3)
 hkwb.net##.leftadv2
 hao123.com##.leftbanner
 1024wa.com##.leftd
+cpnn.com.cn##.leftewm
+cpnn.com.cn##.leftgg
 muzhi.baidu.com##.leftnest
 ifeng.com##.leftpopad
 2dfan.com,galge.fun##.leftside-bg
@@ -13360,6 +13368,8 @@ lahoo.ca##.right_multi_banner
 163.com##.right_originalcolumn_ad
 hkwb.net##.rightadv2
 mail.sina.com.cn##.rightbottom
+cpnn.com.cn##.rightewm
+cpnn.com.cn##.rightgg
 tingvoa.com##.rightgood
 muzhi.baidu.com##.rightnest
 portablesoft.org##.rightside > :nth-child(n+2)
@@ -13980,6 +13990,7 @@ tzfile.com##.wp-image-2738
 1point3acres.com##.wp.a_t
 141hongkong.com##.wp.at
 bestcclm.com##.wp.cl > a
+xixilt.com##.wp.cl[style="width:1200px;"]
 tropica.cn##.wp1.a_t
 cangjige.net##.wp[style="height:36px;padding-top:15px;"]
 tui18.com##.wp[style^="width:"]
@@ -15993,15 +16004,15 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
-18comic.org,18comic.vip,18comic1.art###guide-modal
-18comic.org,18comic.vip,18comic1.art##.modal-backdrop
+18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
+18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
-18comic.org,18comic.vip,18comic1.art##a[href*=".taobao.com"]
-18comic.org,18comic.vip,18comic1.art##a[href^="http"]:not([href*="18comic."]) > img
-18comic.org,18comic.vip,18comic1.art##div[data-height="250"][data-width="300"]
-18comic.org,18comic.vip,18comic1.art##div[data-height="264"][data-width="956"]
-18comic.org,18comic.vip,18comic1.art##div[style^="position: fixed; top:"]
-18comic.org,18comic.vip,18comic1.art##img[style*="300px"]
+18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
+18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
+18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="250"][data-width="300"]
+18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
+18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
+18comic.org,18comic.vip,18comic1.art,18comic2.art##img[style*="300px"]
 ||18comic.*/iframe
 ||18comic.*/static/resources/files/*0x
 ||18comic.*/static/resources/images/168/
@@ -16632,6 +16643,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||g.gegeyingshi.com^
 ||g1.pptair.com^
 ||g1.taijuba.com^
+||ga1.3dmgame.com^
 ||gccode.gongchang.com^
 ||gcw*.2liang.cn^
 ||gdyjs.com^
@@ -17673,6 +17685,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||autobedo.com.cn^
 ||awtks.com^
 ||awyys.com^
+||axcdy.cn^
 ||axfrb.cn^
 ||axfvv.cn^
 ||axizb.cn^
@@ -18334,6 +18347,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||haitv.top^
 ||haixingou.shop^
 ||haiyinsiwang.com^
+||hami-china.xyz^
 ||hanhaiedu.tech^
 ||hanmiyong.com^
 ||hanqingstudio.com^
@@ -18801,6 +18815,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||lglady.cn^
 ||lgygy.cn^
 ||lhcqbim.cn^
+||lhyang.top^
 ||lianfuhuang.cn^
 ||liangzimo.ltd^
 ||lianjikeji.cn^
@@ -18892,6 +18907,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||lyjz001.com^
 ||lylifa.com^
 ||lynmo.cn^
+||lyytc.cn^
 ||lz-legal-aid.cn^
 ||lzhyhy.cn^
 ||lzjsjw.cn^
@@ -19048,6 +19064,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||nongfumg.com^
 ||nongjingly.com^
 ||nongzhifu.cn^
+||northbase.club^
 ||nosensor.cn^
 ||notepade.top^
 ||nouzhu.cn^
@@ -19991,6 +20008,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||ywqpgy.com^
 ||yxhxs.com^
 ||yxsnf.cn^
+||yybnk.cn^
 ||yyeks.com^
 ||yyhqch.com^
 ||yyjj.xyz^
