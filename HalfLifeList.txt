@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202111150815
-! Last Modified: 2021年11月15日 08:15
+! Version: 202111160814
+! Last Modified: 2021年11月16日 08:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3664,6 +3664,7 @@ ubmcmm.baidustatic.com
 ||mjx123.com^
 ||mlddvji.cn^
 ||mlt01.com^
+||mltp.com^
 ||mm-cgnews.com^
 ||mngjrn.cn^
 ||mnxtu.com^
@@ -6676,6 +6677,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||dyguo.com/pc/*0.js
 ||dyguo.com/pc/nr336.js
 ||dyjqd.com/images/js/dyjqd.js
+||dymmt.com/skin/mzitu/js/foot.
 ||dysitecdn.com/gg
 ||dysitecdn.com^*.php
 ||dytt.com/oj.js
@@ -17603,6 +17605,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||3dshoppingwall.com^
 ||3hbox.com^
 ||3yai2u.cn^
+||46rib.cn^
 ||4excel.cn^
 ||4ggame8.com^
 ||4htixb.cn^
@@ -17883,6 +17886,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||baiyongbei.xyz^
 ||baizb.com^
 ||banfk.com^
+||banfz.com^
 ||bangdu2.com^
 ||bangxin.xyz^
 ||banma51.cn^
@@ -17916,6 +17920,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||bei7.clewx.com^
 ||beifmu.com^
 ||beitd.com^
+||beiwm.com^
 ||beizhoujt.cn^
 ||benfkw.cn^
 ||bentengcn.com^
@@ -17923,6 +17928,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||benybw.cn^
 ||betohomeall.com^
 ||better-better.com.cn^
+||betylife.com^
 ||bgtrtv.top^
 ||bhyddc.com^
 ||bian123.icu^
@@ -18315,6 +18321,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||engpeng.cn^
 ||enihongo.cn^
 ||ens-sh.cn^
+||epzpzmg.cn^
 ||eq984.cn^
 ||etfuxd.cn^
 ||etongxs.com/mb/meng/
@@ -18386,11 +18393,13 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||kanglaijd.cn^
 ||kbtsogi.cn^
 ||ke94.com^
+||kershop.ren^
 ||khuokpj.cn^
 ||ki47.com^
 ||ki74.com^
 ||kjhzwvq.cn^
 ||kjtol.cn^
+||kkpqhqu.cn^
 ||koooa.net^
 ||kszhmzp.cn^
 ||kukulm.com^
@@ -18408,6 +18417,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||m5xy0v.cn^
 ||maclwangluokeji.cn^
 ||maoxilucai.cn^
+||mcix.cn^
 ||mgnb.xyz^
 ||mhtky.cn^
 ||mineral-water.cn^
@@ -18420,6 +18430,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||n258.cc^
 ||nbpyfog.cn^
 ||ndfdwrg.cn^
+||ngogmbe.cn^
 ||nh738.cn^
 ||nmgpd.com^
 ||none-test.com^
@@ -18437,6 +18448,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||p09diw3.cn^
 ||pcshijie.cn^
 ||pflhnpu.cn^
+||picbfnc.cn^
 ||pj16t.cn^
 ||poedlov.cn^
 ||powerchase.online^
@@ -18539,8 +18551,10 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||yingxunkeji.net^
 ||yjwl.ltd^
 ||yncjsc.cn^
+||yougouquanqiu.xyz^
 ||yuanwei.ltd^
 ||yumingdan.top^
+||yushuha.com^
 ||z-xiao.xyz^
 ||zcmnffq.cn^
 ||zdzk0371.cn^
@@ -20600,9 +20614,8 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||zzssywh.cn^
 ||zzxhx.com^
 !LikeNovels
-@@||meizitu.net/mfiles/m.js$domain=m.mzitu.com
-|http:$script,third-party,xmlhttprequest,domain=m.733.so|m.mzitu.com|m.umei.cc
-|https:$script,third-party,xmlhttprequest,domain=m.733.so|m.mzitu.com|m.umei.cc
+|http:$script,third-party,xmlhttprequest,domain=m.733.so|m.umei.cc
+|https:$script,third-party,xmlhttprequest,domain=m.733.so|m.umei.cc
 !#onemanhua.com
 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=cocomanga.com|cocomanhua.com
 @@.com/js/ad_/ad1.js$domain=cocomanga.com|cocomanhua.com
