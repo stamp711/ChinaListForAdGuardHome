@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202112120817
-! Last Modified: 2021年12月12日 08:17
+! Version: 202112130816
+! Last Modified: 2021年12月13日 08:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -502,6 +502,7 @@ reachmax.cn
 scorecardresearch.com
 tencentmind.com
 xtgreat.com
+mail.qq.com,bilibili.com#@#+js(ra, target, a[target][href^="/"])
 @@||g.w.bilicdn1.com/$script,domain=bilibili.com
 bilibili.com##.ad-report, .ad-floor
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
@@ -2647,6 +2648,7 @@ ubmcmm.baidustatic.com
 ||aeoprw.cn^
 ||afj0.com^
 ||afjlb.com^
+||afrazanna.com^
 ||agathaedith.com^
 ||agilehw.online^
 ||agrantsem.com^$third-party
@@ -6753,6 +6755,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||etest8.com/js/158/infojs/
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
+||ettoday.net/ad/*_action.js
 ||ettoday.net/banners/
 ||ettoday.net/events/ad-tab/
 ||ettoday.net/funfuntrip/
@@ -13447,6 +13450,7 @@ hoteastday.com##.reloadMedia1
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##.result-op[tpl="game-page-platform"]
 baidu.com##.result-op[tpl="pc-education-fs"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##.result-op[tpl="right_game_recommend"]
+baidu.com##.result-op[tpl="sp_hot_sale"]
 tbtdg.com##.reveal-modal-bg
 rfidworld.com.cn##.rfidADClass
 acfun.cn##.right-activity
@@ -17946,6 +17950,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||baizbw.cn^
 ||bamcsfm.com^
 ||banfk.com^
+||banfs.com^
 ||banfz.com^
 ||banfzw.cn^
 ||bang8.org.cn^
@@ -17957,6 +17962,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||bantf.com^
 ||banwb.com^
 ||banwm.com^
+||banwt.com^
 ||banxf.com^
 ||banxfw.cn^
 ||banzd.com^
@@ -18254,6 +18260,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||cqerbihou.com^
 ||cqgya.com^
 ||cqlijie.cn^
+||cqnpfyb.cn^
 ||cqshaseng.com^
 ||cqut.ltd^
 ||cqxykj.com.cn^
@@ -18506,6 +18513,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||hardiness.top^
 ||hbeqnte.cn^
 ||hbggcm.com^
+||hbhdyn.club^
 ||hbscjh.cn^
 ||hbxxw.vip^
 ||hcvhhj.cc^
@@ -18548,6 +18556,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||iprpe.cn^
 ||irzwlux.cn^
 ||ivchui.cn^
+||ivwvvtr.cn^
 ||ixiang.club^
 ||jajiz.cn^
 ||jbdz.shop^
@@ -18658,6 +18667,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||n258.cc^
 ||nbpyfog.cn^
 ||ndfdwrg.cn^
+||neudata.cloud^
 ||nggdwfz.cn^
 ||ngogmbe.cn^
 ||nh738.cn^
@@ -18683,6 +18693,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||olkptgo.cn^
 ||onpta.cn^
 ||oofsg.cn^
+||opbtc.cn^
 ||oqqtvgm.cn^
 ||orizwud.cn^
 ||ovdolnb.cn^
@@ -18692,6 +18703,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||oy240.cn^
 ||ozfbbwy.cn^
 ||p09diw3.cn^
+||paishuiban.ltd^
 ||pazppsim.cn^
 ||pcbwdhd.cn^
 ||pcshijie.cn^
@@ -18843,6 +18855,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||wangbo.group^
 ||wangcm01.top^
 ||wangl903.com^
+||wangyh.icu^
 ||wanzikeji.com^
 ||wduwvjd.cn^
 ||wecmaym.cn^
@@ -18905,6 +18918,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||yaznkj.cn^
 ||ybsyyh.com^
 ||ychbgss.cn^
+||yckpdr.com^
 ||yclhtech.cn^
 ||ydgege.xyz^
 ||yidcd.cn^
@@ -18943,6 +18957,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||zkczbti.cn^
 ||zkrmeml.cn^
 ||zllhtz.cn^
+||zlys.store^
 ||zongjiangc.top^
 ||zongjiangd.top^
 ||zpairql.cn^
