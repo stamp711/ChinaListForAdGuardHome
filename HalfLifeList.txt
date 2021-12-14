@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202112130816
-! Last Modified: 2021年12月13日 08:16
+! Version: 202112140816
+! Last Modified: 2021年12月14日 08:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2087,6 +2087,8 @@ ubmcmm.baidustatic.com
 ##a[href*=".xlgqy.com/"]
 ##a[href*=".xrzzk.com/"]
 ##a[href*=".xxmh667.com/"]
+##a[href*=".xxmh735.com/"]
+##a[href*=".xxmh779.com/"]
 ##a[href*=".yabo414.com"]
 ##a[href*=".yabo816.com"]
 ##a[href*=".yabo824.com"]
@@ -3598,6 +3600,7 @@ ubmcmm.baidustatic.com
 ||lm.35.com^$third-party
 ||lm245.com^
 ||lm335.com^
+||lm342.com^
 ||lm343.com^
 ||lm465.com^
 ||lm663.com^
@@ -4304,6 +4307,7 @@ ubmcmm.baidustatic.com
 ||wofan.net^$third-party
 ||wojiabaoye.com^
 ||wootwood.com^
+||wotufeiye.com^
 ||wowips.com^
 ||wowostar.cn^
 ||wqzyt.net^$third-party
@@ -12327,6 +12331,7 @@ fuyang.net##.eis_fbox_980
 playno1.com##.eis_mtm[style="border-top:1px dashed #CDCDCD;padding-top:10px; padding-bottom:15px"]
 backchina.com##.eis_subnav_area
 winning11cn.com##.eis_topad
+subaibai.com##.el-dialog__wrapper
 unikoshardware.com##.elementor-popup-modal
 eprice.com.tw##.emome-ad
 firefoxchina.cn##.engine-jokes
@@ -12585,7 +12590,7 @@ sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
 32r.com,xue51.com##.gsbtn
 32r.com##.gscbtn
 32r.com##.gsdbtn
-yxdown.com##.gsdown
+xitongcheng.com,yxdown.com##.gsdown
 33lc.org,cncrk.com,kxdw.com##.gsdt
 jb51.net##.gsdw
 vpsdx.com##.gsfha3-form
@@ -14003,7 +14008,7 @@ baidu.com##.under-tips
 autohome.com.cn##.union-ad-placeholder
 rijutv.co##.union-list-item
 baidu.com##.union-tg
-ilxdh.com##.v-modal
+ilxdh.com,subaibai.com##.v-modal
 baidu.com##.v-s-tuiguang-wrap
 vuetifyjs.com##.v-sponsors
 steamstats.cn##.v-window
@@ -17830,6 +17835,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||aiyalife365.cn^
 ||aiyun.club^
 ||aiyyu.com^
+||ajiekeji.club^
 ||ajiez.com^
 ||akozxay.cn^
 ||alibdm.xyz^
@@ -17840,6 +17846,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||alicpd.top^
 ||aligiao.info^
 ||alilaspa.cn^
+||alimama.link^
 ||aliweimeng.top^
 ||aliyoo999.com^
 ||aliyune.xyz^
@@ -17918,6 +17925,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||ayazsth.cn^
 ||ayun.ltd^
 ||b00.xyz^
+||b04.xyz^
 ||b0432.cn^
 ||b2b5.net^
 ||b2xy4m.xyz^
@@ -17936,6 +17944,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||baijiangyurong.top^
 ||bailequan.net.cn^
 ||bailinghealth.cn^
+||baimb.com^
 ||baimbw.cn^
 ||bairentou.com.cn^
 ||baisb.com^
@@ -17951,6 +17960,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||bamcsfm.com^
 ||banfk.com^
 ||banfs.com^
+||banfw.com^
 ||banfz.com^
 ||banfzw.cn^
 ||bang8.org.cn^
@@ -18028,6 +18038,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||bhxqyeyy.cn^
 ||bhyddc.com^
 ||bian123.icu^
+||bianpin.pw^
 ||bianxianwu.com^
 ||bigcooa.xyz^
 ||bigcoob.xyz^
@@ -18382,6 +18393,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||dlyukun.cn^
 ||dlzxjk.cn^
 ||dmpsj.cn^
+||dmsyinm.cn^
 ||dnfkong.com^
 ||dnjszp.cn^
 ||dodolive.cn^
@@ -18545,8 +18557,10 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||iehtzdq.cn^
 ||ifc-edu.cn^
 ||ih740.cn^
+||iiiuuu.top^
 ||iipbuas.cn^
 ||il133.cn^
+||ilgze.cn^
 ||ilmwi.cn^
 ||ilyjmpg.cn^
 ||imspecial.club^
@@ -18572,6 +18586,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||jinyihui.vip^
 ||jiuji.ltd^
 ||jiujiinc.top^
+||jktshare.icu^
 ||jl1130.com^
 ||jlbz.club^
 ||jmdardu.cn^
@@ -18661,7 +18676,9 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||mphbvtw.cn^
 ||mprgbyn.cn^
 ||mpzls.cn^
+||mryang.cloud^
 ||msiqhvl.cn^
+||muyijia.shop^
 ||mxxgs.cn^
 ||myyuye.club^
 ||n258.cc^
@@ -18721,6 +18738,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||propsad.com^
 ||ptujvmq.cn^
 ||puuuwqk.cn^
+||puwxbcb.cn^
 ||pvxymnz.cn^
 ||pwfhjjh.cn^
 ||pxjafjc.cn^
@@ -18799,6 +18817,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||sxzx.live^
 ||syxwj.cn^
 ||szmjskjx.com^
+||t5wm.cc^
 ||tangxue.me^
 ||taoyouhuiquan.top^
 ||tba4.cn^
@@ -18848,6 +18867,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||vluvpdf.cn^
 ||vnet.ink^
 ||vnlaqu.site^
+||vrtrdvx.cn^
 ||vsznvtt.cn^
 ||vtlddz.cn^
 ||vytxocb.cn^
@@ -18864,6 +18884,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||wfeiso.top^
 ||wgqhwcg.cn^
 ||whhepyd.cn^
+||whsia.cn^
 ||whusihgq.cn^
 ||whwfcm.cn^
 ||whyxqoc.cn^
@@ -18884,6 +18905,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||wxkouem.cn^
 ||wzytop.top^
 ||x7rrjgs.cn^
+||xamap.club^
 ||xcgcwfc.cn^
 ||xcms.shop^
 ||xdfgrew.cn^
@@ -18946,6 +18968,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||zhifoujiaoyu.xyz^
 ||zhonglutang.group^
 ||zhongte62802.cn^
+||zhouyi.cool^
 ||zhouziwang.cn^
 ||zhpfl.cn^
 ||zhuozhongfangshui.cn^
