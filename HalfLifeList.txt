@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202112160815
-! Last Modified: 2021年12月16日 08:15
+! Version: 202112170816
+! Last Modified: 2021年12月17日 08:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3873,6 +3873,7 @@ ubmcmm.baidustatic.com
 ||qpokok.com^
 ||qq4g.cn^$third-party
 ||qqm98.com^
+||qqq123987.site^
 ||qqtx.me^
 ||qs01.cn^
 ||qsart.cn^
@@ -17451,8 +17452,6 @@ $image,third-party,domain=258zw.com
 /xxgg/gzh.js
 /xxgg/pv.js
 /xxgg/xsggs.js
-://*/1*modelBudai*.js$script,third-party,xmlhttprequest
-://*modelBudai*.js?$third-party
 :4433/hm/cdn/static/jq_
 MoBi*.baidu.js$script,third-party
 ##[class][onclick="window.location.href='/api/goapp/'"]
@@ -17830,6 +17829,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||ahzhongzhan.cn^
 ||ai256.top^
 ||aibangzs.com^
+||aifaka.cc^
 ||aifenka.cn^
 ||aifishing.cn^
 ||aiggkj.cn^
@@ -18028,11 +18028,13 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||beifz.com^
 ||beihw.com^
 ||beihzw.cn^
+||beisb.com^
 ||beitd.com^
 ||beiwm.com^
 ||beixbw.cn^
 ||beixcw.cn^
 ||beiyc.com^
+||beiyz.com^
 ||beizhoujt.cn^
 ||beizkw.cn^
 ||beiztw.cn^
@@ -18201,6 +18203,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||chang555.cn^
 ||changhehengqi.com^
 ||chaoge.club^
+||charleslee.cc^
 ||chaxiaoyin.cn^
 ||chayibu.com^
 ||chekeshi.com^
@@ -18550,6 +18553,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||hcvhhj.cc^
 ||hdsjk.cc^
 ||hello211.top^
+||heyi.shop^
 ||hgdnd.cc^
 ||hhfhgf.cc^
 ||hhnvrht.cn^
@@ -18557,6 +18561,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||hnfxhx.xyz^
 ||hnpxsm.com.cn^
 ||hnzhengtongkj.cn^
+||homfen.me^
 ||houmei.ren^
 ||hqcqz2.cn^
 ||hqwrr.cc^
@@ -18694,6 +18699,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||mlgsoji.cn^
 ||mlovem.pw^
 ||mnsd.xyz^
+||moxiaoqihuoguo.com^
 ||mphbvtw.cn^
 ||mprgbyn.cn^
 ||mpzls.cn^
@@ -18824,6 +18830,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||simastudio.cn^
 ||sjmmhhh.cn^
 ||skfqxkk.cn^
+||sltcp.cn^
 ||smncden.cn^
 ||sofseo.cn^
 ||soorbka.cn^
@@ -18892,6 +18899,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||uqjflmw.cn^
 ||usrlock.cn^
 ||vaxgyly.cn^
+||vciayrf.cn^
 ||vcsoat.cn^
 ||viccscxz.cn^
 ||vluvpdf.cn^
@@ -18946,6 +18954,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||xfvbs.cn^
 ||xgsnjl.com^
 ||xiaofashi.top^
+||xiaokeji.club^
 ||xiaolipc.cn^
 ||xiaoxiaoyd.cn^
 ||xiaoyaunbao.club^
@@ -18999,6 +19008,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||zcsdbj.cn^
 ||zdzk0371.cn^
 ||zengwx.cn^
+||zfw.me^
 ||zgystsd.com^
 ||zhifoujiaoyu.xyz^
 ||zhonglutang.group^
