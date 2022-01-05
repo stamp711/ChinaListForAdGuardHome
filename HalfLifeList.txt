@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202201040202
-! Last Modified: 2022年01月04日 02:02
+! Version: 202201050818
+! Last Modified: 2022年01月05日 08:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -459,8 +459,8 @@ tieba.baidu.com##.tuijian-wrap
 ! 乘风 视频广告过滤规则
 v.qq.com,huya.com,dandanzan.top,nunuyy.*##+js(set, RTCPeerConnection, undefined)
 v.qq.com,huya.com,dandanzan.top,nunuyy.*##+js(set, webkitRTCPeerConnection, undefined)
-v.youku.com##.control-phonewatch,#right-title-ad-banner,div.youku-layer-logo
-v.youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
+v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
+v.youku.com##+js(aeld,dblclick,switchFullscreen)
 m.youku.com,v.youku.com##+js(nano-stb, r--,, 0.02)
 !m.youku.com,v.youku.com##+js(cookie-remover, cna)
 atm.youku.com
@@ -482,11 +482,13 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 ||ssports.iqiyi.com/app/$object-subrequest
 show.ssports.com
-qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link
-qq.com##+js(no-xhr-if, /\b(b?trace|beacon)\./)
-qq.com##+js(no-fetch-if, /\b(b?trace|beacon)\./)
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap
+qq.com##+js(no-xhr-if, trace.)
+qq.com##+js(no-fetch-if, trace.)
 qq.com##+js(json-prune,ad,vinfo)
 qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
+qq.com##+js(aeld,pause)
+qq.com##+js(set, Beacon.prototype.fail, null)
 @@||video.qq.com/fcgi-bin/
 ||l.qq.com/lview?
 ||l.qq.com/livemsg?
@@ -495,7 +497,8 @@ qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
 !||v.smtcdns.com/*.tc.qq.com/$media,mp4,domain=new.qq.com
-||ssp.qq.com/static/web/websites/pcnewsplugin/sspad_$script
+!||ssp.qq.com/static/web/websites/pcnewsplugin/sspad_$script
+new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 ||news.ssp.qq.com/app
 miaozhen.com
 reachmax.cn
@@ -1953,6 +1956,7 @@ ubmcmm.baidustatic.com
 ##a[onclick^="_czc."] > .ads
 ##a[onclick^="_czc.push(['_trackEvent', '广告"]
 ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
+##a[style$="2147483647;"][ontouchstart]
 ##a[style="display:inline-block;font-weight:bold;color:#f00;border:1px solid #f00;border-radius:15px;padding:2px 5px 2px 5px;margin:5px 5px 5px 0px;"]
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
 ##body .has-ad
@@ -2746,6 +2750,7 @@ ubmcmm.baidustatic.com
 ||baidutuapi.com^
 ||baiduyoukualiyun.com^
 ||baiduyubaidu.com^
+||baishututuwu.com^
 ||baitaiad.com^$third-party
 ||baitugu.com^$third-party
 ||baiyuandian.cc^
@@ -2962,6 +2967,7 @@ ubmcmm.baidustatic.com
 ||dante2007.com^
 ||daochengwowo.top^
 ||darren01.oss-cn-beijing.aliyuncs.com^
+||darwk.com^
 ||dashaowu.com^
 ||dashet.com^
 ||dazhonghua.cn^
@@ -3030,6 +3036,7 @@ ubmcmm.baidustatic.com
 ||dy886.cn^
 ||dyssir.com^
 ||dyx0878.cn^
+||dyxsmj.net^
 ||dzjzg.com^
 ||dzletao.com^
 ||dzsstye.com^$third-party
@@ -3221,6 +3228,7 @@ ubmcmm.baidustatic.com
 ||haiyunpush.com^
 ||haiyunx.com^$third-party
 ||haizirv.cn^
+||haluo518.com^
 ||handanxinkai.com^
 ||hangoutairbags.com^
 ||hanqidq.com^
@@ -3244,6 +3252,7 @@ ubmcmm.baidustatic.com
 ||hbys66.com^
 ||hbzhenquan.cn^
 ||hbzjht.com^
+||hcbjwt.com^
 ||hcwljy.com^
 ||heaplap.com^
 ||heartshow.cn^$third-party
@@ -3645,6 +3654,7 @@ ubmcmm.baidustatic.com
 ||lolmp4.com^$third-party
 ||longbaojiachen.top^
 ||longchengtg.com^
+||lotpt.top^
 ||lovestyl.com^
 ||lovexia.top^
 ||lpjxzs.com^
@@ -10672,6 +10682,7 @@ hao123.com###layout-guess
 920share.com###layui-layer1
 toolfk.com###layui-layer100001
 1kkk.com,dm5.com###lb-win
+xixicai.top###left-box
 hao.360.com###left-float-animation
 hao.360.com###left-nav-place
 uzshare.com###left-panel
@@ -11925,6 +11936,7 @@ afzhan.com##.bannerAdv
 jiegeng.com,qq.com##.banner_1111
 jiegeng.com##.banner_1212
 aipai.com##.banner_90
+huamu.cn##.banner_Ad
 900.la##.banner_ad1
 xilu.com##.banner_bg
 foodmate.net,ksbbs.com,kshot.com,oschina.net##.banner_box
@@ -12906,6 +12918,7 @@ ylfx.com##.info_logrt
 riaway.com##.info_message_container
 autohome.com.cn##.information-adv
 dzbhdm.com##.inn-nav__placeholder + .poi-container > a[target="_blank"]
+libvio.com##.inner-advertise
 chinabidding.com.cn##.innovate + .layer
 litv.tv##.internal_bn
 4gamers.com.tw##.interstitial-ads
@@ -13193,6 +13206,7 @@ nfuwow.com##.midbgdbox
 timedg.com##.middleCrossAdvertise
 jmbbs.com##.middle_guanggao
 zjhlcp.com##.middle_list
+huamu.cn##.midle-ad-list
 fenghuo.in##.mimi
 6.cn##.min-ad-box
 cnr.cn,jxcn.cn##.min-news-box
@@ -16769,6 +16783,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||bdunion1.suxiazai.com^
 ||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
+||bea-s.dinghuoche.com^
 ||becode.xiao84.com^
 ||beijing.buzhi5.com^
 ||bhaoea.cn^
@@ -17804,6 +17819,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||5703t.cn^
 ||57577.live^$csp=script-src
 ||5807807.com^
+||58tx.xyz^
 ||58zj.cc^
 ||591huishou.cn^
 ||597txt1.com^*.php
@@ -17902,6 +17918,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||aaaw.xyz^
 ||aakkzzz.com^
 ||aau6.xyz^
+||aau8.xyz^
 ||aaz1.xyz^
 ||abblm.com^
 ||abc98.cc^
@@ -18038,6 +18055,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||arts-cloud.net^
 ||asai77.top^
 ||asdead24.club^
+||asdsdvd4.com^
 ||askfsh.cn^
 ||aslro.top^
 ||aspaz.cn^
@@ -18585,6 +18603,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||dmtl.xyz^
 ||dnfkong.com^
 ||dnjszp.cn^
+||dnsri.com^
 ||dodolive.cn^
 ||dohnxnn.cn^
 ||dongdm.cn^
@@ -18617,6 +18636,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||dvtxt.cn^
 ||dvv9dkv.site^
 ||dvzk66.cn^
+||dwjle.cn^
 ||dwr0.cn^
 ||dxbwukm.cn^
 ||dxsh.shop^
@@ -18706,6 +18726,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||genfar.club^
 ||gengsang.me^
 ||gfncg.cn^
+||gggwv.cn^
 ||gh1024.xyz^
 ||gjohvhf.cn^
 ||gk596.cn^
@@ -18733,6 +18754,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||gz5931-llm0.cn^
 ||gzgxbmh.cn^
 ||gzz123.com^
+||haogame.me^
 ||haojun.info^
 ||hardened.top^
 ||hardiness.top^
@@ -18971,6 +18993,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||none-test.com^
 ||ntdddoz.cn^
 ||ntppyc.cn^
+||ntpr.xyz^
 ||nuanqipian.pw^
 ||nveqipk.cn^
 ||nvrkw.cn^
@@ -19047,6 +19070,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||qq163com.cn^
 ||qqqmmm.top^
 ||qqxsnew.com/js/wodenew
+||qscwdv.top^
 ||qujiawan.vip^
 ||quqianlai.cn^
 ||qusiwang.top^
@@ -19055,6 +19079,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||qytkjsz.com^
 ||qzgs99.cn^
 ||rcjww9.xyz^
+||rctxiqx.cn^
 ||rctxsrv.cn^
 ||rctxubn.cn^
 ||rd926.cn^
@@ -19189,6 +19214,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||vciayrf.cn^
 ||vcsoat.cn^
 ||viccscxz.cn^
+||vl665.cn^
 ||vluvpdf.cn^
 ||vnet.ink^
 ||vnlaqu.site^
@@ -19237,6 +19263,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||wuxiqiangheng.com^
 ||wuyoudan.cn^
 ||wuzefei.top^
+||wwddgg.work^
 ||wwshxc.cn^
 ||wxkouem.cn^
 ||wzxzy.icu^
@@ -19357,6 +19384,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||zongjiangd.top^
 ||zpairql.cn^
 ||zqcfdwd.cn^
+||zqofhft.cn^
 ||zqqifh.cn^
 ||zrbl21.cn^
 ||zrwba.cn^
@@ -22849,12 +22877,12 @@ _box_ad_
 ||ydstatic.com/fanyi/fanyi-ad-place/
 ||feedou.com/nzq/style/pc/js/popbig.js
 ||feedou.com/nzq/style/pc/js/zt_bottom.js
-||423down.com^$csp=script-src 'self' * 'unsafe-inline'
 ||nxhh.net/gw/gw.js
 ||kuaishang.com.cn^
 ||docer.org/static/utils/jquery.min.js
 ||terrynow.com^$csp=script-src 'self' * 'unsafe-eval'
 ||kf.qingwk.com^
+||423down.com^$csp=script-src
 !------------------------Specific element hiding rules------------------------!
 qingwk.com##.c-footer-banner
 jingyan.baidu.com##.task-panel-entrance
