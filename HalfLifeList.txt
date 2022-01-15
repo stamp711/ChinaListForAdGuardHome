@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202201140817
-! Last Modified: 2022年01月14日 08:17
+! Version: 202201150817
+! Last Modified: 2022年01月15日 08:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -457,8 +457,8 @@ tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! 乘风 视频广告过滤规则
-v.qq.com,huya.com,dandanzan.top,nunuyy.*##+js(set, RTCPeerConnection, undefined)
-v.qq.com,huya.com,dandanzan.top,nunuyy.*##+js(set, webkitRTCPeerConnection, undefined)
+v.qq.com,huya.com,dandanzan.top,nunuyy1.*##+js(set, RTCPeerConnection, undefined)
+v.qq.com,huya.com,dandanzan.top,nunuyy1.*##+js(set, webkitRTCPeerConnection, undefined)
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 v.youku.com##+js(aeld,dblclick,switchFullscreen)
 m.youku.com,v.youku.com##+js(nano-stb, r--,, 0.02)
@@ -518,10 +518,11 @@ cctv.com,ddrk.me,miguvideo.com##+js(aeld,dblclick,isImmediatePropagationStopped)
 cctv.com###bgAd_div
 ||imall.cctv.com/$subdocument
 bjcathay.com
-pptv.com##div[id^=afp_],div[id$=-afp],#video-download-game,#p-mark
+pptv.com##.advView-two,#p-mark
 synacast.com
 de.as.pptv.com
 ||g.pptv.com/game/$subdocument
+||osswc.pplive.cn/cccms/$image
 pub.funshion.com
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ||video.da.mgtv.com/$media
@@ -591,7 +592,7 @@ haitum.com##.left-content:style(width:77%!important)
 ||haitum.com/template/default/static/js/middle.js^$script
 ||alicdn.com/$image,domain=api.xiaomingming.org
 imomoe.*###adl,#adr
-dandanzan.top,nunuyy.*##.gm-fp-body video:style(max-height:100% !important;height:100% !important)
+dandanzan.top,nunuyy1.*##.gm-fp-body video:style(max-height:100% !important;height:100% !important)
 adx1.com
 ancheonyo.fun
 andcanbere.fun
@@ -2230,6 +2231,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||mcfarland.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -9860,8 +9862,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||hsbianma.com/Ad/
+||guilin-ly.com^*.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+liuxue86.com##.gg
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -17681,6 +17686,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+||alnko.cn^
+||jytc.xyz^
+||uxpolqk.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -17690,6 +17698,12 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||shaiban.wang^
 ||kyle.pub^
 ||xakywl.xyz^
+||rctxwpn.cn^
+||ldogre.top^
+||rctxprz.cn^
+||fpreld.cn^
+||sl00ufi.cn^
+||clfmm.cn^
 ##a[href*=".hxsp331.com"]
 ##a[href*=".jiq339.com/"]
 ##a[href*=".kluvcc.com/"]
