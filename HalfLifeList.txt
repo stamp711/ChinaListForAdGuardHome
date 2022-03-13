@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202203120821
-! Last Modified: 2022年03月12日 08:21
+! Version: 202203130203
+! Last Modified: 2022年03月13日 02:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3460,6 +3460,7 @@ ubmcmm.baidustatic.com
 ||idy666.com^
 ||iee5.com^$third-party
 ||ieecheng.com^
+||ifdvlh.cn^
 ||ifocus.cn^$third-party
 ||ifufen.com^
 ||ijir.cn^
@@ -3558,6 +3559,7 @@ ubmcmm.baidustatic.com
 ||jjz666.cn^
 ||jk939.com^
 ||jkmxy.com^
+||jknrwe.cn^
 ||jktopia.com^
 ||jl027.com^
 ||jljspx.com^
@@ -4811,6 +4813,7 @@ ubmcmm.baidustatic.com
 ||yzaosite.com^
 ||yzbqz.com^
 ||yzh360.com^
+||yzmklm.com^
 ||yzwr588.com^
 ||yzxls.com^$third-party
 ||yzygo.com^
@@ -5317,6 +5320,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||2fzb.com/config/adv.js
 ||2kandy.com/js/123/
 ||2ujj.com/js/bo.js
+||2yjw.com/statics/js/jquery.min.
 ||2zzt.com/file/aliyun
 ||2zzt.com/images/
 ||310v.com/images/lingdai.gif
@@ -7263,6 +7267,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||gtimg.com/edu/pics/hv1/115/26/2077/135063670.png
 ||gtimg.com/ent/final2009/dp_tebu_logo.png
 ||gtimg.com/news/news/2014ad/
+||gtimg.com/newsapp_bt/0/14484060967/641
 ||gtimg.com/newsapp_bt/0/1846661534/641
 ||gtimg.com/newsapp_ls/0/13369140468/0
 ||gtimg.com/newsapp_ls/0/13971120264/0
@@ -9319,7 +9324,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||union.china.com.cn^
 ||union.yihaodian.com^
 ||untitled.dwstatic.com^
-||uoowu.com/a/m_couplet.
+||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
 ||up.hiao.com^
 ||up.qingdaonews.com/up/$object,script
@@ -14372,6 +14377,7 @@ cbmay.com##.widget
 shejidaren.com##.widget-banner
 hao123.com##.widget-hlbar > span
 hao123.com##.widget-topbanner
+2yjw.com##.widget-tops
 didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
 97hj.net##.widget-zfb
 doubibackup.com##.widgetRoller
@@ -17897,10 +17903,6 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
-||bendibao.site^
-||hidanhao.vip^
-||fmei.wang^
-||duilin.me^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -18503,6 +18505,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||beizhoujt.cn^
 ||beizkw.cn^
 ||beiztw.cn^
+||bendibao.site^
 ||benfkw.cn^
 ||bensxw.cn^
 ||bentengcn.com^
@@ -18675,6 +18678,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||cdmcgw.cn^
 ||cdnfjz.com^
 ||cdntlz.cn^
+||cdnuapn.cn^
 ||cdzimeijia.com^
 ||ceai.xyz^
 ||cehbf.com^
@@ -18938,6 +18942,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||dianyingmi1.cn^
 ||diaoda.xyz^
 ||dibyc.com^
+||digrice.xyz^
 ||dingdian.shop^
 ||ditaow.cn^
 ||diuleilou.top^
@@ -18997,6 +19002,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||du9zgx.cn^
 ||duanyu1106.cn^
 ||duier.top^
+||duilin.me^
 ||duluoweiyu.com^
 ||duofulai.vip^
 ||duojixing.com^
@@ -19167,6 +19173,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||flydog.club^
 ||flyleaf.biz^
 ||flyly.cc^
+||fmei.wang^
 ||fmketang.cn^
 ||fnbocll.cn^
 ||fnggukz.cn^
@@ -19500,6 +19507,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||hiba.club^
 ||hica.ren^
 ||hicpic.net.cn^
+||hidanhao.vip^
 ||highter.top^
 ||hihifenxiang.com^
 ||hiibcfr.cn^
@@ -19724,6 +19732,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||iprpe.cn^
 ||ipxjps.cn^
 ||ir2aok.com^
+||irsufth.cn^
 ||iruad.com^
 ||irzeemn.cn^
 ||irzwlux.cn^
@@ -19891,6 +19900,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||joyceglobal.club^
 ||joyjour.xyz^
 ||jpqgxy.com^
+||jqad.vip^
 ||jqcfgnm.cn^
 ||jsboom.cn^
 ||jscvalves.me^
@@ -20651,6 +20661,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||pd3a.cn^
 ||pdfmxsh.cn^
 ||pdkuai.com^
+||pdqgywt.cn^
 ||pdss.xyz^
 ||peiliao-china.com^
 ||pengjunjun.site^
@@ -21150,6 +21161,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||suoooi.cn^
 ||superbao.top^
 ||surls.cn^
+||svcwvx.cn^
 ||svfwer.top^
 ||sviss.top^
 ||svjxuba.cn^
@@ -21482,6 +21494,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||viccscxz.cn^
 ||vicustom.cn^
 ||vik.cx^
+||vike.ink^
 ||vinuxhome.com^
 ||violates.wang^
 ||viphdk.xyz^
@@ -22127,6 +22140,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zdzy.shop^
 ||zengwx.cn^
 ||zenwq.com^
+||zeoknxp.cn^
 ||zfood029.com^
 ||zfw.me^
 ||zgbtw.mobi^
