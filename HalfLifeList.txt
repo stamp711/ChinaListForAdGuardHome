@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202203260822
-! Last Modified: 2022年03月26日 08:22
+! Version: 202203270828
+! Last Modified: 2022年03月27日 08:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -567,6 +567,7 @@ www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
 douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
 ||douyucdn.cn/adxdsp/$image
 wan.douyu.com
+douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 douyu.com,huya.com##a[href^="https://g.wan."]
 huya.com###hy-ad,#hy-ab,#huya-ab
 g.huya.com
@@ -1157,6 +1158,7 @@ youle55.com
 /pop_DJ2010.swf
 /proxy.htm?id=
 /proxy.html?id=
+/public/imgbed/gg/*
 /pushstart.aspx|$subdocument,third-party
 /PushSystem/attached/image/*
 /qd/js/index/bannerTop.
@@ -1854,6 +1856,8 @@ ubmcmm.baidustatic.com
 ##.rtcenter_game
 ##.scupioadslot
 ##.self-gg
+##DIV[style=" max-width:999px;  margin:0 auto;"] > A > IMG[height="60px"]
+##DIV[style=" max-width:998px;  margin:0 auto;"] > A > IMG[height="120px"]
 ##.spon-img[src*=".alicdn."]
 ##.static-a2d
 ##.stui-pannel > .recommend-two
@@ -2271,6 +2275,7 @@ ubmcmm.baidustatic.com
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||00-gov.cn^
+||excsyrv.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -7805,7 +7810,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kikinote.net/iframe
 ||kingkongapp.com^*/web/adv/list?
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
-||kisssub.*/public/imgbed/gg/
 ||kiwi8.top/media/plugins/jquery_confirm/
 ||kkkkdm.com/js/comic-
 ||kkkkdm.com/mg/show
@@ -8114,7 +8118,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||minixiazai.com/others/all_soft.js
 ||minixiazai.com/statics/js/soft/index.js
 ||miniye.xjts.cn^
-||miobt.com/public/imgbed/gg/
 ||mipcdn.com^*/mip-*ad-
 ||mipengine.baidu.com/common?
 ||missevan.com^$domain=jijidown.com
@@ -8803,6 +8806,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||sina.com/ads/
 ||sina.com/assets/js/dart/
 ||sina.com/rm/
+||sinaimg.cn/finance/qihuofarm/
 ||sinaimg.cn/finance/zwy/sidead_
 ||sinaimg.cn/jslib/kuozhanad.js
 ||sinaimg.cn/large/$domain=chakd.com|seehd.so|xclient.info
@@ -17723,8 +17727,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
-||sniglet.online^
-||zjdb2b.wang^
+||iboxs.xyz^
+||untenable.wang^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -17873,8 +17877,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||51teach.club^
 ||51vs.club^
 ||51wxyx.cn^
+||51yusi.xyz^
 ||51zdwy.cn^
 ||52homie.cn^
+||52jimi.top^
 ||52lty.store^
 ||52pipaxing.com^
 ||52tushuo.com^
@@ -18603,6 +18609,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||czxjx.cn^
 ||czxym168.cn^
 ||d-star.xyz^
+||d03.xyz^
 ||d2robot.com.cn^
 ||d3zr5ye.cn^
 ||dacedsfa.cn^
@@ -18723,6 +18730,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||dryraw.vip^
 ||dscloud.ltd^
 ||dsnfun.cn^
+||dsoizkd.cn^
 ||dspdy.cn^
 ||dss8l0f.cn^
 ||dssdr.top^
@@ -19247,6 +19255,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||hnkuangshan.cn^
 ||hnpxsm.com.cn^
 ||hnruisheng.cn^
+||hnsyjaeger.site^
 ||hnsykly.cn^
 ||hnthink.vip^
 ||hntiantai.cn^
@@ -20193,6 +20202,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||nlyekvc.cn^
 ||nlyjs2015.com^
 ||nmctm.cn^
+||nmgch.top^
 ||nmgpd.com^
 ||nmlhkj.com^
 ||nmlysc.wang^
@@ -20751,6 +20761,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||smvip8.cn^
 ||smxay.com^
 ||sngsn.fun^
+||sniglet.online^
 ||snuoen.com^
 ||sofseo.cn^
 ||sogov587.top^
@@ -21813,6 +21824,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ziyeaiying.com^
 ||zizcy.com^
 ||zjcxyh.cn^
+||zjdb2b.wang^
 ||zjjrlx4.com^
 ||zjksgl.com^
 ||zjlfqf.com^
