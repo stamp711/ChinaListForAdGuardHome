@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202204010828
-! Last Modified: 2022年04月01日 08:28
+! Version: 202204020823
+! Last Modified: 2022年04月02日 08:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -492,8 +492,8 @@ qq.com##+js(json-prune,adList.item)
 v.qq.com#@#+js(nosiif,/^/,100)
 qq.com##+js(nosiif,/^/,100)
 !qq.com##+js(set, Beacon.prototype.expo, noopFunc)
-v.qq.com#@#+js(set, Beacon.prototype.fail, null)
-qq.com##+js(set, Beacon.prototype.fail, null)
+!v.qq.com#@#+js(aopr, Beacon.prototype.fail)
+qq.com##+js(aopr, Beacon.prototype.fail)
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 cm.l.qq.com
 ||l.qq.com/lview?
@@ -1996,6 +1996,7 @@ ubmcmm.baidustatic.com
 ##div[id^="ad_thread"]
 ##div[id^="adv-"].adv
 ##div[id^="photo-header-title-content-text-dall"]
+##div[onclick*="?i_code="]
 ##div[onclick*=".leyu"]
 ##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="60px"]
@@ -17773,6 +17774,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||wulongqiyi.com^
+||shenfagg.com^
+||huixiangdou.xyz^
+||twnb.xyz^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -22485,6 +22490,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
+@@||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js
 !---------------------------------Temporary-----------------------------------!
 ! EasyList Lite
 /api/ads?
