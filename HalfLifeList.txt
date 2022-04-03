@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202204020823
-! Last Modified: 2022年04月02日 08:23
+! Version: 202204030825
+! Last Modified: 2022年04月03日 08:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -460,7 +460,7 @@ tieba.baidu.com##.tuijian-wrap
 pan.baidu.com,www.bilibili.com##+js(aeld,ratechange)
 qq.com,huya.com,yy.com,le.com##+js(nowebrtc)
 ||tracker.$xhr,websocket,script,ping
-||p2p.$xhr,websocket,ping
+||p2p.$xhr,websocket,ping,domain=~huya.com
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 v.youku.com##+js(aeld,dblclick,triggerEvent)
 m.youku.com,v.youku.com##+js(nano-stb, r--,, 0.02)
@@ -574,6 +574,7 @@ douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 douyu.com,huya.com##a[href^="https://g.wan."]
 huya.com###hy-ad,#hy-ab,#huya-ab
 g.huya.com
+||msstatic.com/huya/*/p2plib.js$script
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 litix.io
 youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
@@ -640,6 +641,7 @@ youle55.com
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
 -880-80-4.jpg
+.com/json/cctv.json?v=
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -16124,6 +16126,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||online.unionpay.com/ads/$script
 @@||openad.oss-cn-shanghai.aliyuncs.com^$domain=yicai.com
 @@||orientaldaily.on.cc/js/oncc-ad.js
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=xbeibeix.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ozabc.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|dizhishengcheng.com|doitwell.tw|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|numberempire.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|switch520.com|vaptcha.com|wenxuecity.com|xiebruce.top|yabook.org|yodu.org
@@ -16334,7 +16338,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="250"][data-width="300"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
-18comic.org,18comic.vip,18comic1.art,18comic2.art##img[style*="300px"]
 ||18comic.*/iframe
 ||18comic.*/static/resources/files/*0x
 ||18comic.*/static/resources/images/168/
@@ -17778,6 +17781,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||shenfagg.com^
 ||huixiangdou.xyz^
 ||twnb.xyz^
+||autumnleaf.ltd^
+||xazhangshaohui.xyz^
+||ziyunxs.com^
+||cxccm.com^
+||nantongle.com^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
