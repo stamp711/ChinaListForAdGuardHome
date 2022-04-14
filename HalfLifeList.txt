@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202204130826
-! Last Modified: 2022年04月13日 08:26
+! Version: 202204140830
+! Last Modified: 2022年04月14日 08:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -457,7 +457,7 @@ tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! 乘风 视频广告过滤规则
-pan.baidu.com,www.bilibili.com##+js(aeld,ratechange)
+pan.baidu.com,v.qq.com,www.bilibili.com##+js(aeld,ratechange,/^(?!.*?localStorage\.mvPlayRate).*$/)
 qq.com,huya.com,yy.com,le.com##+js(nowebrtc)
 ||tracker.$xhr,websocket,script,ping
 ||p2p.$xhr,websocket,ping,domain=~huya.com
@@ -3661,7 +3661,6 @@ ubmcmm.baidustatic.com
 ||kaixinjiehun.com^$third-party
 ||kakayy.com^$third-party
 ||kanfaxing.com^
-||kangaroobro.com^
 ||kanwby.com^
 ||kbneks00.online^
 ||kc-valves.com^
@@ -7856,6 +7855,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kan98.com/statics/js/k2017/kan98.js
 ||kanbook.net/static/js_union/
 ||kancloud.cn/ad/
+||kangaroobro.com/bn.js
 ||kanguba.com/file/js/main.asp
 ||kanjiantu.com/images/*.gif
 ||kanjuba1.com/js/bbk/
@@ -10890,6 +10890,7 @@ webjx.com###middleimg
 hao123.com###mingzhanresource
 hk.yahoo.com###mntl1
 fanqiangzhe.com###mobile-bottom-ads
+ziyuanwu.com###modules-17
 so.com###mohe-360pic_ext--normal
 so.com###mohe-biu_gouwu > .g-card
 so.com###mohe-etao_shangye
@@ -17846,8 +17847,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
-||lhj.asia^
-||zgnz020.mobi^
+||geili201911.ink^
+||windteam.xyz^
+||xiaotong.pink^
+||jiatu.co^
+||weix.xyz^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -19031,6 +19035,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ffyyfy.top^
 ||fhlong2000.xyz^
 ||fhnhkt.cn^
+||fhnmzqw.cn^
 ||fhthkz.cn^
 ||fighsfg.cn^
 ||fileinput.xyz^
@@ -19165,6 +19170,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||girli.top^
 ||giroud.top^
 ||gjohvhf.cn^
+||gjr.ink^
 ||gk596.cn^
 ||glgelevator.com^
 ||globbiz.cn^
@@ -19503,6 +19509,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||huojugg.com^
 ||huojukk.com^
 ||huojutt.com^
+||huosai.net.cn^
 ||hushenqiquan.com^
 ||huyc.info^
 ||huzalor.cn^
@@ -20005,6 +20012,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||lglady.cn^
 ||lgygy.cn^
 ||lhcqbim.cn^
+||lhj.asia^
 ||lhxwnzht.cn^
 ||lhyang.top^
 ||lianfuhuang.cn^
@@ -20040,6 +20048,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||liupan.asia^
 ||liushuaib.xyz^
 ||liusuqin.fun^
+||liuyangyang.cn^
 ||liuyansha.vip^
 ||liuziqiu.cn^
 ||liuzishen.com^
@@ -20501,6 +20510,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||oycslia.xyz^
 ||oyknmi.cn^
 ||ozfbbwy.cn^
+||ozhbccs.cn^
 ||p09diw3.cn^
 ||paishuiban.ltd^
 ||pajinse.top^
@@ -21980,6 +21990,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zgjjkk.com^
 ||zgncpjyw.cn^
 ||zgnieka.cn^
+||zgnz020.mobi^
 ||zgsxhx.com^
 ||zgwxt.vip^
 ||zgxieshou.com^
@@ -22050,6 +22061,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zhwotai.com^
 ||zhwyjd.cn^
 ||zhxkzss.cn^
+||zhyl.info^
 ||zhylm.cn^
 ||zhywyl.cn^
 ||ziaxlx.cn^
@@ -22523,7 +22535,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/hitCount.$script,domain=on.cc
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com
+@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
 @@||10010.com/mall/common/js/fa.js?referer=
@@ -23624,6 +23636,7 @@ _box_ad_
 ||gdmm.com/api.php?mod=js&bid=2188
 ||jlwz.cn/js/xf*.js
 !------------------------Specific element hiding rules------------------------!
+dm010.com##a[href*=".apk"]
 qianzhan.com##.qqonline
 qianzhan.com##.kfonline2
 csdn.net##.el-dialog__wrapper + .activity
