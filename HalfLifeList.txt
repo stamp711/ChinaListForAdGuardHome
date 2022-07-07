@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202207060835
-! Last Modified: 2022年07月06日 08:35
+! Version: 202207070834
+! Last Modified: 2022年07月07日 08:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -587,7 +587,8 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 91p20.space
 waust.at
 age.tv,agemys.cc##+js(noeval-if, devtoolsDetector)
-||toutiaoimg.com/origin/$image,domain=mgtv1.tv|mgtv.cc|agemys.cc|acgndmku.com|subaibaiys.com
+||toutiaoimg.com/origin/$image,domain=mgtv1.tv|agemys.cc|acgndmku.com|subaibaiys.com
+cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
 dandanzan10.top,nunuyy1.org##+js(set,RTCPeerConnection,null)
@@ -1946,6 +1947,7 @@ ubmcmm.baidustatic.com
 ##.w100b > .m_adv
 ##.wemziguanggao
 ##.wf_ad_block
+##.con_section > .da
 ##.widget-qianhuiji
 ##.widget-topadding
 ##.widget-xlxba
@@ -2026,6 +2028,10 @@ ubmcmm.baidustatic.com
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
 ##a[onclick^="_czc."] > .add
 ##a[onclick^="_czc."] > .ads
+##SCRIPT + A[target="_bank"] > IMG[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
+##img[src*=".jd.com"][style="width:100%;height:70px;"]
+##img[src*=".meituan.net"][style="width:100%;height:70px;"]
+##img[src*=".c-ctrip.com"][style="width:100%;height:70px;"]
 ##a[onclick^="_czc.push(['_trackEvent', '广告"]
 ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
 ##a[style$="2147483647;"][ontouchstart]
@@ -2600,6 +2606,25 @@ ubmcmm.baidustatic.com
 ||miuspzkmn.bar^
 ||nfzplus.com^
 ||badloniop.top^
+||weimeiwangluo.site^
+||scardetect.cn^
+||zhaishanghui.shop^
+||mbveryu.top^
+||hfzq1600.com^
+||kimiaexirteb.com^
+||yiuspekmn.bar^
+||mttty.top^
+##a[href*=".tholikiranam.com/"]
+||colour5.top^
+||666672.xyz^
+||69688qp.com^
+||unpfqc9.com^
+||mqjeut5.com^
+||50039tk.com^
+||6399tp.com^
+||xox8829.com^
+||auwrtou.cn^s
+||xgckudv.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
