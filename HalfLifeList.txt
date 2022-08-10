@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202208090835
-! Last Modified: 2022年08月09日 08:35
+! Version: 202208100829
+! Last Modified: 2022年08月10日 08:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -490,7 +490,7 @@ qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_vi
 qq.com#@#+js(nowebrtc)
 qq.com##+js(json-prune,adList.item)
 !qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-qq.com##+js(aopr, Beacon.prototype.fail)
+!qq.com##+js(aopr, Beacon.prototype.fail)
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 cm.l.qq.com
 ||l.qq.com/lview?
@@ -619,6 +619,7 @@ yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ch-hr12333.com
 cppoc.com
+g1c5.com
 geoparker.net
 jinrongwang.net
 onenews.vip
@@ -3279,6 +3280,20 @@ ubmcmm.baidustatic.com
 ||markson.hk^
 ||xuliglsw.space^
 ||shxr.technology^
+||herky.com.cn^
+||xcmno.xyz^
+||hgkzl.cn^
+||666752.xyz^
+||tuotianxia.top^
+||culiglsm.space^
+||rgbsl.com^
+||yuhuka.cc^
+||51grow.club^
+||666753.xyz^
+||jwtkw2w.cn^
+||xiezhong.club^
+||xkzzyk.cn^
+||okfzopj.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14791,8 +14806,15 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ysapp20.xyz^*.gif
+||ysapp20.xyz/slf120.
+||csx365.com/v
+||csx365.com/h
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+pornlulu.com##.container-fluid > .links
+baidu.com,bdimg.com#?#.thread_item_box:-abp-has(>style)
+baidu.com,bdimg.com#?#.l_post:-abp-has(>style)
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -21037,6 +21059,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||olgame.tw^$generichide
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
+@@||eu4cn.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eu4cn.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|dizhishengcheng.com|doitwell.tw|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|switch520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|yabook.org|yodu.org
@@ -23580,7 +23604,6 @@ _box_ad_
 ||topqualitylink.com^$third-party
 ||yu0123456.com^$third-party
 ! CJX's Annoyance List
-!#include https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
 /template/bingfeng/statics/js/pingbi.js
