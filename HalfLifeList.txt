@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202208110833
-! Last Modified: 2022年08月11日 08:33
+! Version: 202208120830
+! Last Modified: 2022年08月12日 08:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -638,6 +638,7 @@ quandangdang.net
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
 -880-80-4.jpg
+/jquery.24_ef3e.
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -1412,6 +1413,11 @@ ubmcmm.baidustatic.com
 ||ssh.*.com^*!$script,third-party
 !------------------------General element hiding rules-------------------------!
 ###Ad_windows
+##a[target="_blank"][onclick*="广告点击"]
+###toptd.toptd
+###lefttd.lefttd
+###rightd.rightd
+###undertd.undertd
 ###ChapterView > .slide-baidu
 ###Layeraa1
 ###Layeraa2
@@ -2067,6 +2073,7 @@ ubmcmm.baidustatic.com
 ##div[class^="ps_"][value="20"]
 ##div[id][style="position: fixed; bottom: 40%; z-index: 19999 !important; right: 2px;"]
 ##div[id^="a"] > a[target="_blank"][style="margin-top:3px;"]
+##div[id^="a-loading-"] > span
 ##div[id^="ad_thread"]
 ##div[id^="adv-"].adv
 ##div[id^="em"] > a[onclick^="em"][max-width]
@@ -2439,6 +2446,7 @@ ubmcmm.baidustatic.com
 ||3xhmhct.cn^
 ||476bu131.cn^
 ||49468220.com^
+||4jfggh.com^
 ||50039tk.com^
 ||51grow.club^
 ||54askjdklm.xyz^
@@ -2491,6 +2499,7 @@ ubmcmm.baidustatic.com
 ||666749.xyz^
 ||666752.xyz^
 ||666753.xyz^
+||666754.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -2552,6 +2561,7 @@ ubmcmm.baidustatic.com
 ||badloniop.top^
 ||badmniop.top^
 ||baishui.me^
+||bbt114.cn^
 ||bdzkrl.cn^
 ||bengbaly.fun^
 ||beolit.cn^
@@ -2783,6 +2793,7 @@ ubmcmm.baidustatic.com
 ||ifvpetu.cn^
 ||igiene.club^
 ||igtqora.cn^
+||ihvwak.cn^
 ||iirpvchv.cn^
 ||ijre.club^
 ||ikrweb.cn^
@@ -2832,6 +2843,7 @@ ubmcmm.baidustatic.com
 ||kingleo.hk^
 ||kj-gov.cn^
 ||kjbyuguv12.com^
+||kjshenghuo.com^
 ||kkggy.top^
 ||klj4rw.site^
 ||kltnnxb.cn^
@@ -2851,6 +2863,7 @@ ubmcmm.baidustatic.com
 ||lacerate.club^
 ||lantian.love^
 ||laura.fun^
+||lcmnyfk.cn^
 ||ldpsfa.com^
 ||letsread.club^
 ||letzgr.cn^
@@ -2860,6 +2873,7 @@ ubmcmm.baidustatic.com
 ||lhpzz.love^
 ||lianliankanms.top^
 ||ling07.icu^
+||lingke02.xyz^
 ||lingke03.top^
 ||lingke05.top^
 ||liutt.online^
@@ -2871,6 +2885,7 @@ ubmcmm.baidustatic.com
 ||lmcraft.pw^
 ||lomo.cool^
 ||lorlsblh.cyou^
+||lptssbs.cn^
 ||lqqrvip.cn^
 ||ltht.tech^
 ||luotuoma.center^
@@ -2960,6 +2975,7 @@ ubmcmm.baidustatic.com
 ||okmjd.com^
 ||olwsx.com^
 ||onekeyedu.com^
+||oorlsblk.cyou^
 ||opxnwz.shop^
 ||oqfdan.cn^
 ||orientalocean.mobi^
@@ -2990,6 +3006,7 @@ ubmcmm.baidustatic.com
 ||pnrqz.xyz^
 ||pnslejs.cn^
 ||pongsone.uno^
+||porlsbll.cyou^
 ||ppcwzry.cn^
 ||pqfgtp.cn^
 ||prjwqs.xyz^
@@ -3026,6 +3043,7 @@ ubmcmm.baidustatic.com
 ||qsxfsp.shop^
 ||razasot.cn^
 ||rbioclv.cn^
+||renfs.xyz^
 ||rengbali.fun^
 ||renxinghuan.com^
 ||rgbsl.com^
@@ -3147,6 +3165,7 @@ ubmcmm.baidustatic.com
 ||uogrvci.cn^
 ||uongsona.uno^
 ||uongsono.uno^
+||uorlsblg.cyou^
 ||uquholhm.cn^
 ||urwnsq.xyz^
 ||uu99k.com^
@@ -3232,6 +3251,7 @@ ubmcmm.baidustatic.com
 ||xmgdgo.cn^
 ||xmsrd.com^
 ||xn--gov-x68dy61b.shop^
+||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xnxonbf.cn^
 ||xox8829.com^
 ||xox8863.com^
@@ -3251,6 +3271,7 @@ ubmcmm.baidustatic.com
 ||xywy.name^
 ||xyxhtyy.cn^
 ||xzwk.hk^
+||yanping521.vip^
 ||yanyuda.xyz^
 ||yaomuzhubao.com^
 ||yctrs.top^
@@ -3260,6 +3281,7 @@ ubmcmm.baidustatic.com
 ||yeyuly.love^
 ||yhz18.com^
 ||yihoo.biz^
+||yijiachen.cn^
 ||yimi1818.xyz^
 ||yinxi888.com^
 ||yiuspekmn.bar^
@@ -3274,6 +3296,7 @@ ubmcmm.baidustatic.com
 ||yuhuka.cc^
 ||yular.cn^
 ||yuliglsd.space^
+||yumnxwvd.ink^
 ||yuretb.site^
 ||yuvvddt.cn^
 ||yvajogj.cn^
@@ -3292,6 +3315,7 @@ ubmcmm.baidustatic.com
 ||zhe8000.pw^
 ||zhetoutiao.top^
 ||zhoudm.love^
+||zhouxingyu.xyz^
 ||ziyuanyinhang.wang^
 ||zjgjzzy.online^
 ||zkgvsoo.cn^
@@ -3308,14 +3332,14 @@ ubmcmm.baidustatic.com
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
-||uorlsblg.cyou^
-||porlsbll.cyou^
-||oorlsblk.cyou^
-||ihvwak.cn^
-||lptssbs.cn^
-||lcmnyfk.cn^
-||yanping521.vip^
-||lingke02.xyz^
+||rvbztg.cn^
+||worlsbld.cyou^
+||kefu3254.cn^
+||wy520.love^
+||kefuxt2022.cn^
+||krurkex.com^
+||iorlsblj.cyou^
+||cclw.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -13463,7 +13487,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||phpstudyimg.com/all/hrl.gif
 ||phpstudyimg.com/all/renrenxiaxuan980.gif
 ||phpstudyimg.com/all/xiaojieqiantie.gif
-||pianba.tv/api/*.js
 ||pianjicdn.com^*.php
 ||pianyuan.org/zfb.
 ||piaodown.com/xtm/
@@ -14832,6 +14855,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||atmcdn.com/www/*.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -17238,7 +17262,7 @@ caixin.com##.course_box
 meishij.net##.cp_body_right
 baidu.com##.cpc-adv-container
 makepolo.com##.cpc_tgs
-pianba.tv##.cpcad
+pbpb.tv##.cpcad
 zuoye.baidu.com,zybang.com##.cpro
 docin.com##.cpro_mod
 qq.com##.cps_inner
@@ -20058,7 +20082,7 @@ secretmine.net##div[id^="secre-"]
 mjzj.com##div[id^="sidebar-top-carouse"]
 douyu.com##div[id^="sign_p_"]
 suizhoushi.com##div[id^="sznew_ad"]
-dmh8.com,pianba.tv##div[id^="test"]
+dmh8.com##div[id^="test"]
 ottawazine.com##div[id^="text-"]
 e0575.cn##div[id^="tid_"]
 baidu.com##div[id^="toast"]
