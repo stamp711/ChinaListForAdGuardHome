@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202208290835
-! Last Modified: 2022年08月29日 08:35
+! Version: 202208300838
+! Last Modified: 2022年08月30日 08:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1427,6 +1427,7 @@ ubmcmm.baidustatic.com
 ###ZAML
 ###\31 280_adv
 ###\31 x1_container.float-banner-footer
+###__long_gg_container
 ###aafoot.top_box
 ###aafoot[class^="top_box"]
 ###aaheadtop
@@ -1542,7 +1543,6 @@ ubmcmm.baidustatic.com
 ###lovexin13
 ###lovexin14
 ###lovexin2
-###__long_gg_container
 ###lt-ad-radio
 ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
 ###mainbody:nth-child(5) > .mylist
@@ -2084,8 +2084,8 @@ ubmcmm.baidustatic.com
 ##div[onclick*="?i_code="]
 ##div[onclick^="window"][style^="position"]
 ##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:983px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:983px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##dl#listwoBox
 ##img#adv1
@@ -2455,6 +2455,7 @@ ubmcmm.baidustatic.com
 ||23539355.com^
 ||2i0da8u7.cn^
 ||2ppgsmeh.cn^
+||2r45.cn^
 ||32258228.com^
 ||354664.top^
 ||3dcn.me^
@@ -2536,6 +2537,7 @@ ubmcmm.baidustatic.com
 ||666774.xyz^
 ||666775.xyz^
 ||666776.xyz^
+||666779.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||745c.cn^
@@ -2567,6 +2569,7 @@ ubmcmm.baidustatic.com
 ||ahfy.me^
 ||ahh6.cn^
 ||ahp28.site^
+||ahp29.site^
 ||aihkjz.cn^
 ||aimtxb.cn^
 ||aizhigu.tv^
@@ -2670,6 +2673,7 @@ ubmcmm.baidustatic.com
 ||clzw.cyou^
 ||cmbpdk.cn^
 ||cmgjqqu.cn^
+||cmntjzf.cn^
 ||cncnails.net^
 ||cnglish.site^
 ||codegeass.site^
@@ -2770,6 +2774,7 @@ ubmcmm.baidustatic.com
 ||fjlpyz.cn^
 ||flsfzr.cn^
 ||fmzxing.pw^
+||fomwvqu.cn^
 ||fool.ink^
 ||frbcmq.cn^
 ||freebuy.top^
@@ -2898,6 +2903,7 @@ ubmcmm.baidustatic.com
 ||ialmwof.cn^
 ||iceplant.hk^
 ||iczgls.cn^
+||id5a.top^
 ||idkdoxp.cn^
 ||ifczkst.cn^
 ||ifdcvns.cn^
@@ -2922,6 +2928,7 @@ ubmcmm.baidustatic.com
 ||ishoutu.net^
 ||it5s.top^
 ||itbwq.xyz^
+||itdcrmv.cn^
 ||itnxqd.xyz^
 ||itnxxa.xyz^
 ||iuliglsh.space^
@@ -2956,12 +2963,14 @@ ubmcmm.baidustatic.com
 ||jquery-cdn.cc^
 ||jrnrpma.cn^
 ||jrysogsia.uno^
+||juhn.cn^
 ||juhuiguoji.wang^
 ||juhuitongcheng.life^
 ||juringupstage.com^
 ||jvpook.cn^
 ||jwoglda.top^
 ||jwtkw2w.cn^
+||jxlida.ink^
 ||jyuyjxx.cn^
 ||k31bpzf.xyz^
 ||k3uihu.xyz^
@@ -3002,6 +3011,7 @@ ubmcmm.baidustatic.com
 ||kvhcc.com^
 ||kwdgudw.cn^
 ||kwjfoeq.cn^
+||kwogldd.top^
 ||kzecc.com^
 ||l14.xyz^
 ||l45.xyz^
@@ -3209,6 +3219,7 @@ ubmcmm.baidustatic.com
 ||pstdzxu.cn^
 ||ptenwy.cn^
 ||ptnxa.xyz^
+||pv8n.cn^
 ||pvzdrx.cn^
 ||pwqtkap.cn^
 ||pxfeiws.cn^
@@ -3440,6 +3451,7 @@ ubmcmm.baidustatic.com
 ||vflzdrv.cn^
 ||vgrovkb.cn^
 ||vhlret.cn^
+||vieldeold.xyz^
 ||visualtravel.info^
 ||viswcnb.cn^
 ||viuspbkmn.bar^
@@ -3591,7 +3603,9 @@ ubmcmm.baidustatic.com
 ||ymyh.club^
 ||ynyyczx.cn^
 ||yoqrbof.cn^
+||youkan.shop^
 ||youthlaw.name^
+||yrlyjc.cn^
 ||yrqwnc.cn^
 ||yrrcc.top^
 ||yswphit.cn^
@@ -3627,6 +3641,7 @@ ubmcmm.baidustatic.com
 ||zisafniq.space^
 ||ziyuanyinhang.wang^
 ||zjgjzzy.online^
+||zjsdsports.cn^
 ||zkgvsoo.cn^
 ||zkqfrti.cn^
 ||zlgame.top^
@@ -3638,6 +3653,7 @@ ubmcmm.baidustatic.com
 ||zovgdpj.cn^
 ||zp1999.online^
 ||zq2h2.com^
+||zrysogsiq.uno^
 ||zsgwed.cn^
 ||zujilife.online^
 ||zuliglsa.space^
@@ -3652,12 +3668,15 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
-||fomwvqu.cn^
-||kwogldd.top^
-||itdcrmv.cn^
-||cmntjzf.cn^
-||id5a.top^
-||ahp29.site^
+||gkspde.cn^
+||swogldb.top^
+||caiyeml.pw^
+||ppjipuk.cn^
+||lrysogsil.uno^
+||pjewriw.top^
+||666782.xyz^
+##a[href*="/9716t.com"]
+||vcawmm.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -13966,6 +13985,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||qiyipic.com/zongyi/fix/runningman20141008_bg02.jpg
 ||qiyipic.com/zongyi/fix/runningman20141008_bg03.jpg
 ||qiyun.org/images/js/*.htm
+||qiyushangmao.top/public/1/plugins/js/common/plugins/jquery/jquery.dataTables.
 ||qk6.org/file/script/
 ||qksapp.net/gif/
 ||qlogo.cn^$domain=250dgj.ga
@@ -14676,10 +14696,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||win0168.com/images/item.gif
 ||win2008.info/gongyi.gif
 ||windows.net/732d.js
-||windows7en.com/d/imgs/pic/huoting_
-||windows7en.com/images/
-||windows7en.com/static/images/xiaobai_
-||windows7en.com/statistics/statistics.js
 ||winning11cn.com/temp/*.gif
 ||winning11cn.com/temp/bifen/
 ||winvvv.com^$subdocument
@@ -15179,7 +15195,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||qiyushangmao.top/public/1/plugins/js/common/plugins/jquery/jquery.dataTables.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -15350,7 +15365,6 @@ xunyingwang.com###adModalLabel
 asmag.com.cn###adRightFix
 baidu.com###adTitleRight
 sina.com.cn###ad_blk_fixed
-windows7en.com###ad_btm_down
 gdmm.com###ad_cover
 udn.com###ad_curtain
 gpcxw.com###ad_dl
@@ -15837,7 +15851,6 @@ aishs.top###frameu9916W_left > .block:nth-child(-n+6)
 wendangxiazai.com###ft_hb
 gamemei.com###ft_right_bottom
 w3school.com.cn###fttg
-windows7en.com###fu_box_logo
 uotan.cn###fuck-ads
 cnyes.com###full_ad-popup
 cnyes.com###full_ad-screen
@@ -15915,7 +15928,7 @@ javhope.com###havhope
 chaidu.com,kdslife.com###hb
 macd.cn###hbad
 coolaler.com###hd
-jrlt6.com###hd + .wp
+jrlt7.com###hd + .wp
 gdmm.com###hd > .wp > .module
 hackhw.com,ithome.com###hd_float
 ithome.com###hd_float1
@@ -15984,7 +15997,6 @@ baidu.com###index_banner_top
 zongheng.com###index_game
 qiyeku.com###index_gg
 sm.cn###index_haodongxi
-windows7en.com###index_long_first
 baidu.com###index_right_float
 baidu.com###index_right_top
 ijiandao.com###index_top_ad
@@ -19849,6 +19861,7 @@ qyun.vip##a[href*="/ad."]
 chuandong.com,instrument.com.cn##a[href*="/ad/"]
 xitek.com##a[href*="/adclick"]
 bjnews.com.cn##a[href*="/ads/"]
+freedidi.com##a[href*="/bittly.cc"]
 techug.com##a[href*="/eee.html"]
 galacg.me##a[href*="/game"]
 55188.com##a[href*="/gg-link."]
@@ -19954,7 +19967,7 @@ szjjzs.com##a[href^="/pic/tiao/"]
 chinacsbs.com##a[href^="/plus/view.php?aid="]
 96weixin.com##a[href^="/show/ads/"]
 fx112.com##a[href^="/union."]
-jrlt6.com##a[href^="ad."]
+jrlt7.com##a[href^="ad."]
 ixinshijue.com##a[href^="http"] > img[src*=".pstatp."]
 boniu123.cc##a[href^="http"] > img[src*="/bn_"]
 yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/abc/"]
@@ -20408,7 +20421,7 @@ mjzj.com##div[id^="sidebar-top-carouse"]
 douyu.com##div[id^="sign_p_"]
 suizhoushi.com##div[id^="sznew_ad"]
 dmh8.com##div[id^="test"]
-ottawazine.com##div[id^="text-"]
+freedidi.com,ottawazine.com##div[id^="text-"]
 e0575.cn##div[id^="tid_"]
 baidu.com##div[id^="toast"]
 4c.cn##div[id^="top_ad"]
@@ -20985,6 +20998,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/img/ad_$domain=p9.com.tw|ruten.com.tw
 @@/img_ad/*$domain=tkec.com.tw
 @@/jquery/*$domain=dm530.net|sobooks.cc
+@@/js/prebid-$domain=huruwo.top
 @@/mobileads.$domain=naviking.localking.com.tw
 @@/pic/ad/*$domain=ybjk.com
 @@/pub/ad/*$domain=ruten.com.tw
@@ -21257,6 +21271,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||fltaradio.com/js/ads.js
 @@||forexprostools.com^$domain=shougedui.com
 @@||forum.51nb.com/images/*/
+@@||freedidi.com^$generichide
 @@||friday.tw/backend/uploadpic/adindex/
 @@||fscinda.com/ad/$~third-party
 @@||g.alicdn.com/??*/criteo
@@ -23155,25 +23170,25 @@ t66y.com##.tips
 ||360buyimg.com$domain=28th.cc
 ||alicdn.com^$domain=28th.cc
 !#theporn.cc
-theporn.cc##div > div[align="center"]
-theporn.cc##div[class^="_"]
-69xx.one,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
 theporn.cc###__ads_dp
-theporn.cc##.gg-config
-theporn.cc##.pp > div:not([class])
-theporn.cc##.pp > div[class]:first-child
-theporn.cc##.toolbar-gg
-theporn.cc##.video-player-container > script + div
-theporn.cc##.video_playr_sider
 ###ad-ft
 ###wp > div > #top_banner
 ##.ads > #video_playr_sider
 ##.bottom-gg
+theporn.cc##.gg-config
+theporn.cc##.pp > div:not([class])
+theporn.cc##.pp > div[class]:first-child
 theporn.cc##.pt-70 > div[id]
 ##.pull-right > #video_playr_sider
+theporn.cc##.toolbar-gg
 ##.video-player-container > #player_bottom_banner
+theporn.cc##.video-player-container > script + div
+theporn.cc##.video_playr_sider
+69xx.one,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
+theporn.cc##div > div[align="center"]
+theporn.cc##div[class^="_"]
 ##div[data-gg-zone]
 ||jsdelivr.net/gh/dashange123/
 ||staticporn.cc/static/tmp/
