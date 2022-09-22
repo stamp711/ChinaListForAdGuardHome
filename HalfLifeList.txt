@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202209200836
-! Last Modified: 2022年09月20日 08:36
+! Version: 202209220834
+! Last Modified: 2022年09月22日 08:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -486,7 +486,7 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 ||ssports.iqiyi.com/app/$media,object-subrequest
 show.ssports.com
-qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
 qq.com#@#+js(nowebrtc)
 qq.com##+js(json-prune,adList.item)
 !qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
@@ -2578,6 +2578,7 @@ ubmcmm.baidustatic.com
 ||69688qp.com^
 ||6dkl1vb.site^
 ||6fxo.icu^
+||6onm.fun^
 ||7080ys.top^
 ||745c.cn^
 ||777753.net^
@@ -2804,6 +2805,7 @@ ubmcmm.baidustatic.com
 ||dcfh7vk.cn^
 ||dchxxvk.cn^
 ||dczqjfo.cn^
+||ddtx.fun^
 ||deeplearning.red^
 ||dengbalt.fun^
 ||dengteng.me^
@@ -2838,7 +2840,9 @@ ubmcmm.baidustatic.com
 ||dxzky.love^
 ||dyjcydn.cloud^
 ||dzytvcx.cn^
+||ebazhaheiw.top^
 ||eblnzoq.cn^
+||eclczg.cn^
 ||ecudsc.cn^
 ||edzyhx.cn^
 ||eebuwr.cn^
@@ -2854,6 +2858,7 @@ ubmcmm.baidustatic.com
 ||enrosr.cn^
 ||eofemms.cn^
 ||eomlhif.cn^
+||eopa5tepa.icu^
 ||eoyqzzk.cn^
 ||ep6a.top^
 ||epdchc.cn^
@@ -2943,6 +2948,7 @@ ubmcmm.baidustatic.com
 ||gkenql.cn^
 ||gkiyvbk.cn^
 ||gkspde.cn^
+||gl1e.top^
 ||globalso.biz^
 ||gnaunbiu.rest^
 ||gnbunbiv.rest^
@@ -2959,6 +2965,7 @@ ubmcmm.baidustatic.com
 ||gnmunbir.rest^
 ||gnnunbis.rest^
 ||gnounbit.rest^
+||gnrnws.cn^
 ||goasdfa.top^
 ||gocyghol.vip^
 ||gogpix.cn^
@@ -2998,6 +3005,7 @@ ubmcmm.baidustatic.com
 ||hdgzta.com^
 ||healthcare.ink^
 ||hecan123.top^
+||heha2cpoe.icu^
 ||hehehe.buzz^
 ||helilong.xyz^
 ||helloworldisbeautiful.net^
@@ -3042,6 +3050,7 @@ ubmcmm.baidustatic.com
 ||huanleshijie.top^
 ||huodong.press^
 ||hust.cx^
+||huyccuy.cn^
 ||hv740pyh.cn^
 ||hxcrlt.cn^
 ||hxtryby.cn^
@@ -3079,6 +3088,7 @@ ubmcmm.baidustatic.com
 ||ioxjce.xyz^
 ||ipqc5ejfe.icu^
 ||ishoutu.net^
+||isroeiq.cn^
 ||it5s.top^
 ||itbwq.xyz^
 ||itdcrmv.cn^
@@ -3107,6 +3117,7 @@ ubmcmm.baidustatic.com
 ||jd6pq31f.site^
 ||jeproadylabs.com^
 ||jevlcjc.cn^
+||jfzbgzv.cn^
 ||jhkj.work^
 ||jhuvybt.cn^
 ||jiabo.shop^
@@ -3150,6 +3161,7 @@ ubmcmm.baidustatic.com
 ||katlacw.cn^
 ||kcfuzhj.cn^
 ||kd1c.top^
+||kdkwe.xyz^
 ||kdsnw.today^
 ||keentech.top^
 ||kefu3254.cn^
@@ -3324,6 +3336,7 @@ ubmcmm.baidustatic.com
 ||mxuds.xyz^
 ||mxwgt.cn^
 ||my1688.shop^
+||myexpendd.xyz^
 ||mywei.love^
 ||mzhw.xyz^
 ||mzwfrp.cn^
@@ -3371,6 +3384,7 @@ ubmcmm.baidustatic.com
 ||nvqhbij.cn^
 ||nvswnur.cn^
 ||nvzffl.cn^
+||nwadakesc.cyou^
 ||nwogldc.top^
 ||nxlidc.ink^
 ||nxyerol.cn^
@@ -3419,10 +3433,13 @@ ubmcmm.baidustatic.com
 ||ouno.site^
 ||outaiu.cn^
 ||outrepublicanshelf.com^
+||owadakesk.cyou^
 ||owogldk.top^
 ||oxneww.co^
 ||oyecntg.cn^
+||oykmil.cn^
 ||oyybgs.cn^
+||ozqae.xyz^
 ||p4f52tll.cn^
 ||p7ivj09f.xyz^
 ||p7lvj09f.shop^
@@ -3521,6 +3538,7 @@ ubmcmm.baidustatic.com
 ||razasot.cn^
 ||rbgfxxt.cn^
 ||rbioclv.cn^
+||rcswbr.cn^
 ||renfs.xyz^
 ||rengbali.fun^
 ||renxinghuan.com^
@@ -3564,9 +3582,11 @@ ubmcmm.baidustatic.com
 ||rwogldz.top^
 ||rwwfmb.cn^
 ||rxlidz.ink^
+||rxmydyd.cn^
 ||ryjhrqn.cn^
 ||ryumrc.cn^
 ||s9o.co^
+||sbazhaheib.top^
 ||scardetect.cn^
 ||scktmdv.cn^
 ||sdfafds6.com^
@@ -3740,6 +3760,7 @@ ubmcmm.baidustatic.com
 ||utywsi.cn^
 ||uu2e.com^
 ||uu99k.com^
+||uuvtpqi.cn^
 ||uwadakest.cyou^
 ||uwdspsh.cn^
 ||uwogldt.top^
@@ -3792,7 +3813,9 @@ ubmcmm.baidustatic.com
 ||vumnxwvf.ink^
 ||vviikig.cn^
 ||vvpingtai.com^
+||vvsbwny.cn^
 ||vwocvgr.cn^
+||vx2e.top^
 ||vxjcalk.cn^
 ||wangduoduo.pw^
 ||wangjunyan.xyz^
@@ -3808,6 +3831,7 @@ ubmcmm.baidustatic.com
 ||weimeiwangluo.site^
 ||wephone.club^
 ||wfkspcs.cn^
+||wgttjk.cn^
 ||whoican.love^
 ||whpfl.cn^
 ||whxva.com^
@@ -3906,6 +3930,7 @@ ubmcmm.baidustatic.com
 ||xujmcrc.cn^
 ||xuliglsw.space^
 ||xumnxwvw.ink^
+||xuningk.xyz^
 ||xuxjaqp.cn^
 ||xwhhuav.cn^
 ||xxrsxs.cn^
@@ -3916,6 +3941,7 @@ ubmcmm.baidustatic.com
 ||xyxhtyy.cn^
 ||xzwk.hk^
 ||y8ht.xyz^
+||yangchunblog.club^
 ||yanping521.vip^
 ||yanyuda.xyz^
 ||yaomuzhubao.com^
@@ -3936,6 +3962,7 @@ ubmcmm.baidustatic.com
 ||yijiachen.cn^
 ||yimi1818.xyz^
 ||yinxi888.com^
+||yiqiqgmy.cn^
 ||yishuojiaoyu.cn^
 ||yiuspekmn.bar^
 ||yk9s.top^
@@ -4030,12 +4057,14 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
-||owadakesk.cyou^
-||heha2cpoe.icu^
-||huyccuy.cn^
-||isroeiq.cn^
-||yiqiqgmy.cn^
-||gnrnws.cn^
+||dqhxczj.cn^
+||rwadakesz.cyou^
+||dq3e.top^
+||knmnamr.cn^
+||yiop2bace.icu^
+||yeip5aehi.icu^
+||bb-bbjsyuming.cc^
+||lgh2.fun^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -20366,6 +20395,7 @@ ditu.so.com##div[class^="index-adflag-"] + a
 ifeng.com##div[class^="middleAd"]
 msn.cn##div[class^="nativeAd-DS-card"]
 nba.hupu.com##div[class^="nba-ad"]
+sogou.com##div[class^="news-top-banner"]
 weishangshijie.cn##div[class^="news_a"]
 qq.com,sogou.com##div[class^="page-bottom-banner"]
 qq.com,sogou.com##div[class^="page-top-banner"]
@@ -22558,6 +22588,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||lv.myapks.com^
 ||lynr.com^
 ||lyz.radio366.com^
+||m.bjdcfy.net^*.js
 ||m1.100how.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
@@ -23285,8 +23316,8 @@ t66y.com##.tips
 ###toptb + div[align="center"]
 ##.it618_firstad_flex
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#22222"][border="1"]
-||360buyimg.com$domain=28th.cc
-||alicdn.com^$domain=28th.cc
+||360buyimg.com$domain=73thz.com
+||alicdn.com^$domain=73thz.com
 !#theporn.cc
 ###__ads_dp
 ###ad-ft
@@ -24587,6 +24618,7 @@ _box_ad_
 ||kandaju.net/js/js2.
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
 !------------------------Specific element hiding rules------------------------!
+bilibili.com##.adblock-tips
 map.baidu.com###message-panel
 ghxi.com##div[style="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: 99999;background-color: #cc4444;color: #fff"]
 manmanbuy.com##.app-activity-download
