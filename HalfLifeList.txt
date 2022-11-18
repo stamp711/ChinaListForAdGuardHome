@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202211170831
-! Last Modified: 2022年11月17日 08:31
+! Version: 202211180836
+! Last Modified: 2022年11月18日 08:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1126,7 +1126,7 @@ quandangdang.net
 /qiuyi-gg-wrapper-
 /qpxl.js
 /qqlive/conf/playerlottery/*
-/r/*?_r=$object,third-party
+/r/*?_r=$object,subdocument,third-party
 /r/t1/*$subdocument,third-party
 /red2/ad/*
 /remix_banner.gif
@@ -1661,6 +1661,8 @@ ubmcmm.baidustatic.com
 ##.ayx[style^="position: fixed;bottom"]
 ##.baiduad
 ##.banner-ad-section
+##.banner-cctv-A2
+##.banner-cctv-Topping
 ##.bannerliststyle[style^="min-height"]
 ##.bdyp-sygg-ul
 ##.below_ads
@@ -2070,6 +2072,7 @@ ubmcmm.baidustatic.com
 ||516624.com^
 ||51fa.shop^
 ||678tktp.com^
+||6u4j.icu^
 ||828239sam.com^
 ||86o0h.top^
 ||897263tqs.com^
@@ -2086,6 +2089,7 @@ ubmcmm.baidustatic.com
 ||csgw.xyz^
 ||cvbdw.xyz^
 ||cvcddno.cn^
+||dharkyu.cn^
 ||dinyqgv.cn^
 ||dktoo.site^
 ||dsfhr.xyz^
@@ -2109,6 +2113,7 @@ ubmcmm.baidustatic.com
 ||i46.xyz^
 ||iftjwuu.cn^
 ||itheq.xyz^
+||itjew.xyz^
 ||j721s.top^
 ||jiedu.fun^
 ||joh4t.cn^
@@ -2117,17 +2122,22 @@ ubmcmm.baidustatic.com
 ||kba8i.icu^
 ||kcmomkn.cn^
 ||kvtlll.top^
+||kyzx.xyz^
 ||kzngisyd.xyz^
 ||lihuan.store^
 ||ljlg.xyz^
 ||ljrot.icu^
 ||love-yy.company^
 ||lpaysfr.cn^
+||lqnggnsl.fun^
+||lrkporm.cn^
+||lzngisyl.xyz^
 ||lzwdq.xyz^
 ||myproteincn.com^
 ||nhtieoo.cn^
 ||ningsiy.xin^
 ||nisihu.com.cn^
+||npmeingm7.shop^
 ||nveuiqh.cn^
 ||nypswiu.cn^
 ||nzvpewi.cn^
@@ -2138,6 +2148,7 @@ ubmcmm.baidustatic.com
 ||picnewsss.com^
 ||pinkboy.fun^
 ||pothouse.cn^
+||pthezjl.cn^
 ||pyyhkn.com^
 ||qicewar.cn^
 ||qmpkoiv.cn^
@@ -2165,21 +2176,28 @@ ubmcmm.baidustatic.com
 ||v09.xyz^
 ||venulaevavs.com^
 ||wgdacc.com^
+||wglbx.ltd^
 ||wocexaa.cn^
 ||wqnggnse.fun^
 ||wyqaafplm.live^
 ||wzngisye.xyz^
+||xhsrw.xyz^
 ||xinzhanggui.wang^
 ||xpdjsd.cn^
 ||xwdsp.com^
 ||ygcn.ltd^
 ||z66ggsh.top^
 ||zdy1.xyz^
+||ziedwr.com^
 ||zw2b9.cn^
-||lqnggnsl.fun^
-||lrkporm.cn^
-||pthezjl.cn^
-||kyzx.xyz^
+||bqnggnsv.fun^
+||yijfdsu.cn^
+||pjjlbjd.cn^
+||zjws.xyz^
+||q88j2.top^
+||iuerxw.xyz^
+||qdc7y9x.xyz^
+||9795x.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -10132,6 +10150,7 @@ ubmcmm.baidustatic.com
 ||iprefer.com.tw^$third-party
 ||kiees.com^$image,subdocument,third-party
 ||lianmeng.360.cn^$domain=~lianmeng.360.cn
+||lm-zl.oss-accelerate.aliyuncs.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
@@ -13948,6 +13967,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
 ||sansrl.cn/mir300/attachment/portal/
+||saohu*.com/config/json/cctv.json?
 ||sasadown.cn/ad/
 ||sasadown.cn/source/plugin/drk_ledadv/
 ||sass.hk/images/hengfu.jpg
@@ -14330,7 +14350,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||ttavav6.com/zz/
-||tucao.mom/uploadfile/*/300-86.
+||tucao.eu/uploadfile/*/300-86.
 ||tui.gtimg.com//res/
 ||tuicool.com/images/upload/aliyun
 ||tupian55.com^*.gif
@@ -16745,7 +16765,7 @@ weiyun001.com##.agency-list
 wmzhe.com##.aibyte_ad
 moe.best##.alert
 5217kdy1.xyz##.alert-success + center
-eetop.cn##.alert_windows
+eetop.cn,tucao.eu##.alert_windows
 ali213.net##.ali-photo-carousel-pic > li > a[href*=".fhyx."]
 phpvar.com##.aliPic
 sm.cn##.ali_row[ad_aid]
@@ -17672,7 +17692,7 @@ youivr.com##.header-widget-region
 iqiyi.com##.headerLink01
 iqiyi.com##.headerLink02
 jiegeng.com##.header__item--fr
-tucao.mom##.header_rmb
+tucao.eu##.header_rmb
 seehd.so##.header_wrap + .tac + table[align="center"]
 aguitar.cn,guitarchina.com##.headerbanner
 aguitar.cn##.headerbanner2
@@ -19347,6 +19367,7 @@ jitashe.org,mumujita.com##a[href*=".makeding.com/"]
 sina.cn##a[href*=".maozhuar.com"]
 douyu.com##a[href*=".miaozhen.com"]
 iqiyi.com##a[href*=".oppo."]
+6park.com##a[href*=".php?key="]
 zhibo8.cc##a[href*=".rd-game."]
 v.qq.com##a[href*=".renrendai.com"]
 makepolo.com##a[href*=".rong360.com"]
@@ -19395,7 +19416,6 @@ cableabc.com##a[href*="/img1/"]
 ooopn.com##a[href*="/jump.html"]
 ithome.com##a[href*="/lapin."]
 ithome.com##a[href*="/lapin."] + .ad
-6park.com##a[href*="/link.php?key="]
 ikjzd.com##a[href*="/redirect-ad-url?"]
 doubibackup.com##a[href*="/rightad"]
 e0575.cn##a[href*="/showad.php?"]
@@ -20152,6 +20172,7 @@ user.qzone.qq.com##li[id^="fct_20050606_"]
 3g.qq.com##li[id^="feed-omgad-"]
 13mv.com##li[id^="media_image-"]
 rjfcw.cn##li[style*="1200px"]
+zzkdhb.com##li[style*="important;"]
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 m.mydrivers.com#?#.cnewsinfo > p:-abp-has(.f14_link + br + .f14_link)
@@ -20176,6 +20197,7 @@ jb51.net##p[style$="text-align: center; padding: 0px; margin: 20px 0px;"]
 aeink.com##p[style*=".alicdn.com/"]
 aeink.com##p[style*="82px;background:"]
 itkeyword.com##p[style="line-height:1.4; margin-top:8px; margin-bottom:10px;"]
+zzkdhb.com##p[style^="width: 100%; margin: 0px;"]
 isiyuan.net#?##page-list > ul > .layui-row:-abp-has(.ad)
 pcbeta.com#?#div[class]:-abp-properties(/height: (169|171)px;/)
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p + p > img
@@ -21290,6 +21312,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##div[style^="width: 100%;"][style$="overflow: hidden;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="visibility: visible;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="z-index: inherit;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+###app.app > .topic-big
 ###bd-hl-content
 ###container > .item.title_normal
 ###container > .item.title_top
@@ -21530,6 +21553,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||abc2022.ys137.com.cn^
 ||abcd.5lu.com^
 ||abcd.yiq.com^
+||abcd.zle.com^
 ||abcdcfasda.gushiwen.cn^
 ||abcj.dooccn.com^
 ||abds.pingpingw.com^
@@ -21715,6 +21739,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||dail01.wanmeilr.com^
 ||daima.diaoben.net^
 ||daima.ijq.tv^
+||daima.ssata.cn^
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||daiwofei2019.top^
