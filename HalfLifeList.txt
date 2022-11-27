@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202211260826
-! Last Modified: 2022年11月26日 08:26
+! Version: 202211270831
+! Last Modified: 2022年11月27日 08:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -635,6 +635,7 @@ quandangdang.net
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/app/pcBanner/getBannerConfig/v2
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -2067,11 +2068,12 @@ ubmcmm.baidustatic.com
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
-/\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{4}\.js\?[a-z0-9]{10,}/$script,third-party
+/\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
 /\.ahp[0-9]{2}\.site:/$script,third-party
 /\.zdx[0-9]{1,2}\.site:/$script,third-party
 ||23.234.217.11^
 ||23.234.217.12^
+##a[href$="/tv826.com"]
 ##a[href*=".bet365.gdn"]
 ##a[href*="/industrialproductsfind.com"]
 ##a[href*="/ksbz1017.com"]
@@ -2117,6 +2119,7 @@ ubmcmm.baidustatic.com
 ||baiduhaoba.com^
 ||bendan.shop^
 ||bfsqtsn.cn^
+||bjfc.xyz^
 ||bjws.xyz^
 ||bjzb.xyz^
 ||bqnggnsv.fun^
@@ -2165,6 +2168,7 @@ ubmcmm.baidustatic.com
 ||hjgrc.xyz^
 ||hnws.xyz^
 ||hqdfh.mobi^
+||hqqpw.mobi^
 ||hxapafn.cn^
 ||i46.xyz^
 ||iatf16949.pw^
@@ -2198,10 +2202,13 @@ ubmcmm.baidustatic.com
 ||kmjbwejnr.xyz^
 ||knmwrkw.xyz^
 ||koojsc.cn^
+||kq7k.icu^
+||kufmbwm.cn^
 ||kvtlll.top^
 ||kxizloe.cn^
 ||kyzx.xyz^
 ||kzngisyd.xyz^
+||lejso.com^
 ||lgjxw.xyz^
 ||lhare.xyz^
 ||lihuan.store^
@@ -2214,6 +2221,7 @@ ubmcmm.baidustatic.com
 ||lqnggnsl.fun^
 ||lrkporm.cn^
 ||luotuoma.xin^
+||lxrhw.xyz^
 ||lzngisyl.xyz^
 ||lzwdq.xyz^
 ||mbtpzcb.cn^
@@ -2230,6 +2238,7 @@ ubmcmm.baidustatic.com
 ||nveuiqh.cn^
 ||nypswiu.cn^
 ||nzvpewi.cn^
+||oapsmnk.cyou^
 ||odfykc.cn^
 ||oicvvnm.cn^
 ||oivgqnt.cn^
@@ -2240,6 +2249,7 @@ ubmcmm.baidustatic.com
 ||picnewsss.com^
 ||pinkboy.fun^
 ||pjjlbjd.cn^
+||pmcppla.cn^
 ||pothouse.cn^
 ||pthezjl.cn^
 ||ptijx.xyz^
@@ -2248,6 +2258,7 @@ ubmcmm.baidustatic.com
 ||qapsmny.cyou^
 ||qdc7y9x.xyz^
 ||qfgfpi.cn^
+||qganilgly.cyou^
 ||qiangqi.shop^
 ||qicewar.cn^
 ||qmpkoiv.cn^
@@ -2270,15 +2281,19 @@ ubmcmm.baidustatic.com
 ||ruohe.fun^
 ||rzngisyz.xyz^
 ||s4ls9.top^
+||s93isp.top^
+||sapsmnb.cyou^
 ||sbb8w.top^
 ||sganilglb.cyou^
 ||shuaige20221105.xyz^
+||simi1234.com^
 ||sjjk.ltd^
 ||sm3nq.cn^
 ||sqnggnsb.fun^
 ||szngisyb.xyz^
 ||t34kk9.top^
 ||tfaftemail.com^
+||tffytdo.cn^
 ||tian-ting.ink^
 ||toijr.xyz^
 ||tptp001.buzz^
@@ -2328,6 +2343,7 @@ ubmcmm.baidustatic.com
 ||xqcjfcb.cn^
 ||xwdsp.com^
 ||y88m2.top^
+||ycyipha.cn^
 ||yfue99.xyz^
 ||ygcn.ltd^
 ||yijfdsu.cn^
@@ -2345,13 +2361,10 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||sapsmnb.cyou^
-||ycyipha.cn^
-||bjfc.xyz^
-||tffytdo.cn^
-||pmcppla.cn^
-||simi1234.com^
-||lxrhw.xyz^
+||lapsmnl.cyou^
+||vqjxlie.cn^
+||xafc.xyz^
+||aiupiyd.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -18789,6 +18802,7 @@ baidu.com,bdimg.com##.shield-agent-tb-feed
 hao.rising.cn##.shop-site
 teepr.com##.shop-widget
 qiushibaike.com##.shopwindow
+dianyingim.com,dyxs11.com##.shortcuts-m-overlay
 dianyingim.com,dyxs11.com##.shortcuts-mobile-overlay
 ilxdh.com##.show-container
 pixabay.com##.show-gtty-item
@@ -20749,6 +20763,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||95504.net/Advertisement_
 @@||95599.cn^*ad
 @@||99wbwc.com^$generichide
+@@||smsonline.cloud^$generichide
 @@||99ybcc.com^$generichide
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@||9zvip.net^$elemhide
@@ -20963,6 +20978,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||google.sn/translate_$media,third-party,xmlhttprequest
 @@||google.so/translate_$media,third-party,xmlhttprequest
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video$domain=ulifestyle.com.hk
+@@||googleads4.g.doubleclick.net^$domain=renfei.net
 @@||googletagmanager.com/gtag/js?id=$domain=av01.tv
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw
 @@||gooogle.how^$generichide
@@ -21157,6 +21173,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||r3sub.com^$generichide
 @@||redguide.top^*/ad.css?$stylesheet
 @@||regapi.37.com/api/p_register.php?login_account=
+@@||renfei.net^$generichide
 @@||right.com.cn/forum/*300*250$image
 @@||rmdown.com/ads.js
 @@||ruten.com.tw/ahd/fetch_ad.php
@@ -23102,6 +23119,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
+@@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
 @@||huke88.com^*-tracking.js
 @@||img4399.com/static/huodong/daily/fpv2.js
 @@||ipip.net/ping.php?
@@ -24148,6 +24166,8 @@ _box_ad_
 ||3dmgame.com/page/js/indexalert_ad.
 ||nicelinks.site/ad-block-
 !------------------------Specific element hiding rules------------------------!
+iciba.com##div[class^="Kyad_"]
+yahoo.com###module-appPromoBanner
 findlaw.cn###wlcommonbot
 huanqiu.com##.right-box > article-other-template
 3dmgame.com##.dj_warp_e
