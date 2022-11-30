@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202211290831
-! Last Modified: 2022年11月29日 08:31
+! Version: 202211300830
+! Last Modified: 2022年11月30日 08:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -523,7 +523,6 @@ pub.funshion.com
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ad-survey.com
 ||video.da.mgtv.com/$media
-!ys.da.mgtv.com
 ||da.mgtv.com/mediafiles/wiad_creative/$image
 @@||js.tv.itc.cn/gg.seed.js
 ||css.tv.itc.cn/m/img/player/dlBanner.$image
@@ -583,18 +582,18 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 */preroll/$media,domain=91porn.com
 91p20.space
 waust.at
-||btsow.click/app/jav$image
+||btsow.beauty/app/jav$image
 jads.co
 |https://tellme.pw/go/jav$popup
-|https://$script,subdocument,popup,3p,domain=btsow.click|dandanzan10.top|nunuyy3.org|rarbgprx.org
-!btsow.click##+js(aeld, click, popunder)
+|https://$script,subdocument,popup,3p,domain=btsow.beauty|dandanzan10.top|nunuyy3.org|rarbgprx.org
+!btsow.beauty##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
 statsy.net
 @@||dyncdn.me/static/20/js/jquery$script
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
-||toutiaoimg.com/origin/$image,domain=mgtv1.tv|agemys.net|acgndmku.com|subaibaiys.com
+||toutiaoimg.com/origin/$image,domain=mgtv1.org|agemys.net|acgndmku.com|subaibaiys.com
 cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
@@ -607,6 +606,7 @@ aqours.today
 mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
+wpadmngr.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
@@ -2109,6 +2109,7 @@ ubmcmm.baidustatic.com
 ||5ilss.top^
 ||5pe6.fun^
 ||65688qp.com^
+||66668aaa.com^
 ||678tktp.com^
 ||6u4j.icu^
 ||79zxcv.com^
@@ -2119,12 +2120,14 @@ ubmcmm.baidustatic.com
 ||99886aaa.com^
 ||99997aaa.com^
 ||9eu7c.top^
+||abenshishabi.com^
 ||aiedwhb.cn^
 ||aiupiyd.cn^
 ||albyprd.cn^
 ||b4jy.top^
 ||b53.xyz^
 ||baiduhaoba.com^
+||bdhcpll.cn^
 ||bendan.shop^
 ||bfsqtsn.cn^
 ||bjfc.xyz^
@@ -2169,6 +2172,7 @@ ubmcmm.baidustatic.com
 ||fwrpq.cyou^
 ||fypcy.cyou^
 ||fztimyc.cn^
+||gfqfjau.cn^
 ||gfxjjpo.cn^
 ||gkofzfi.cn^
 ||glovemall.cn^
@@ -2189,6 +2193,7 @@ ubmcmm.baidustatic.com
 ||iftjwuu.cn^
 ||ijkqwopm.xyz^
 ||ikjnwd.xyz^
+||ioaiaou.cn^
 ||itheq.xyz^
 ||itjew.xyz^
 ||iuerxw.xyz^
@@ -2255,6 +2260,7 @@ ubmcmm.baidustatic.com
 ||oapsmnk.cyou^
 ||ocive.xyz^
 ||odfykc.cn^
+||oehhq.xyz^
 ||oicvvnm.cn^
 ||oivgqnt.cn^
 ||ok-11-cai.cc^
@@ -2297,12 +2303,14 @@ ubmcmm.baidustatic.com
 ||rqnggnsz.fun^
 ||rss9f.top^
 ||ruohe.fun^
+||rvyjbwr.cn^
 ||rzngisyz.xyz^
 ||s4ls9.top^
 ||s93isp.top^
 ||sapsmnb.cyou^
 ||sbb8w.top^
 ||sganilglb.cyou^
+||shouzhi.biz^
 ||shuaige20221105.xyz^
 ||simi1234.com^
 ||simi2345.com^
@@ -2374,6 +2382,7 @@ ubmcmm.baidustatic.com
 ||yfue99.xyz^
 ||ygcn.ltd^
 ||ygwdai.cn^
+||yhzm.xyz^
 ||yihehe.xyz^
 ||yijfdsu.cn^
 ||ynyikk.com^
@@ -2391,11 +2400,10 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||rvyjbwr.cn^
-||ioaiaou.cn^
-||yhzm.xyz^
-||abenshishabi.com^
-||oehhq.xyz^
+||wxumevd.cn^
+||dfkd.xyz^
+||epfmfqh.cn^
+||qowg.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -21099,6 +21107,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||lnk2.cc^$generichide
 @@||loltmcheck.com/js/ads.js
 @@||macauo2o.com/advertise/
+@@||mail.td^$generichide
 @@||manhua.weibo.com/adv/
 @@||masterkong.com.cn/adimages/
 @@||mcbar.cn^$generichide
