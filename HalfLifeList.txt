@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202301020827
-! Last Modified: 2023年01月02日 08:27
+! Version: 202301030204
+! Last Modified: 2023年01月03日 02:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1907,7 +1907,6 @@ ubmcmm.baidustatic.com
 ##.sxAdBox
 ##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
 ##.tab-content + .col-pd
-##.table_ad
 ##.textadlist
 ##.theme_custom_slidebox-ad-below
 ##.title > .gg
@@ -2891,6 +2890,16 @@ ubmcmm.baidustatic.com
 ||glczys.xyz^
 ||b67.xyz^
 ||yigehong.com.cn^
+||imgopen.vip^
+||snsjiq.xyz^
+||zobesmu.cn^
+||ceoqq.xyz^
+||fxx79.pro^
+||jiaohezhen.com^
+||zzxedr.xyz^
+||xjeevzv.cn^
+||dfpdz.top^
+||shucc.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -10824,7 +10833,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||52dytt.net/images/bbs_btn.gif
 ||52dytt.net/img/zlgg.png
 ||52ghai.com/data/attachment/common/ac/
-||52ghai.com/zz/
+||92ghai.com/zz/
 ||52jingsai.com/images/huanbao
 ||52movieba.com/img/ad
 ||52pk.com/style/files/images/*beitou.
@@ -14878,14 +14887,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||zpgjz.com/cdn/new1/4.gif
 ||zpiyi.com/public/js/global.js
-||zqsx.net/bbs/kehu/
 ||zqzq*.com:*/da.aspx
 ||zrblog.net/zzimg/
 ||zsjjob.com/user/member/google.htm
 ||zsnews.cn/js/adControl-
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
-||zt5.com/statics/img/
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztyumn.ifeng.com^
 ||zuiacg.com/images/client/
@@ -14906,7 +14913,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzc.cn/b1/live_b_
 ||zzidc.com/images/1060.jpg
 ||zzidc.com/uploads/pintuan.jpg
-||zzlzl.com/zb_users/theme/Frozen/style/images/banner/
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
@@ -15932,7 +15938,6 @@ hao.360.cn,hao.360.com###plane-ria
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###plat_recom_carousel > .tbui_slideshow_list
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###platform_left_float
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###platform_spread_video
-zdqx.com###play-gif
 haote.com###playBox
 tingroom.com###play_ggr
 7k7k.com###player-ad
@@ -16476,7 +16481,7 @@ baixing.com##.a_d_s_hidden_link
 17tui.cc,tropica.cn##.a_mu1
 muchong.com##.a_subject[href^="creditshow."]
 163.com##.a_topad
-52ghai.com##.a_xiu_t
+92ghai.com##.a_xiu_t
 ishuhui.com##.a_xx_d
 159i.com##.aa
 porn5f.com##.aa-dd-body
@@ -18286,7 +18291,6 @@ steelcn.cn##.new_fixed
 mtrend.cn##.new_right > .morecontent_next
 mtrend.cn##.new_right > div[style="float:left; width:100%;"]:first-child
 doubibackup.com##.new_zixun
-zt5.com##.newa
 ali213.net##.newright
 sydneytoday.com##.news-list > .row > .col-xs-12
 eastday.com##.news-promote
@@ -19254,7 +19258,7 @@ ifeng.com##.yiyuan
 fx168.com##.yjl_fx168_focus_TodayNews_jiasheng
 9ku.com##.youFix
 ysxs8.vip##.ysxs8_w960_1
-52ghai.com##.yttl_x_g
+92ghai.com##.yttl_x_g
 xiadele.com##.yun-advertisement
 qq.com##.yw-gg-float
 cnlmjx.com##.yw_ad
@@ -19511,7 +19515,6 @@ csdn.net##a[href="//gitbook.cn/new/gitchat/activity?utm_source=csdnblog1"]
 chinanewsx.com##a[href="/about/"]
 ithome.com##a[href="/html/363216.htm"]
 ziqiangxuetang.com##a[href="/j/coding/"]
-ziqiangxuetang.com##a[href="/j/coding/"] + .w-text-red
 bilibili.com##a[href="/video/av8587236/?tg"]
 xc6b.com##a[href="http://61.160.236.52"]
 cari.com.my##a[href="http://banner.cari.com.my/daybanner/?page=promotion"]
@@ -19614,7 +19617,7 @@ ruanyifeng.com##a[href^="https://ke.qq.com/"]
 fun1shot.com##a[href^="https://kenio.cn/"]
 linux.cn##a[href^="https://linux.cn/go/"]
 github.com##a[href^="https://openwrite.cn/"]
-cjjjs.com,cnblogs.com,fastadmin.net##a[href^="https://promotion.aliyun.com/"]
+cjjjs.com,cnblogs.com,fastadmin.net,ziqiangxuetang.com##a[href^="https://promotion.aliyun.com/"]
 hahamx.cn##a[href^="https://s.click.taobao.com/"]
 kkw360.com##a[href^="https://sourl.cn/"]
 dzbhdm.net##a[href^="https://www.dzbhdm.com/news/"] > img[src^="https://www.dzbhdm.com/"]
