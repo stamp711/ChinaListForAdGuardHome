@@ -15,7 +15,7 @@ request({
 }, (error, response, body) => {
     strChinaList = body
     strChinaList = strChinaList.replace(/#.+/g, '')
-    strChinaList = strChinaList.replace(/server=\/(.+)\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/g, '[/$1/]https://dns.alidns.com/dns-query')
+    strChinaList = strChinaList.replace(/server=\/(.+)\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/g, '[/$1/]10\.0\.10\.1')
     strChinaList = strChinaList.replace(/([\s])[\s]*/g, '$1')
     strChinaList = strChinaList.trim()
     fs.writeFileSync(path + 'ChinaList.txt', strChinaList, 'UTF-8')
@@ -25,14 +25,14 @@ request({
     }, (error, response, body) => {
         strGoogleHostsList = body
         strGoogleHostsList = strGoogleHostsList.replace(/#.+/g, '')
-        strGoogleHostsList = strGoogleHostsList.replace(/address=\/(.+)\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/g, '[/$1/]https://dns.quad9.net/dns-query')
-        strGoogleHostsList = strGoogleHostsList.replace('[/localhost/]https://dns.quad9.net/dns-query', '')
+        strGoogleHostsList = strGoogleHostsList.replace(/address=\/(.+)\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/g, '[/$1/]198\.18\.0\.2')
+        strGoogleHostsList = strGoogleHostsList.replace('[/localhost/]198\.18\.0\.2', '')
         strGoogleHostsList = strGoogleHostsList.replace(/([\s])[\s]*/g, '$1')
         strGoogleHostsList = strGoogleHostsList.trim()
         fs.writeFileSync(path + 'GoogleHostsList.txt', strGoogleHostsList, 'UTF-8')
-        strChinaWhiteList = strChinaList + '\n' + strGoogleHostsList + '\nhttps://dns.quad9.net/dns-query\nhttps://dns.cloudflare.com/dns-query\nhttps://dns.google/dns-query'
+        strChinaWhiteList = strChinaList + '\n' + strGoogleHostsList + '\n198.18.0.2'
         fs.writeFileSync(path + 'ChinaWhiteList.txt', strChinaWhiteList, 'UTF-8')
-        strChinaBlackList = strChinaList + '\n' + strGoogleHostsList + '\nhttps://dns.alidns.com/dns-query\nhttps://dns.pub/dns-query'
+        strChinaBlackList = strChinaList + '\n' + strGoogleHostsList + '\n10.0.10.1'
         fs.writeFileSync(path + 'ChinaBlackList.txt', strChinaBlackList, 'UTF-8')
     });
 });
