@@ -15,7 +15,7 @@ request({
 }, (error, response, body) => {
     strChinaList = body
     strChinaList = strChinaList.replace(/#.+/g, '')
-    strChinaList = strChinaList.replace(/server=\/(.+)\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/g, '[/$1/]10\.0\.10\.1')
+    strChinaList = strChinaList.replace(/server=\/(.+)\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/g, '[/$1/]https://dns.pub/dns-query')
     strChinaList = strChinaList.replace(/([\s])[\s]*/g, '$1')
     strChinaList = strChinaList.trim()
     fs.writeFileSync(path + 'ChinaList.txt', strChinaList, 'UTF-8')
@@ -32,7 +32,7 @@ request({
         fs.writeFileSync(path + 'GoogleHostsList.txt', strGoogleHostsList, 'UTF-8')
         strChinaWhiteList = strChinaList + '\n' + strGoogleHostsList + '\n198.18.0.2'
         fs.writeFileSync(path + 'ChinaWhiteList.txt', strChinaWhiteList, 'UTF-8')
-        strChinaBlackList = strChinaList + '\n' + strGoogleHostsList + '\n10.0.10.1'
+        strChinaBlackList = strChinaList + '\n' + strGoogleHostsList + '\nhttps://dns.pub/dns-query\nhttps://dns.alidns.com/dns-query'
         fs.writeFileSync(path + 'ChinaBlackList.txt', strChinaBlackList, 'UTF-8')
     });
 });
