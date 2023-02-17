@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202302160829
-! Last Modified: 2023年02月16日 08:29
+! Version: 202302170832
+! Last Modified: 2023年02月17日 08:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1358,6 +1358,7 @@ ubmcmm.baidustatic.com
 !------------------------General element hiding rules-------------------------!
 ###Ad_windows
 ###ChapterView > .slide-baidu
+###J_sideFooter.side_footer
 ###Layeraa1
 ###Layeraa2
 ###MsnDialog.ad
@@ -1473,6 +1474,7 @@ ubmcmm.baidustatic.com
 ###imgs5[height="60px"]
 ###index_aside_ad
 ###index_content_ad
+newduba.cn###jq_youxi
 ###js-ad-map
 ###js-ysjpp
 ###js_ads_banner_top
@@ -1849,6 +1851,7 @@ ubmcmm.baidustatic.com
 ##.lyzm-prevent
 ##.m1938-container
 ##.m_acmsd
+##.m_hot_rec_box_base[id^="right"]
 ##.main-ad-l
 ##.main-ad-r
 ##.main-ad-r + .topad
@@ -2161,6 +2164,7 @@ ubmcmm.baidustatic.com
 ##a[href*="/x9658.cc"]
 ##div[onclick*="/ky0777.cn"]
 ||045zxnm.com^
+||053h94.com^
 ||07xm.fun^
 ||0s6s0.top^
 ||0vkkf.cn^
@@ -2250,6 +2254,7 @@ ubmcmm.baidustatic.com
 ||creawww.top^
 ||ctoyb.cyou^
 ||cuwuqo.xyz^
+||cwobgp.cn^
 ||cwpbohx.cn^
 ||damhixs.cn^
 ||darzkrx.cn^
@@ -2271,6 +2276,7 @@ ubmcmm.baidustatic.com
 ||doublechen.online^
 ||doubleclicks.biz^
 ||dreanrh.cn^
+||dtckvpc.cn^
 ||dvbuxcl.cn^
 ||dvrnszf.cn^
 ||dxgyl.xyz^
@@ -2281,6 +2287,7 @@ ubmcmm.baidustatic.com
 ||ealooov.cn^
 ||ebpu2.top^
 ||ebzqyow.cn^
+||eijriol.cn^
 ||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekqfkk.xyz^
@@ -2316,6 +2323,7 @@ ubmcmm.baidustatic.com
 ||ggrhsx.cn^
 ||glzniuy.cn^
 ||gomhn.cn^
+||goopi.cyou^
 ||grndhkd.cn^
 ||gskbzle.cn^
 ||guge.red^
@@ -2429,6 +2437,7 @@ ubmcmm.baidustatic.com
 ||looktt.xyz^
 ||lpaehxw.cn^
 ||lpncqju.cn^
+||ltwfd.xyz^
 ||lw0mp.fun^
 ||lwpxhr.xyz^
 ||lymtreg.cn^
@@ -2437,6 +2446,7 @@ ubmcmm.baidustatic.com
 ||mbepa.xyz^
 ||mbqwwa.cn^
 ||mdi5k.cn^
+||meidd.cyou^
 ||mfaec.cn^
 ||mffdn.xyz^
 ||mfwlis.xyz^
@@ -2452,6 +2462,7 @@ ubmcmm.baidustatic.com
 ||mpymea.xyz^
 ||mqquas.xyz^
 ||mryshl.com^
+||musdga.xyz^
 ||mvbtp.xyz^
 ||mvfrcio.cn^
 ||mzwzo.cn^
@@ -2468,6 +2479,7 @@ ubmcmm.baidustatic.com
 ||nqhqpq.cn^
 ||nqxvevk.cn^
 ||nuiekka.cn^
+||nuubi.cyou^
 ||nuyqiolnc.cyou^
 ||nwrazu.cn^
 ||nxxyjn.com^
@@ -2482,6 +2494,7 @@ ubmcmm.baidustatic.com
 ||omhoa.com^
 ||oocie.cn^
 ||opeem.cyou^
+||oqxep.cn^
 ||oronwg.xyz^
 ||oulibf.xin^
 ||owihyg.xyz^
@@ -2541,6 +2554,7 @@ ubmcmm.baidustatic.com
 ||rtycgmz.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
+||rzxov.cn^
 ||s65m.win^
 ||saccac11.com^
 ||sairy.cyou^
@@ -2638,6 +2652,7 @@ ubmcmm.baidustatic.com
 ||wpiwoo.xyz^
 ||wqmgqm.xyz^
 ||wschao.xyz^
+||wsdof.xyz^
 ||wuepo.cn^
 ||wuge20230104.live^
 ||wujiupic.com^
@@ -2654,6 +2669,7 @@ ubmcmm.baidustatic.com
 ||xhjxkgc.cn^
 ||xiaohui668.club^
 ||xibpbov.cn^
+||xinllz.xyz^
 ||xjpphoto.com^
 ||xjpsrb.xyz^
 ||xkhall.xyz^
@@ -2720,14 +2736,16 @@ ubmcmm.baidustatic.com
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||musdga.xyz^
-||oqxep.cn^
-||rzxov.cn^
-||nuubi.cyou^
-||goopi.cyou^
-||meidd.cyou^
-||eijriol.cn^
-||xinllz.xyz^
+||s3sng.cn^
+||pcmtf.cn^
+||meueeq.xyz^
+||fspjjp.xyz^
+||allicinarenig.com^
+||travescorylus.com^
+||anaxialaphonia.com^
+||wooledswards.com^
+||5takaitu.xyz^
+||peoir.cyou^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -12568,7 +12586,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kiees.cn/jm.png
 ||kiees.cn/k1.js
 ||kikinote.net/iframe
-||killcovid2021.com/thumb/*.mp4
+||killcovid2021.com^*.mp4
 ||kingkongapp.com^*/web/adv/list?
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
 ||kiwi8.top/media/plugins/jquery_confirm/
@@ -14347,7 +14365,6 @@ huya.com###J_roomGg2 + a
 taobao.com###J_shopkeeper
 taobao.com###J_shopkeeper_bottom
 uc123.com###J_shoppingPush
-duba.com,iduba.com,newduba.cn###J_sideFooter
 chem99.com###J_tcode
 2345.com###J_tip_stopXP
 61.iqiyi.com,v.61.com###J_videoBox > .view
@@ -15142,7 +15159,6 @@ playno1.com###m2
 playno1.com###m7
 2345.com###m_banner
 2345.com###m_banner_2
-91duba.com,iduba.com###m_hot_rec_main > div > .noLikeList
 chacuo.net###mailtooltipss
 kaka12345.cc###main
 g-years.com,ghoffice.com,gpsuu.com,mydigit.cn###main > .textMes
@@ -17433,6 +17449,7 @@ qq.com##.m[pbflag="guess"]
 foodmate.net##.m[style="height:40px;"]
 myexception.cn##.m_a
 91duba.com##.m_guess_like
+duba.com##.m_hot_rec_box_base
 lgn.yy.com##.m_left
 163.com##.m_papa
 xitongzhijia.net##.m_swift
