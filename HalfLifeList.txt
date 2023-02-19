@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202302180830
-! Last Modified: 2023年02月18日 08:30
+! Version: 202302190829
+! Last Modified: 2023年02月19日 08:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -581,11 +581,11 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 */preroll/$media,domain=91porn.com
 91p20.space
 waust.at
-||btsow.beauty/app/jav$image
+||btsow.mom/app/jav$image
 jads.co
 |https://tellme.pw/go/jav$popup
-|https://$script,subdocument,popup,3p,domain=btsow.beauty|dandanzan10.top|nunuyy5.org|rarbgprx.org
-!btsow.beauty##+js(aeld, click, popunder)
+|https://$script,subdocument,popup,3p,domain=btsow.mom|dandanzan10.top|dandanzan.*|nunuyingyuan.com|nunuyy5.org|rarbgprx.org
+!btsow.mom##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
 statsy.net
 ||dyncdn.me/static/20/js/showads.js$script
@@ -595,7 +595,8 @@ age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
-996dm.com,dandanzan.com,dandanzan10.top,nunuyy5.org,btnull.*##+js(m3u-prune, /^http/, /^https:\/\/vip\.lz-?cdn\d*\./)
+996dm.com,dmlaa.com,dandanzan.*,dandanzan10.top,nunuyingyuan.com,nunuyy5.org,btnull.*##+js(m3u-prune, /^http/, /^https:\/\/vip\.lz-?cdn\d*\./)
+dandanzan.*,nunuyingyuan.com##+js(m3u-prune, /^http/, /^https:\/\/vip\.ffzy-(?:play|online)\d*\./)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
@@ -2161,6 +2162,8 @@ newduba.cn###jq_youxi
 ##a[href*="/sm27z.net"]
 ##a[href*="/smch7.com"]
 ##a[href*="/x7458.cc"]
+##a[href*="/x7673.cc"]
+##a[href*="/x8345.cc"]
 ##a[href*="/x9658.cc"]
 ##div[onclick*="/ky0777.cn"]
 ||045zxnm.com^
@@ -2199,6 +2202,7 @@ newduba.cn###jq_youxi
 ||5r562.cn^
 ||5takaitu.xyz^
 ||65oml.cn^
+||6888i.top^
 ||78dfvv.com^
 ||7d108.cn^
 ||7nekc.icu^
@@ -2231,11 +2235,13 @@ newduba.cn###jq_youxi
 ||atuhi.cyou^
 ||banhui.xyz^
 ||bavxxf.xyz^
+||bddwm.com^
 ||bfdaawe.top^
 ||bgcnhux.cn^
 ||bgjjwl.cn^
 ||bglbsb.cn^
 ||bharalhallahs.com^
+||bhduan.xyz^
 ||bhpprfk.cn^
 ||bitu.fun^
 ||bjdqxt.com^
@@ -2329,15 +2335,19 @@ newduba.cn###jq_youxi
 ||ggrhsx.cn^
 ||glzniuy.cn^
 ||gomhn.cn^
+||gooooogle.xyz^
 ||goopi.cyou^
 ||grndhkd.cn^
 ||gskbzle.cn^
+||guangdongtaiji.com^
 ||guge.red^
 ||guuds.cyou^
 ||guyu8855.club^
 ||gvqrclx.cn^
 ||gxkoci.xyz^
 ||gzqgaq.xyz^
+||handukeji.top^
+||handuwl.top^
 ||hangchen.icu^
 ||happi.cyou^
 ||hcqsuqq.cn^
@@ -2376,6 +2386,7 @@ newduba.cn###jq_youxi
 ||ibgksw.xyz^
 ||icyrwy.xyz^
 ||idkqtaa.cn^
+||ieda.live^
 ||igusoft.com^
 ||ihmbpow.cn^
 ||ijvzmua.cn^
@@ -2477,6 +2488,7 @@ newduba.cn###jq_youxi
 ||mvbtp.xyz^
 ||mvfrcio.cn^
 ||mzwzo.cn^
+||ncrkff.xyz^
 ||ncvkzz.cn^
 ||neaqi.top^
 ||nehcqko.cn^
@@ -2484,6 +2496,7 @@ newduba.cn###jq_youxi
 ||nhjwh.com^
 ||nissifresh.com^
 ||njslx.cn^
+||nmtibv.xyz^
 ||noiea.xyz^
 ||nonabh.xyz^
 ||nouivjv.cn^
@@ -2504,9 +2517,12 @@ newduba.cn###jq_youxi
 ||ohmpyq.xyz^
 ||omhoa.com^
 ||oocie.cn^
+||opeci.cyou^
 ||opeem.cyou^
+||opikervop.xyz^
 ||oqxep.cn^
 ||oronwg.xyz^
+||osalwqv.cn^
 ||oulibf.xin^
 ||owihyg.xyz^
 ||oyqjp.cn^
@@ -2642,7 +2658,9 @@ newduba.cn###jq_youxi
 ||ufynxmf.cn^
 ||ukutuy.xyz^
 ||unmnkkq.cn^
+||uowfag.xyz^
 ||uwumr.cn^
+||uyydww.xyz^
 ||v16rs.cn^
 ||vainews.cn^
 ||vbccbxv.top^
@@ -2688,6 +2706,7 @@ newduba.cn###jq_youxi
 ||xhjxkgc.cn^
 ||xiaohui668.club^
 ||xibpbov.cn^
+||xingyou70.asia^
 ||xinllz.xyz^
 ||xjpphoto.com^
 ||xjpsrb.xyz^
@@ -2755,7 +2774,11 @@ newduba.cn###jq_youxi
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||bhduan.xyz^
+||youed.cyou^
+||qaou.top^
+||ajfkwwpo.xyz^
+||polkmerty.xyz^
+||aifwjekfe.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -10974,6 +10997,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||bcc878.com/js/abc/
 ||bccnsoft.com/aac/
 ||bceapp.com/jj/1716mid.js
+||bcebos.com/725c659194eeebb8c6b970e52e2dc8aa.
 ||bcebos.com/ad/
 ||bcquan.me/front/*_ad
 ||bcquan.me/front/*_game
@@ -16612,6 +16636,7 @@ makepolo.com##.cpc_tgs
 docin.com##.cpro_mod
 qq.com##.cps_inner
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.cps_wrap
+opdown.com##.cq-recom
 rsdown.cn##.cq-tips
 51credit.com##.credit-box
 nfuwow.com##.crightbtad
@@ -21570,7 +21595,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||yptqys.tianqistatic.com^
 ||ys.muhoujiemi.com^
 ||ys630.com^$third-party
-||ysdm.ys137.com.cn^
+||ysdm*.ys137.com.cn^
 ||ysxywj.com^
 ||ytelc.com^$third-party
 ||yueka.com^
