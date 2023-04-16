@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202304150203
-! Last Modified: 2023年04月15日 02:03
+! Version: 202304160202
+! Last Modified: 2023年04月16日 02:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2186,17 +2186,21 @@ newduba.cn###jq_youxi
 ##a[href*=".bd379.vip"]
 ##a[href*=".mmrjmh.com/"]
 ##a[href*="/st66st.cc"]
+||08u6q.com^
 ||1136999.com^
 ||230579.top^
 ||39nw.com^
 ||52qd.club^
+||8b4v.cn^
 ||92ph.cn^
 ||9itan.cc^
+||aaaaa288.com^
 ||aaaaa599.com^
 ||aaaaa663.com^
 ||aaaaa699.com^
 ||aaaaa855.com^
 ||aamv.vip^
+||aircraft-fapi.club^
 ||akdhiahcjojdkck.com^
 ||alejd.xyz^
 ||almabelen.com^
@@ -2206,15 +2210,19 @@ newduba.cn###jq_youxi
 ||balspaulite.com^
 ||bcivqxd.cn^
 ||bekco.xyz^
+||blxfqq.com^
 ||bqcxgbm.cn^
 ||brkzczn.cn^
 ||campu.ltd^
 ||ccohayo.xyz^
 ||cdcc3.com^
+||chaozhunbb.xyz^
 ||ck33.top^
 ||clkdus.xyz^
 ||cnmmcjn.cn^
+||cnucpaq.xyz^
 ||codeice.xyz^
+||cvmesi.xyz^
 ||d86n.top^
 ||dcdf4.com^
 ||doccd.xyz^
@@ -2259,6 +2267,7 @@ newduba.cn###jq_youxi
 ||jiuba20230320.live^
 ||jlzz.name^
 ||jvkckeg.cn^
+||jwjdpab.cn^
 ||jwronx.xyz^
 ||kayzqar.cn^
 ||kingsunsky.ltd^
@@ -2273,6 +2282,7 @@ newduba.cn###jq_youxi
 ||mhegew.xyz^
 ||mindopu.com^
 ||mrgecm.xyz^
+||naned.xyz^
 ||networkname.xyz^
 ||npdkdb.xyz^
 ||nqyz.tw^
@@ -2294,6 +2304,7 @@ newduba.cn###jq_youxi
 ||rcxysoj.cn^
 ||readme.red^
 ||reffnik.cn^
+||rpajqxo.cn^
 ||rtjmln.xyz^
 ||scrvw3.com^
 ||sh6ss7.top^
@@ -2301,6 +2312,7 @@ newduba.cn###jq_youxi
 ||smailes.pro^
 ||sozrrkx.xyz^
 ||tc911.vip^
+||tfonlyuse.shop^
 ||tianma704.ltd^
 ||tmochyf.cn^
 ||tqdpqq.com^
@@ -2309,6 +2321,7 @@ newduba.cn###jq_youxi
 ||uqymady.cn^
 ||uwhreur.cn^
 ||vel7.xyz^
+||vjhjxh.xyz^
 ||vnlqcod.cn^
 ||vorluic.cn^
 ||vujhaib.cn^
@@ -2316,17 +2329,21 @@ newduba.cn###jq_youxi
 ||wangjc.ltd^
 ||wangjiayi.fun^
 ||wangyq.ltd^
+||wangyun01.cn^
 ||wcdc5.com^
 ||wdygoi.xyz^
 ||web4023.top^
+||weeqmcq.cn^
 ||whbn.xyz^
 ||wvwl.cn^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xingyang.in^
 ||xlxknf.xyz^
+||xrkyqq.com^
 ||xunjie.fun^
 ||yankuoyyds.com^
+||yb0a.xyz^
 ||yfohgo.xyz^
 ||yingce.asia^
 ||yingnanyyds.com^
@@ -11384,6 +11401,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||hktvmall.com/api/preroll/getList?
 ||hltoon.com/hanman/static/dist/ppm/js/foot
 ||hmghmg.com/tb
+||hmoe12.com/wp-content/uploads/202*.gif
 ||hmwang.icu/skin/images/*.gif
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongyingbbs.com/jj/
@@ -12686,11 +12704,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||right.com.cn/logo/*.gif
 ||right.com.cn/logo/yyb.png
 ||riju.com/pr/$domain=jpfans.com|jpseek.com
-||rijutv.*/statics/alljs/rijutvapp.
-||rijutv.*/statics/alljs/rijutvpc.js
-||rijutv.*/statics/js/tb.js
-||rijutv.*/statics/skin/hjtv-wap/js/plus.js
-||rijutv.*/uploadfile/8c96dc2f564c1b56.png
 ||rising.cn/js/haoAdData.js
 ||rising.cn/rxbox/
 ||rising.cn^*/pic-ad/
@@ -13646,7 +13659,6 @@ fx168.com###ImgText_01
 fx168.com###ImgText_02
 fx168.com###ImgText_03
 pconline.com.cn###JBestRecomm
-rijutv.co###JU
 taobao.com###J_ActivityOut
 duba.com###J_BottomAdBan
 duba.com###J_BottomAdBan_bg
@@ -15865,14 +15877,13 @@ u-car.com.tw##.contad
 dragon-guide.net##.container > .gutter:first-child
 zxzjtv.com##.container > .none
 ygdy8.cc##.container > a[href^="/"]
-rijutv.co##.container > div[style="height: 128px;"]
 vpsdx.com##.container-fluid > .gsfha3 > .gsfha3
 pornlulu.com##.container-fluid > .links
 78dm.net##.container-fluid > a[href*=".taobao.com"]
 live.bilibili.com##.container-wrapper[style="height:446px;min-width:1280px"]
 423down.com##.content > a
 www.wangjing.cn##.content > div[style*="980px;"]
-423down.com##.content > div[style="text-align: left;"]
+423down.com##.content > div[style]
 serengeseba.com##.content > li > a[href^="http"]
 cnbeta.com##.content > p:last-child > a[href]
 sspai.com##.content hr:nth-last-child(-n+4) ~ p
@@ -16532,6 +16543,7 @@ chinabidding.com.cn##.innovate + .layer
 hao123.com##.insertad_wrapper
 litv.tv##.internal_bn
 4gamers.com.tw##.interstitial-ads
+msn.cn##.intra-article-ad-full
 baidu.com##.intro-adv
 people.com.cn##.ipc_none
 iqiyi.com##.iqiyi-shangcheng
@@ -17723,7 +17735,6 @@ hackhome.com##.ul_ad
 131458.com##.ulfooter_top
 baidu.com##.under-tips
 autohome.com.cn##.union-ad-placeholder
-rijutv.co##.union-list-item
 baidu.com##.union-tg
 mm-cg.com##.ut1_img_content_js
 ilxdh.com,subaibai.com##.v-modal
@@ -17949,6 +17960,7 @@ programmer-club.com.tw##A[href*="/ADRedirect."]
 gmgard.com,hggard.com##A[onclick*="Advertisement"]
 cnxz.cn##[class*="-ad"]
 jmw.com.cn##[class^="advertising"]
+msn.cn##[class^="articlePage_eoabContent"]
 gamme.com.tw##[class^="sidead_"]
 dable.io##[data-ad_id]
 sina.cn##[data-href*="://sax"]
@@ -18040,7 +18052,7 @@ v.qq.com##a[href*=".renrendai.com"]
 makepolo.com##a[href*=".rong360.com"]
 ccav5.com##a[href*=".sinaimg."]
 chdbits.co##a[href*=".taobao"]
-52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,cupfox.app,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,htcui.com,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.net,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,rijutv.co,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,cupfox.app,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,htcui.com,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.net,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 rouman5.com##a[href*=".tapdb.net"]
 boke112.com##a[href*=".tencent.com"]
 acgdoge.net,acglala.me,chinalawedu.com,douyu.com,dzbhdm.net,gmgard.com,hggard.com,iqiyi.com,jinti.com##a[href*=".tmall.com"]
@@ -18331,6 +18343,7 @@ cnbeta.com#?#.item:-abp-has(> dl > dt > a[href*=".greatroma.com"])
 cnbeta.com#?#.item:-abp-has(> dl > dt > a[href^="http://click.aliyun.com/"])
 cnbeta.com#?#.items-area > .item:-abp-has(> dl > dt > a[href^="http"]:not([href*="cnbeta."]))
 copyfuture.com#?#.tabbable > div:-abp-contains(宝红)
+msn.cn##cs-native-ad-card
 cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
 6parknews.com#?##d_list > ul > li:-abp-has(a[href^="http"]:not([href*="6parknews"]))
 steamcn.com##div > a[href*=".taobao.com"]
@@ -21585,7 +21598,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/log/report/*$script,domain=bilibili.com
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
+@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
 @@||10010.com/mall/common/js/fa.js?referer=
