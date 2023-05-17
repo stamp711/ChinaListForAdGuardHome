@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202305160203
-! Last Modified: 2023年05月16日 02:03
+! Version: 202305170203
+! Last Modified: 2023年05月17日 02:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2209,6 +2209,7 @@ newduba.cn###jq_youxi
 ||0776.red^
 ||08u6q.com^
 ||1136999.com^
+||1385a.xyz^
 ||13niao20230422.live^
 ||1512a.com^
 ||16niao20230125.live^
@@ -2324,6 +2325,7 @@ newduba.cn###jq_youxi
 ||ck33.top^
 ||clkdus.xyz^
 ||cloudsong.xyz^
+||clqkqq.com^
 ||cnmmcjn.cn^
 ||cnucpaq.xyz^
 ||codeice.xyz^
@@ -2444,6 +2446,7 @@ newduba.cn###jq_youxi
 ||itoken.pro^
 ||iughyy7919.com^
 ||iwandlo.top^
+||iwdvvoc.cn^
 ||jbtfmis.xyz^
 ||jbzjegn.cn^
 ||jeedi.xyz^
@@ -2505,6 +2508,7 @@ newduba.cn###jq_youxi
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||lxyl66.cn^
+||mahao1.cn^
 ||maoqxyl.xyz^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
@@ -2548,6 +2552,7 @@ newduba.cn###jq_youxi
 ||oubqzcg.cn^
 ||p2oh1.xyz^
 ||p4pd.cn^
+||pacix.xyz^
 ||pansclub.xyz^
 ||pbgtpjz.cn^
 ||pedjqkl.xyz^
@@ -2585,6 +2590,7 @@ newduba.cn###jq_youxi
 ||qwahk.com^
 ||qwrdj.xyz^
 ||ra1.xyz^
+||radish-cake.xyz^
 ||rbbbdj.xyz^
 ||rbrv9.cn^
 ||rbxunao.cn^
@@ -2663,6 +2669,7 @@ newduba.cn###jq_youxi
 ||uu9735uu.com^
 ||uuuxyjh.cn^
 ||uwhreur.cn^
+||uxwkiyp.xyz^
 ||uzuarlv.cn^
 ||v0cf.xyz^
 ||vel7.xyz^
@@ -2745,6 +2752,7 @@ newduba.cn###jq_youxi
 ||yulingaa.xyz^
 ||ywsiqlg.cn^
 ||yywh.vip^
+||z11011.com^
 ||zbbvhj.xyz^
 ||zbvchabjbcj.com^
 ||zcdfll.xyz^
@@ -2763,6 +2771,7 @@ newduba.cn###jq_youxi
 ||zhouduanyyds.com^
 ||zhuxiao11.cn^
 ||zjqs.shop^
+||zldzbr.xyz^
 ||zmfdjb.xyz^
 ||znnodl.xyz^
 ||zouqiuyyds.com^
@@ -15733,6 +15742,7 @@ acfun.cn##.danmu-activity
 soufun.com##.danmu_inbox
 mtrend.cn##.daogou-foot
 bbs.it168.com##.daoh2 + .bor8
+qq.com,sogou.com##.daohang-gamecenter
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dasense
 newxue.com##.dashuggtop
 newxue.com##.dashuggtop1
@@ -15788,6 +15798,7 @@ iqiyi.com##.dove_banner
 iqiyi.com##.dove_videos
 3d66.com##.down-adver
 zol.com.cn##.down-append-mol__pic
+downza.cn##.down-item-2
 xiaopi.com##.down-list
 mianbao99.com##.downApp
 gamersky.com##.downLoadGame-2
@@ -15802,11 +15813,8 @@ xiazaizhijia.com##.down_list
 7x7n.com##.down_load_1
 7x7n.com##.down_load_2
 dayanzai.me##.down_show_intro_first_box
-downza.cn##.down_soft_bottom
-downza.cn##.down_top
 18183.com##.down_url
 greenxiazai.com##.downbtn > a:last-child
-downza.cn##.downbtn-top
 portablesoft.org##.downcenter
 51xiazai.cn##.downgs
 3dmgame.com##.downl_list + script + div
@@ -16012,7 +16020,7 @@ juxia.com##.game_img_list
 yxlady.com##.game_wrap
 sina.com.cn##.gamead1
 qidian.com##.games-op-wrap
-3987.com,downza.cn,drv5.cn,pcsoft.com.cn,win7w.com##.gaosu
+3987.com,drv5.cn,pcsoft.com.cn,win7w.com##.gaosu
 3h3.com##.gaosu_div
 3h3.com,downxia.com##.gaosu_down_div
 so.com##.garllery_ad
