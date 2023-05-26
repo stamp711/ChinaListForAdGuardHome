@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202305250202
-! Last Modified: 2023年05月25日 02:02
+! Version: 202305260203
+! Last Modified: 2023年05月26日 02:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1089,8 +1089,6 @@ stgowan.com
 /maizhan/js/age.js
 /manduan-dev.oss-
 /matongwu/img/gg_
-/mbjs/shipinneiyexia.
-/mbjs/shipinshang.
 /MDassets/images/*.gif$~third-party
 /meinv/js/*_banner.js
 /mfad/*
@@ -2108,19 +2106,6 @@ newduba.cn###jq_youxi
 ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
 ##a[target="_bank"] > img[src*=".360buyimg.com"][style="width:100%;height:auto;"]
 ##a[target="_blank"] > img.king
-##a[target="_blank"] > img[height="120px"][src*=".c-ctrip.com"][src$=".gif"]
-##a[target="_blank"] > img[height="120px"][src*=".meituan.net"][src$=".gif"]
-##a[target="_blank"] > img[height="120px"][src*=".tripcdn.com"][src$=".gif"]
-##a[target="_blank"] > img[height="120px"][src*="qlogo.cn"][src$=".png"]
-~jd.com##a[target="_blank"] > img[height="60"][src*=".360buyimg.com"][src$=".gif"]
-##a[target="_blank"] > img[height="60px"][src*=".126.net"][src$=".gif"]
-##a[target="_blank"] > img[height="60px"][src*=".360buyimg.com"][src$=".gif"]
-##a[target="_blank"] > img[height="60px"][src*=".alicdn.com"][src$=".gif"]
-##a[target="_blank"] > img[height="60px"][src*=".c-ctrip.com"][src$=".gif"]
-##a[target="_blank"] > img[height="60px"][src*=".lenovo.com"][src$=".png"]
-##a[target="_blank"] > img[height="60px"][src*=".meituan.net"][src$=".gif"]
-##a[target="_blank"] > img[height="60px"][src*=".tripcdn.com"][src$=".gif"]
-##a[target="_blank"] > img[height="60px"][src*="qlogo.cn"][src$=".png"]
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ~mgtv.com##a[target="_blank"] > img[src*="hitv.com"]
@@ -2144,8 +2129,6 @@ newduba.cn###jq_youxi
 ##div[onclick*=".open"][onclick*="leyu"]
 ##div[onclick*="?i_code="]
 ##div[role="listitem"] > div > div > .bannerliststyle
-##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style^="position"][onclick^="window.open"]
 ##dl#listwoBox
@@ -2165,7 +2148,6 @@ newduba.cn###jq_youxi
 ##img[src*=".qpic.cn"][width="980"][height="80"]
 ##img[src*=".sinaimg."][style="width:1025px;height:80px"]
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
-##p[style^="width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !important; flex-flow: row wrap !important; background:"]
 ##script + #coupletBox
 ##script + #rbbox
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
@@ -2270,6 +2252,7 @@ newduba.cn###jq_youxi
 ||adbtwyxl96.fun^
 ||adcd7.com^
 ||adelaideceliacd.com^
+||aeletheacd.com^
 ||afndhou.xyz^
 ||agwdac.xyz^
 ||aicpa.club^
@@ -2310,6 +2293,7 @@ newduba.cn###jq_youxi
 ||blue-rain.com.cn^
 ||blvnsgr.xyz^
 ||blxfqq.com^
+||bnz9.cn^
 ||bockd.xyz^
 ||boshao666.com^
 ||bovhzz.xyz^
@@ -2372,12 +2356,15 @@ newduba.cn###jq_youxi
 ||denghaishan1.cn^
 ||dertyhsf.xyz^
 ||devofei.xyz^
+||dezstd.xyz^
 ||dgfqqq.com^
 ||dhaxhsa325.com^
 ||dhxrxn.xyz^
 ||diekd.xyz^
+||diggtp001.com^
 ||djahkee.xyz^
 ||dkcwnsu.xyz^
+||dl520.fun^
 ||doccd.xyz^
 ||donku.club^
 ||dpaic.xyz^
@@ -2498,6 +2485,7 @@ newduba.cn###jq_youxi
 ||ijnuhb.top^
 ||imks.cn^
 ||imu2021.site^
+||inmcd.xyz^
 ||ioiksw.cn^
 ||ipeef.xyz^
 ||iqybys.xyz^
@@ -2518,6 +2506,7 @@ newduba.cn###jq_youxi
 ||jinmin.online^
 ||jiqadoi.cn^
 ||jiuba20230320.live^
+||jjnrqq.com^
 ||jlzz.name^
 ||jn060.xyz^
 ||jndyl.xyz^
@@ -2569,6 +2558,7 @@ newduba.cn###jq_youxi
 ||ljte0.com^
 ||lkidke.com^
 ||lkmxqq.com^
+||lkqyqwk.xyz^
 ||lmlzht.xyz^
 ||lnnjnv.xyz^
 ||lnpqqq.com^
@@ -2618,6 +2608,7 @@ newduba.cn###jq_youxi
 ||networkname.xyz^
 ||nezqmud.com^
 ||ningdebus.club^
+||nkvwvx.xyz^
 ||nntsdp.xyz^
 ||nogff.top^
 ||npdkdb.xyz^
@@ -2629,6 +2620,7 @@ newduba.cn###jq_youxi
 ||nwandlc.top^
 ||nwecd.xyz^
 ||ocoda.xyz^
+||ogtphoj.cn^
 ||oimzak.xyz^
 ||ojuhwc.xyz^
 ||on-you.cn^
@@ -2666,6 +2658,7 @@ newduba.cn###jq_youxi
 ||prtlth.xyz^
 ||pvjlfjz.cn^
 ||pzlxnd.xyz^
+||q1zcp.com^
 ||qange.com^
 ||qatuaad.cn^
 ||qfblqq.com^
@@ -2680,9 +2673,11 @@ newduba.cn###jq_youxi
 ||qkwsqq.com^
 ||qm6ef.xyz^
 ||qnmtqq.com^
+||qooav.top^
 ||qpoiwnelc.com^
 ||qqied.xyz^
 ||quancuncq.xyz^
+||qvcyeknp.xyz^
 ||qwahk.com^
 ||qwrdj.xyz^
 ||ra1.xyz^
@@ -2710,6 +2705,7 @@ newduba.cn###jq_youxi
 ||rszqtry.cn^
 ||rtdxqq.com^
 ||rtjmln.xyz^
+||s3nycv.xyz^
 ||sa3a.cn^
 ||sanguine.ren^
 ||sbyueyue.xyz^
@@ -9780,7 +9776,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||a2.xinhuanet.com^
 ||a2put.chinaz.com^
 ||a5xiazai.com/z/
-||aabook.cc/images/apps/
 ||aaread.space/images/*0.gif
 ||aassy4.com/dm/
 ||abbao.cn^*adblock
@@ -10622,7 +10617,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||cr173.com/show/
 ||cr173.com/skina/
 ||cr173.com/skinb/
-||crazyasia.ml/myupdatelist.
 ||creaders.net*/ad_func.js
 ||crxs.me/scripts/my_
 ||crxs.me/upload/ad/
@@ -16359,6 +16353,7 @@ iyaxin.com##.huand3
 skinme.cc,yuntue.com##.huodong
 hupu.com##.hupu-shihuo-hot
 hupu.com##.hupushihuo
+hutool.cn##.hutool-top-ad
 iqiyi.com##.hwLink
 xiakedy.org##.hy-details-qrcode
 warting.com##.hz2
@@ -19084,7 +19079,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/show_ad_$domain=wb.qq.com
 @@/show_ads_$domain=ygo-sem.cn
 @@/site/ad/*$domain=islide.cc
-@@/static/ad/main.$domain=bhuai.top|bhuan.top
+@@/static/ad/main.$domain=bbmei.top|bbmen.top
 @@/store_ad/*$domain=pcstore.com.tw
 @@/unadblock/adjs_$domain=hepan.com
 @@/WebAd/*$domain=yongyoujia.com
@@ -20652,6 +20647,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||retrieval-bd.duote.com^
 ||richh.cn^
 ||rst2.y3600.cn^
+||ruiwen.com/css_
 ||rxys.cn^
 ||s.yaozui.com^
 ||s.zixuntop.com^
