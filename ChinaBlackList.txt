@@ -3580,9 +3580,12 @@
 [/517huwai.com/]https://dns.pub/dns-query
 [/517idc.com/]https://dns.pub/dns-query
 [/517japan.com/]https://dns.pub/dns-query
+[/517la.com/]https://dns.pub/dns-query
+[/517la.net/]https://dns.pub/dns-query
 [/517lppz.com/]https://dns.pub/dns-query
 [/517ming.com/]https://dns.pub/dns-query
 [/517mr.com/]https://dns.pub/dns-query
+[/517na.com/]https://dns.pub/dns-query
 [/517rcw.com/]https://dns.pub/dns-query
 [/517sc.com/]https://dns.pub/dns-query
 [/517tez.com/]https://dns.pub/dns-query
@@ -18617,7 +18620,6 @@
 [/dongqiudi.com/]https://dns.pub/dns-query
 [/dongqiudi.net/]https://dns.pub/dns-query
 [/dongsenzs.com/]https://dns.pub/dns-query
-[/dongshenghuiyang.com/]https://dns.pub/dns-query
 [/dongshou.com/]https://dns.pub/dns-query
 [/dongsport.com/]https://dns.pub/dns-query
 [/dongtaijt.com/]https://dns.pub/dns-query
@@ -34356,6 +34358,7 @@
 [/lanrenzhaofang.com/]https://dns.pub/dns-query
 [/lanrenzhijia.com/]https://dns.pub/dns-query
 [/lanrenzhoumo.com/]https://dns.pub/dns-query
+[/lansancn.com/]https://dns.pub/dns-query
 [/lansedongli.com/]https://dns.pub/dns-query
 [/lansha.tv/]https://dns.pub/dns-query
 [/lanshanweb.com/]https://dns.pub/dns-query
@@ -38467,7 +38470,6 @@
 [/moeli123.com/]https://dns.pub/dns-query
 [/moemiao.net/]https://dns.pub/dns-query
 [/moeover.com/]https://dns.pub/dns-query
-[/moerail.ml/]https://dns.pub/dns-query
 [/moerkeji.net/]https://dns.pub/dns-query
 [/moerlong.com/]https://dns.pub/dns-query
 [/moetu.org/]https://dns.pub/dns-query
@@ -39384,7 +39386,6 @@
 [/namisoft.com/]https://dns.pub/dns-query
 [/namitiyu.com/]https://dns.pub/dns-query
 [/namoc.org/]https://dns.pub/dns-query
-[/nanadao.com/]https://dns.pub/dns-query
 [/nanapro.org/]https://dns.pub/dns-query
 [/nanbeijt.com/]https://dns.pub/dns-query
 [/nanbeiyou.com/]https://dns.pub/dns-query
@@ -40765,6 +40766,7 @@
 [/onche.net/]https://dns.pub/dns-query
 [/oncity.cc/]https://dns.pub/dns-query
 [/one-all.com/]https://dns.pub/dns-query
+[/one-netbook.com/]https://dns.pub/dns-query
 [/one918.com/]https://dns.pub/dns-query
 [/onealert.com/]https://dns.pub/dns-query
 [/oneapm.com/]https://dns.pub/dns-query
@@ -40859,6 +40861,7 @@
 [/oomake.com/]https://dns.pub/dns-query
 [/ooniu.com/]https://dns.pub/dns-query
 [/ooogo.com/]https://dns.pub/dns-query
+[/ooooai.com/]https://dns.pub/dns-query
 [/ooopic.com/]https://dns.pub/dns-query
 [/ooopn.com/]https://dns.pub/dns-query
 [/ooppoo.com/]https://dns.pub/dns-query
@@ -48877,7 +48880,6 @@
 [/sun0769.com/]https://dns.pub/dns-query
 [/sun0769ns.com/]https://dns.pub/dns-query
 [/sun0816.com/]https://dns.pub/dns-query
-[/sun19.com/]https://dns.pub/dns-query
 [/sun66.net/]https://dns.pub/dns-query
 [/sunacctg.com/]https://dns.pub/dns-query
 [/sunater.com/]https://dns.pub/dns-query
@@ -52413,6 +52415,7 @@
 [/umaman.com/]https://dns.pub/dns-query
 [/umbpay.com/]https://dns.pub/dns-query
 [/umcloud.com/]https://dns.pub/dns-query
+[/umdac.com/]https://dns.pub/dns-query
 [/umeng.co/]https://dns.pub/dns-query
 [/umeng.com/]https://dns.pub/dns-query
 [/umeng.online/]https://dns.pub/dns-query
