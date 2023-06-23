@@ -19555,7 +19555,6 @@
 [/easytrip.com/]https://dns.pub/dns-query
 [/easyzw.com/]https://dns.pub/dns-query
 [/eateapp.com/]https://dns.pub/dns-query
-[/eaten.fun/]https://dns.pub/dns-query
 [/eaydu.com/]https://dns.pub/dns-query
 [/eayou.com/]https://dns.pub/dns-query
 [/eayuan.com/]https://dns.pub/dns-query
@@ -24640,6 +24639,7 @@
 [/h6app.com/]https://dns.pub/dns-query
 [/h7ec.com/]https://dns.pub/dns-query
 [/h8jx.com/]https://dns.pub/dns-query
+[/h9hash.com/]https://dns.pub/dns-query
 [/ha97.com/]https://dns.pub/dns-query
 [/haawking.com/]https://dns.pub/dns-query
 [/habadog.com/]https://dns.pub/dns-query
@@ -36614,7 +36614,6 @@
 [/lzhpo.com/]https://dns.pub/dns-query
 [/lzhygame.com/]https://dns.pub/dns-query
 [/lzjdbjc.com/]https://dns.pub/dns-query
-[/lzjjdd.net/]https://dns.pub/dns-query
 [/lzjoy.com/]https://dns.pub/dns-query
 [/lzlj.com/]https://dns.pub/dns-query
 [/lzmoyin.com/]https://dns.pub/dns-query
@@ -44031,7 +44030,6 @@
 [/qutuiwa.com/]https://dns.pub/dns-query
 [/quumii.com/]https://dns.pub/dns-query
 [/quvisa.com/]https://dns.pub/dns-query
-[/quw1234.icu/]https://dns.pub/dns-query
 [/quwaifu.com/]https://dns.pub/dns-query
 [/quwan.com/]https://dns.pub/dns-query
 [/quwan.fun/]https://dns.pub/dns-query
@@ -46697,6 +46695,7 @@
 [/shiwan.com/]https://dns.pub/dns-query
 [/shiwangyun.com/]https://dns.pub/dns-query
 [/shiweisemi.com/]https://dns.pub/dns-query
+[/shiwusmd.com/]https://dns.pub/dns-query
 [/shixian.com/]https://dns.pub/dns-query
 [/shixiaojin.com/]https://dns.pub/dns-query
 [/shixibiaozhi.com/]https://dns.pub/dns-query
@@ -48269,6 +48268,7 @@
 [/speednt.com/]https://dns.pub/dns-query
 [/speedpdf.com/]https://dns.pub/dns-query
 [/speedsz.net/]https://dns.pub/dns-query
+[/speedtest.im/]https://dns.pub/dns-query
 [/speedws.info/]https://dns.pub/dns-query
 [/speedws.org/]https://dns.pub/dns-query
 [/speiyou.com/]https://dns.pub/dns-query
@@ -63734,7 +63734,6 @@
 [/ztch.ltd/]https://dns.pub/dns-query
 [/ztcia.com/]https://dns.pub/dns-query
 [/ztcnwy.com/]https://dns.pub/dns-query
-[/ztdad.com/]https://dns.pub/dns-query
 [/zte.net/]https://dns.pub/dns-query
 [/ztedevice.com/]https://dns.pub/dns-query
 [/ztedevices.com/]https://dns.pub/dns-query
