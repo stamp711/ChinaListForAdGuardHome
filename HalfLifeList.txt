@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202306291407
-! Last Modified: 2023年06月29日 14:07
+! Version: 202307010206
+! Last Modified: 2023年07月01日 02:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2106,6 +2106,7 @@ newduba.cn###jq_youxi
 ##a[href^="javascript:gl012"]
 ##a[href^="javascript:gl012"] + img
 ##a[id][href*="/?aff="]
+##.ads > #video_playr_sider
 ##a[id][href*="/?register="]
 ##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
@@ -2396,6 +2397,7 @@ newduba.cn###jq_youxi
 ||cadke.xyz^
 ||campu.ltd^
 ||canser8.top^
+||canser9.top^
 ||caozhixiong.cn^
 ||casisi118.vip^
 ||cbhwekr.cn^
@@ -2496,6 +2498,7 @@ newduba.cn###jq_youxi
 ||donku.club^
 ||dpaic.xyz^
 ||dqazwsxd.xyz^
+||dqcgkpp.icu^
 ||drtyujgsg.xyz^
 ||dsbt7.com^
 ||dsctnsn.xyz^
@@ -2513,6 +2516,7 @@ newduba.cn###jq_youxi
 ||ebuqxsjq.com^
 ||ecav5.com^
 ||eciea.xyz^
+||ecwmvlhy.com^
 ||eduizioq.com^
 ||efilgvz.cn^
 ||efvsyhbf.xyz^
@@ -2605,6 +2609,7 @@ newduba.cn###jq_youxi
 ||grxeyig.xyz^
 ||grxwqq.com^
 ||guangdongtaiji.com^
+||guizhouxinsheng.com^
 ||guqsqfmi.com^
 ||guzhimian.fun^
 ||guzsjdl.cn^
@@ -2640,6 +2645,7 @@ newduba.cn###jq_youxi
 ||heliangjun2.cn^
 ||helid.xyz^
 ||heretrail.com^
+||hesramfi.com^
 ||hffxc.com^
 ||hfhytx.xyz^
 ||hgpdoa.cn^
@@ -2771,6 +2777,7 @@ newduba.cn###jq_youxi
 ||kgelugaz.com^
 ||kgeshe.site^
 ||kianakaslana.club^
+||kifyeldd.top^
 ||kingsunsky.ltd^
 ||kjugr.xyz^
 ||kjwysxs.cn^
@@ -2894,6 +2901,7 @@ newduba.cn###jq_youxi
 ||ndqzqmb.xyz^
 ||ndruhz.xyz^
 ||nedes.xyz^
+||nefbjp.xyz^
 ||neg2zos.icu^
 ||neiod.xyz^
 ||nekomasu.ltd^
@@ -2944,6 +2952,7 @@ newduba.cn###jq_youxi
 ||osancik.top^
 ||otwiss.xyz^
 ||oubqzcg.cn^
+||oueia.xyz^
 ||owandlk.top^
 ||oyysbc.xyz^
 ||ozkbdxdu.icu^
@@ -3030,6 +3039,7 @@ newduba.cn###jq_youxi
 ||reffnik.cn^
 ||rencaihome.xyz^
 ||rfnenr.xyz^
+||rfto9i.icu^
 ||rgyfqq.com^
 ||rhxwnd.xyz^
 ||risrauj.cn^
@@ -3182,6 +3192,7 @@ newduba.cn###jq_youxi
 ||vdrfes.site^
 ||vel7.xyz^
 ||vezvpd.xyz^
+||vfjsa6do.icu^
 ||vfsvv1.com^
 ||vifzrf.xyz^
 ||viroffyy.com^
@@ -3266,6 +3277,7 @@ newduba.cn###jq_youxi
 ||xiod.xyz^
 ||xiongxiaoze12.cn^
 ||xjnyjt.xyz^
+||xkbinj.xyz^
 ||xkdlqq.com^
 ||xlardaxq.com^
 ||xlsds888.xyz^
@@ -3311,6 +3323,7 @@ newduba.cn###jq_youxi
 ||yisangyyds.com^
 ||yiw2iei.icu^
 ||yjgqpfj.cn^
+||yklfg.cn^
 ||ykotyeo.cn^
 ||ymhyw6.lol^
 ||yrszy.com.cn^
@@ -3385,17 +3398,18 @@ newduba.cn###jq_youxi
 ||zyauopr.icu^
 ||zzqrr.com^
 ||zzrjdp.xyz^
-||ecwmvlhy.com^
-||canser9.top^
-||guizhouxinsheng.com^
-||oueia.xyz^
-||vfjsa6do.icu^
-||dqcgkpp.icu^
-||xkbinj.xyz^
-||nefbjp.xyz^
-||hesramfi.com^
-||yklfg.cn^
-||rfto9i.icu^
+||nchxzmhr.com^
+||hegk09a.top^
+||gysn001.com^
+||dvbnmikxh.xyz^
+||xudgjz.xyz^
+||ncmxwhf.icu^
+||nohcff.xyz^
+||uym11.xyz^
+||zvdc9y.icu^
+||0krdn3.com^
+||plof69.com^
+||qaljfiwv.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -8477,6 +8491,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||02wq.com/script/
 ||02wq.com/script1/
 ||0439.com/javascript.php?part=advertisement&
+||0460.com/images/ad/
 ||0460.com/images/banner/
 ||0460.com/js/txtrec.js
 ||04cmm.com:8888/js
@@ -8489,11 +8504,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||0598yu.com/api.php?mod=ad&
 ||0606kk.com/js/index/index.js
 ||0668gz.com/data/attachment/portal/
+||07073.com/api/getKfList?
+||07073.com/pc/js/right-ad.
 ||0722fc.com/index/index.php?/ajax/get_adv/
 ||0722fc.com/index/tools/js.php
 ||073img.com/*/|
-||073img.com^$subdocument
-||0758net.com/data/attachment/portal/
 ||07908.com/images/
 ||0kkbb.com/js/i.js
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
@@ -12897,9 +12912,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-pornbest.org,ptt.sex##.links.row
-pornbest.org,ptt.sex##.no-gutters
-pornbest.org,ptt.sex###fullPageModal
+cupfox.app##.cupfox-box
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -13522,6 +13535,7 @@ wendangxiazai.com###ft_hb
 gamemei.com###ft_right_bottom
 w3school.com.cn###fttg
 uotan.cn###fuck-ads
+pornbest.org,ptt.sex###fullPageModal
 cnyes.com###full_ad-popup
 cnyes.com###full_ad-screen
 ifeng.com###funBar
@@ -16008,6 +16022,7 @@ itdog.cn##.link_gg
 cnjxol.com##.linked
 dl.pconline.com.cn##.links > p:not([class])
 duote.com##.links-banner
+pornbest.org,ptt.sex##.links.row
 linuxidc.com##.linux801
 linux.cn##.linuxcnad
 i.qq.com##.linwei-logo
@@ -16249,7 +16264,6 @@ jia360.com##.news_adv:nth-child(3)
 aguitar.cn##.news_b
 auto-online.com.tw##.news_content > div[style="width:728px;margin:10px auto"]
 oschina.net##.news_detai_above_ad
-07073.com##.news_list1_tu
 yxdown.com##.news_tl
 chinamedevice.cn##.news_ylqx
 chinamedevice.cn##.news_ylqx3
@@ -16263,7 +16277,7 @@ chongdiantou.com##.nice-sales
 mamecn.com##.njjGsxzLeft > dl > .cont1
 mamecn.com##.njjGsxzRight
 dyhjw.com##.nn_link
-pornlulu.com##.no-gutters
+pornbest.org,pornlulu.com,ptt.sex##.no-gutters
 zztt24.com##.no-mask
 prts.wiki##.nomobile[style*="810px;height:240"]
 zhicheng.com##.normal-banner
@@ -16771,7 +16785,6 @@ sonimei.cn##.style03
 guofs.com##.style2
 qq.com##.style_modal-wrap__UnbtS
 cnbeta.com##.sub-title
-07073.com##.subarea_ad
 cam4.tw##.subfoot-section
 etest8.com##.subtop2right
 ltn.com.tw##.suggest_full .C5
@@ -19320,6 +19333,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 /css_js/*$domain=aiyangedu.com|duanmeiwen.com|jy135.com|oh100.com|qunzou.com|ruiwen.com|unjs.com|yjbys.com|yuwenmi.com
 ?*=*=*=$subdocument,domain=00cha.com|01fy.cn|06ps.com|08160.cn|0s.net.cn|10000xing.cn|100how.com|1010jiajiao.com|1024sj.com|11467.com|114piaowu.com|120ask.com|16xx8.com|192ly.com|1ppt.com|1ting.com|201980.com|21hubei.com|263y.com|2hanju.com|2liang.net|315hyw.com|32r.com|32xp.com|360changshi.com|360doc.cn|360zuowen.com|39.net|4aqq.com|5000yan.com|515fa.com|51edu.com|51sxue.com|51test.net|51zxw.net|52wubi.com|52zxw.com|5djiaren.com|5h.com|5nd.com|5seestar.com|64foot.com|66law.cn|7y7.com|800400.net|86huoche.com|8794.cn|911cha.com|91jucai.com|91zhongkao.com|949949.com|9553.com|99.com.cn|9939.com|9ht.com|ab126.com|admin5.com|aihami.com|aiyangedu.com|aizhan.com|ankangwang.com|annhe.net|apple886.com|arpun.com|askci.com|aspku.com|atobo.com|b2b168.com|b2b6.com|babihu.com|baicaolu.net|baotang5.com|baoxianzx.com|bbdj.com|bendibao.com|bianzhile.com|blog.sina.cn|boosj.com|bu-shen.com|bytravel.cn|c1km4.com|chajiaotong.com|chazidian.com|china.com|chinacar.com.cn|chinakaoyan.com|chinawj.com.cn|chuiyue.com|cidianwang.com|cjcp.com.cn|cnbanbao.cn|cncn.com|cnkang.com|cnlinfo.net|coozhi.com|cr173.com|csai.cn|cyyangqiguan.com|d17.cc|d1xz.net|daquan.com|dayfund.cn|dgzj.com|diangon.com|ditiezu.com|diyifanwen.com|diyju.com|dugoogle.com|dxsbb.com|eastday.com|enterdesk.com|exam58.com|fangdaijisuanqi.com|faxingzhan.com|friok.com|fun48.com|game234.com|gaosan.com|gaotie.cn|gucheng.com|gugu5.com|guidaye.com|gulongbbs.com|gushiwen.cn|hc23.com|hqhot.com|huangye88.com|hxnews.com|hydcd.com|icauto.com.cn|idongde.com|isanxia.com|ixinwei.com|ixiunv.com|jeasyui.net|jf258.com|jianbihua.com|jianbihuadq.com|jinbaodm.com|jingdianlaoge.com|jintang114.org|jj20.com|jy135.com|latiaozixun.net|liuxue86.com|m.douban.com|makepolo.com|mama.cn|meishij.net|mipcache.bdstatic.com|miyudaquan.com|mmyuer.com|nanhuwang.com|oh100.com|pansoso.com|phb123.com|pig66.com|pikacn.com|pingguolv.com|pingshu8.com|ppzuowen.com|qcrx.cn|qcwxjs.com|qizuang.com|qm120.com|qncye.com|qqzhi.com|quwenqushi.com|riji.cn|riji100zi.com|rr95.com|ruiwen.com|sc115.com|shadafang.com|shangc.net|shenchuang.com|souid.com|ssqzj.com|szdushi.com.cn|szhk.com|tvmao.com|uzuzuz.com|weather.com.cn|webshu.net|wenkuxiazai.com|wenshenxiu.com|wenzhangba.com|wmxa.cn|woyaogexing.com|xiachufang.com|xiangha.com|xiao84.com|xiaole8.com|xiegw.cn|xywy.com|xzbu.com|yanyue.cn|yaozui.com|yellowurl.cn|yiqig.cn|yiyouliao.com|yjbys.com|yuwenmi.com|yxlady.com|yyrtv.com|zdface.com|zhifure.com|zhongyoo.com|zixuntop.com|ziyuanm.com|zjbiz.net|zuowen8.com|zuowenku.net|zuowenwang.net
 ||003store.com^
+||mwzbp.iask.com.cn^
 ||0512s.com^$third-party
 ||0755rc.com^$third-party
 ||0941.org^
