@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202307110207
-! Last Modified: 2023年07月11日 02:07
+! Version: 202307120207
+! Last Modified: 2023年07月12日 02:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -760,6 +760,7 @@ stgowan.com
 .xyz/99x/
 .xyz/ad/
 .xyz/js/ads/
+.xyz/o.js$script,third-party
 .xyz/upload/ad/
 .xyz/vh1/$script,third-party
 .zone/ads/
@@ -2190,6 +2191,7 @@ newduba.cn###jq_youxi
 ||194.59.220.161^
 ||23.234.217.11^
 ||23.234.217.12^
+##a[href*="/mug749.vip"]
 ||3400.org^
 ||52kuwang.cn^
 ||abrnfctkn.xyz^
@@ -2205,17 +2207,22 @@ newduba.cn###jq_youxi
 ||csedasdme.xyz^
 ||cuioxbqi.com^
 ||cyq3noz.icu^
+||dadde.cn^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
 ||donchen501.cn^
+||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||duoying.vip^$third-party
+||eghyahl.cn^
 ||erfskhnpter.xyz^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
 ||eyq3nog.icu^
 ||fjsytjs.cn^
+||fuliwang.cc^
 ||glhdan.site^
+||gyq3bew.icu^
 ||hanwdsii.com^
 ||hdpdrandpd.xyz^
 ||hfqdipw.cn^
@@ -2227,25 +2234,31 @@ newduba.cn###jq_youxi
 ||ipadf.xyz^
 ||jh16csf.com^
 ||jpqed.xyz^
+||jrmrijv.icu^
 ||jujcjz.xyz^
 ||kahgjjd.com^
 ||kgeesh.site^
 ||kl91ccp.com^
 ||kxm1b0u.com^
+||laink.xyz^
 ||lanver.fun^
+||lgohse.fun^
 ||lwide.xyz^
 ||metaversemolecule.com^
+||moobtcnse.xyz^
 ||nryqr.cn^
 ||one6u.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
 ||powedw.com^
+||pstvvb.xyz^
 ||qhx1h2g.com^
 ||qifyeldy.top^
 ||relafp.xyz^
 ||ronbbf.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
+||sa8zdui.com^
 ||soushubah.com^$third-party
 ||sq59.cn^
 ||tgbevv.xyz^
@@ -2257,6 +2270,7 @@ newduba.cn###jq_youxi
 ||v1gyb.xyz^
 ||wubizigeng.com^
 ||wuye3d.com^
+||wyq3rum.icu^
 ||xccadc.com^
 ||xiaoxiuapp.com^
 ||yh18h8s.com^
@@ -2265,6 +2279,7 @@ newduba.cn###jq_youxi
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zonyff.xyz^
+||zypzzv.xyz^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -7779,7 +7794,6 @@ $websocket,domain=5nj.com|cechi8.com
 /web/ad/*$domain=gamer.com.tw
 /webcam.mp4$domain=91porn.com
 /webcam600.mp4$domain=91porn.com
-/wp-content/uploads/2016/10/2016103005450610.jpg
 /ysm.ezprice.net/*
 ://*btbtt.*/imgs.js
 ://*btbtt.*/view/image/QT_
@@ -9689,7 +9703,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ftimg.net/s?z=
 ||fuimg.com/1/66795b80a792fb96.png
 ||fuimg.com^$domain=678cn.com|cfzhushou.com
-||fuli.us/ad.js
 ||fulibac.com/images/upload/ad/
 ||fulibl.com/wp-content/uploads/2016/06/320-230.jpg
 ||fun1shot.com/images/qrcode_wechat.png
@@ -12533,7 +12546,6 @@ finance.ifeng.com###box_img
 7down.com,newasp.net###btndowns
 drvsky.com###bz_position
 pchome.net###bzhref
-fuli.us###callboard
 lspdfrcn.com###cancms_float_bar_fixed_bottom
 360kuai.com,hao.360.com###cangbao_redbags
 crx4.com,galacg.me,moneyweekly.com.tw###carousel-example-generic
@@ -12570,7 +12582,7 @@ haianw.com###comiis_haianw14
 chcj.com###comiis_sfcs00
 chcj.com###comiis_sfcs08
 jrj.com.cn###comment > a:first-child
-fuli.us,tianshif.com###comment-ad
+tianshif.com###comment-ad
 elecfans.com###company-ad
 ithome.com###con > div[style="text-align:center"]
 apk.tw###confirmOverla
@@ -13495,7 +13507,6 @@ zzbaike.com###topnav
 zzbaike.com###topnav + div[style]
 mtrend.cn###toptabs1 > .kz_line
 85lou.com###topwarning_7ree
-fuli.us###toubuads
 qidian.com###tr-banner
 tianya.cn###travel_float
 90pan.com###tt_6
@@ -14172,7 +14183,7 @@ acfun.cn##.banner-href[href^="http"]:not([href*=".acfun."])
 hupu.com##.banner-item[data-ad-params*=":"]
 crsky.com##.banner-leader
 wenku.baidu.com##.banner-more-title
-fuli.us##.banner-post
+th-sjy.com##.banner-post
 smzdm.com##.banner-stuff
 qq.com,sogou.com##.banner-vda
 firefoxchina.cn##.banner-words
@@ -15425,6 +15436,7 @@ zjhlcp.com##.middle_list
 huamu.cn##.midle-ad-list
 fenghuo.in##.mimi
 6.cn##.min-ad-box
+hk01.com##.min-h-\[250px\].mb-3
 cnr.cn,jxcn.cn##.min-news-box
 nowcoder.com##.mini-banner
 xunlei.com##.mini-pop
@@ -16004,7 +16016,6 @@ hdchina.org##.sitead
 hao123.com##.siye
 iask.sina.com.cn##.sj_300x250
 iask.sina.com.cn##.sj_680x250
-fuli.us##.slick
 baidu.com##.slide-bner-adv-ret
 ppsport.com##.slide-img[href^="http"]
 ksbbs.com,kshot.com##.slideAdvert
@@ -16291,6 +16302,7 @@ ifeng.com##.trade
 chinabidding.com.cn##.train
 dict.baidu.com##.tran-download-ad
 fanyi.baidu.com##.trans-side-ad-wrap
+cnki.net##.translateOutAdLink
 hao123.com##.treasure-game
 hao123.com##.treasure-item
 megatime.com.tw,pchome.com.tw##.tripplead
