@@ -6106,7 +6106,6 @@
 [/8tupian.com/]https://dns.pub/dns-query
 [/8twan.com/]https://dns.pub/dns-query
 [/8u58.com/]https://dns.pub/dns-query
-[/8uka.com/]https://dns.pub/dns-query
 [/8uyx.com/]https://dns.pub/dns-query
 [/8wan.com/]https://dns.pub/dns-query
 [/8win.net/]https://dns.pub/dns-query
@@ -8474,6 +8473,7 @@
 [/aocde.com/]https://dns.pub/dns-query
 [/aocdn.com/]https://dns.pub/dns-query
 [/aoch.com/]https://dns.pub/dns-query
+[/aochengcdn.com/]https://dns.pub/dns-query
 [/aoclia.com/]https://dns.pub/dns-query
 [/aocslb.com/]https://dns.pub/dns-query
 [/aodabo.tech/]https://dns.pub/dns-query
@@ -41177,7 +41177,6 @@
 [/panasonicmall.com/]https://dns.pub/dns-query
 [/panchuang.net/]https://dns.pub/dns-query
 [/panda-home.com/]https://dns.pub/dns-query
-[/panda321.com/]https://dns.pub/dns-query
 [/panda98.com/]https://dns.pub/dns-query
 [/pandadastudio.com/]https://dns.pub/dns-query
 [/pandafoundation.org/]https://dns.pub/dns-query
@@ -60722,6 +60721,7 @@
 [/yuebei.vip/]https://dns.pub/dns-query
 [/yuebingcheng.com/]https://dns.pub/dns-query
 [/yuebooemt.com/]https://dns.pub/dns-query
+[/yuecdn.net/]https://dns.pub/dns-query
 [/yuecheng.com/]https://dns.pub/dns-query
 [/yuedaoec.com/]https://dns.pub/dns-query
 [/yuedisk.com/]https://dns.pub/dns-query
@@ -60762,6 +60762,7 @@
 [/yuesuoping.com/]https://dns.pub/dns-query
 [/yuetu.tech/]https://dns.pub/dns-query
 [/yuetutu.com/]https://dns.pub/dns-query
+[/yuetuvip.com/]https://dns.pub/dns-query
 [/yuetuvip.net/]https://dns.pub/dns-query
 [/yuetx.cc/]https://dns.pub/dns-query
 [/yueweimusic.com/]https://dns.pub/dns-query
@@ -61173,7 +61174,6 @@
 [/yuzhulin.com/]https://dns.pub/dns-query
 [/yuzi.net/]https://dns.pub/dns-query
 [/yuzvf.com/]https://dns.pub/dns-query
-[/yveqi.com/]https://dns.pub/dns-query
 [/yvv.in/]https://dns.pub/dns-query
 [/yvzfgigpiwmofux.com/]https://dns.pub/dns-query
 [/yw11.com/]https://dns.pub/dns-query
