@@ -5455,7 +5455,6 @@
 [/765q.com/]https://dns.pub/dns-query
 [/766.com/]https://dns.pub/dns-query
 [/7663.com/]https://dns.pub/dns-query
-[/76676.com/]https://dns.pub/dns-query
 [/766z.com/]https://dns.pub/dns-query
 [/7676.com/]https://dns.pub/dns-query
 [/767stock.com/]https://dns.pub/dns-query
@@ -10172,6 +10171,7 @@
 [/beimai.com/]https://dns.pub/dns-query
 [/beimeigoufang.com/]https://dns.pub/dns-query
 [/beimeihongfeng.com/]https://dns.pub/dns-query
+[/beimiyouchuan.com/]https://dns.pub/dns-query
 [/beimu.com/]https://dns.pub/dns-query
 [/beingmate.com/]https://dns.pub/dns-query
 [/beipy.com/]https://dns.pub/dns-query
@@ -16029,7 +16029,6 @@
 [/cpu114.com/]https://dns.pub/dns-query
 [/cpu668.com/]https://dns.pub/dns-query
 [/cpubbs.com/]https://dns.pub/dns-query
-[/cpupack.com/]https://dns.pub/dns-query
 [/cpvjob.com/]https://dns.pub/dns-query
 [/cpython.org/]https://dns.pub/dns-query
 [/cpzjzx.com/]https://dns.pub/dns-query
@@ -31354,6 +31353,7 @@
 [/jingtuitui.com/]https://dns.pub/dns-query
 [/jingtum.com/]https://dns.pub/dns-query
 [/jingua168.com/]https://dns.pub/dns-query
+[/jinguanauto.com/]https://dns.pub/dns-query
 [/jingujie.com/]https://dns.pub/dns-query
 [/jingutrust.com/]https://dns.pub/dns-query
 [/jingwacenter.com/]https://dns.pub/dns-query
@@ -34594,7 +34594,6 @@
 [/laomaotao.net/]https://dns.pub/dns-query
 [/laomaotao.org/]https://dns.pub/dns-query
 [/laomaotaopan.com/]https://dns.pub/dns-query
-[/laomudong.cc/]https://dns.pub/dns-query
 [/laonanren.cc/]https://dns.pub/dns-query
 [/laoniushuju.com/]https://dns.pub/dns-query
 [/laoqiange.club/]https://dns.pub/dns-query
@@ -39098,7 +39097,6 @@
 [/muniao.com/]https://dns.pub/dns-query
 [/mupao.com/]https://dns.pub/dns-query
 [/mupceet.com/]https://dns.pub/dns-query
-[/mupmstx.com/]https://dns.pub/dns-query
 [/murdermysterypa.com/]https://dns.pub/dns-query
 [/murl.tv/]https://dns.pub/dns-query
 [/murphysec.com/]https://dns.pub/dns-query
@@ -44607,7 +44605,6 @@
 [/rayoptek.com/]https://dns.pub/dns-query
 [/rayps.com/]https://dns.pub/dns-query
 [/rayrjx.com/]https://dns.pub/dns-query
-[/raysd.com/]https://dns.pub/dns-query
 [/raysilicon.com/]https://dns.pub/dns-query
 [/raythonsoft.com/]https://dns.pub/dns-query
 [/raytoon.net/]https://dns.pub/dns-query
@@ -45424,6 +45421,7 @@
 [/rv2go.com/]https://dns.pub/dns-query
 [/rvcore.com/]https://dns.pub/dns-query
 [/rvfdp.com/]https://dns.pub/dns-query
+[/rvkol.com/]https://dns.pub/dns-query
 [/rvmcu.com/]https://dns.pub/dns-query
 [/rwtext.com/]https://dns.pub/dns-query
 [/rwxqfbj.com/]https://dns.pub/dns-query
@@ -48635,7 +48633,6 @@
 [/sportnanoapi.com/]https://dns.pub/dns-query
 [/sportq.com/]https://dns.pub/dns-query
 [/sports-idea.com/]https://dns.pub/dns-query
-[/sports8.cc/]https://dns.pub/dns-query
 [/sports8.net/]https://dns.pub/dns-query
 [/sportsdt.com/]https://dns.pub/dns-query
 [/sposter.net/]https://dns.pub/dns-query
@@ -49905,7 +49902,6 @@
 [/t1networks.com/]https://dns.pub/dns-query
 [/t1y4.com/]https://dns.pub/dns-query
 [/t20000.com/]https://dns.pub/dns-query
-[/t262.com/]https://dns.pub/dns-query
 [/t2cn.com/]https://dns.pub/dns-query
 [/t3315.com/]https://dns.pub/dns-query
 [/t4lover.com/]https://dns.pub/dns-query
@@ -56522,11 +56518,11 @@
 [/x315.com/]https://dns.pub/dns-query
 [/x3322.net/]https://dns.pub/dns-query
 [/x3366.com/]https://dns.pub/dns-query
+[/x33699.com/]https://dns.pub/dns-query
 [/x3china.com/]https://dns.pub/dns-query
 [/x3cn.com/]https://dns.pub/dns-query
 [/x431.com/]https://dns.pub/dns-query
 [/x5dj.com/]https://dns.pub/dns-query
-[/x5yue.com/]https://dns.pub/dns-query
 [/x64go.com/]https://dns.pub/dns-query
 [/x64pro.com/]https://dns.pub/dns-query
 [/x6d.com/]https://dns.pub/dns-query
@@ -61469,7 +61465,6 @@
 [/yunpan.com/]https://dns.pub/dns-query
 [/yunpansou.cc/]https://dns.pub/dns-query
 [/yunpanx.com/]https://dns.pub/dns-query
-[/yunpanziyuan.com/]https://dns.pub/dns-query
 [/yunpei.com/]https://dns.pub/dns-query
 [/yunpian.com/]https://dns.pub/dns-query
 [/yunpiao.net/]https://dns.pub/dns-query
