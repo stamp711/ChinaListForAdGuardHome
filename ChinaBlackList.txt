@@ -15033,7 +15033,6 @@
 [/cn.bing.net/]https://dns.pub/dns-query
 [/cn.msi.com/]https://dns.pub/dns-query
 [/cn.net/]https://dns.pub/dns-query
-[/cn.pandora.net/]https://dns.pub/dns-query
 [/cn.vc/]https://dns.pub/dns-query
 [/cn.vu/]https://dns.pub/dns-query
 [/cn.windowssearch.com/]https://dns.pub/dns-query
@@ -17102,6 +17101,7 @@
 [/dangwan.com/]https://dns.pub/dns-query
 [/dangzhi.com/]https://dns.pub/dns-query
 [/dangzhi.net/]https://dns.pub/dns-query
+[/dangzhu.net/]https://dns.pub/dns-query
 [/danhua.org/]https://dns.pub/dns-query
 [/danhuaer.com/]https://dns.pub/dns-query
 [/daniao.org/]https://dns.pub/dns-query
@@ -23251,7 +23251,6 @@
 [/ghatg.com/]https://dns.pub/dns-query
 [/ghboke.com/]https://dns.pub/dns-query
 [/ghgy.com/]https://dns.pub/dns-query
-[/ghgy.net/]https://dns.pub/dns-query
 [/ghibliwiki.org/]https://dns.pub/dns-query
 [/ghjie.com/]https://dns.pub/dns-query
 [/ghlawyer.net/]https://dns.pub/dns-query
@@ -29341,7 +29340,6 @@
 [/imitui.com/]https://dns.pub/dns-query
 [/imixpark.com/]https://dns.pub/dns-query
 [/imjiayin.com/]https://dns.pub/dns-query
-[/imkerwin.com/]https://dns.pub/dns-query
 [/imkevinyang.com/]https://dns.pub/dns-query
 [/imkira.com/]https://dns.pub/dns-query
 [/imlaidian.com/]https://dns.pub/dns-query
@@ -30627,7 +30625,6 @@
 [/jdzdeyy.com/]https://dns.pub/dns-query
 [/jdzeduyun.com/]https://dns.pub/dns-query
 [/jdzj.com/]https://dns.pub/dns-query
-[/jdzjdz.com/]https://dns.pub/dns-query
 [/jdzmc.com/]https://dns.pub/dns-query
 [/jdzol.com/]https://dns.pub/dns-query
 [/jdzol.net/]https://dns.pub/dns-query
@@ -51731,7 +51728,6 @@
 [/tsyqb.com/]https://dns.pub/dns-query
 [/tsyvps.com/]https://dns.pub/dns-query
 [/tsyzm.com/]https://dns.pub/dns-query
-[/tsz.com/]https://dns.pub/dns-query
 [/tszckj.com/]https://dns.pub/dns-query
 [/tszhjk.com/]https://dns.pub/dns-query
 [/tszyzx.com/]https://dns.pub/dns-query
@@ -53793,6 +53789,7 @@
 [/waf.cdnetworks.com/]https://dns.pub/dns-query
 [/wafcn.com/]https://dns.pub/dns-query
 [/wafunny.com/]https://dns.pub/dns-query
+[/wafzi.com/]https://dns.pub/dns-query
 [/waheaven.com/]https://dns.pub/dns-query
 [/wahlap.com/]https://dns.pub/dns-query
 [/wahongyu.com/]https://dns.pub/dns-query
@@ -54403,7 +54400,6 @@
 [/weicaifu.com/]https://dns.pub/dns-query
 [/weicewang.com/]https://dns.pub/dns-query
 [/weichaishi.com/]https://dns.pub/dns-query
-[/weichen.org/]https://dns.pub/dns-query
 [/weicher-sz.com/]https://dns.pub/dns-query
 [/weiclicai.com/]https://dns.pub/dns-query
 [/weico.cc/]https://dns.pub/dns-query
