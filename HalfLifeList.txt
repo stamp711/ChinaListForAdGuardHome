@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202308120203
-! Last Modified: 2023年08月12日 02:03
+! Version: 202308130201
+! Last Modified: 2023年08月13日 02:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -625,7 +625,6 @@ stgowan.com
 -1316632262.cos.
 -1316899192.cos.
 -1688-wp-media/ads/
-/os230718.oss-
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -1127,6 +1126,7 @@ stgowan.com
 /ntes-ad-cloud.
 /opbb/float.js
 /opbb/obpp.tpl
+/os230718.oss-
 /page/?s=$third-party
 /page/index.php?s=$third-party
 /page/s.php?s=$third-party
@@ -2215,7 +2215,9 @@ newduba.cn###jq_youxi
 ||1378a.xyz^
 ||1379a.xyz^
 ||1u5gy.xyz^
+||23dhj4q.com^
 ||3400.org^
+||36mghtd.xyz^
 ||39mydp.xyz^
 ||4asfgyx.com^
 ||52acc.cn^
@@ -2237,6 +2239,7 @@ newduba.cn###jq_youxi
 ||arpg2.com^
 ||b4g7k9d2.com^
 ||bai128.xyz^
+||baidudvbjkbssjvsvv.com^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
 ||baitaiz.com^
@@ -2314,6 +2317,7 @@ newduba.cn###jq_youxi
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||duoying.vip^$third-party
+||duyvtanrheje.xyz^
 ||dwfjtz.xyz^
 ||dyeperd.icu^
 ||dzkwj0y.xyz^
@@ -2321,6 +2325,7 @@ newduba.cn###jq_youxi
 ||ebscb0l.xyz^
 ||eers0cy.com^
 ||eghyahl.cn^
+||egipsbvlgn.xyz^
 ||eheb8.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
@@ -2390,6 +2395,7 @@ newduba.cn###jq_youxi
 ||hohmaryt.com^
 ||hongteng.xyz^
 ||hpvwdkn.cn^
+||hqdlhgx.cn^
 ||hqgearb.icu^
 ||hqzcths.cn^
 ||hsadeg.site^
@@ -2414,6 +2420,7 @@ newduba.cn###jq_youxi
 ||janwzsqi.icu^
 ||jdcnwd.com^
 ||jh16csf.com^
+||jhkggrr.icu^
 ||jhlazsot.icu^
 ||jhzfwl.cn^
 ||jjade.xyz^
@@ -2421,9 +2428,11 @@ newduba.cn###jq_youxi
 ||jjztrz.xyz^
 ||jklhs7u.com^
 ||jknnjk.com^
+||jmbluyxkl.xyz^
 ||jnhgm.com^
 ||jochenanabata.guru^
 ||jokerlulm.com^
+||jothvz.xyz^
 ||jpqed.xyz^
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
@@ -2469,7 +2478,9 @@ newduba.cn###jq_youxi
 ||lifyeldl.top^
 ||liitwrz.icu^
 ||likdie.com^
+||lingsiqiwu.com^
 ||lkmhn.com^
+||lknhrnd.com^
 ||lknnbd.xyz^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
@@ -2483,6 +2494,7 @@ newduba.cn###jq_youxi
 ||lwide.xyz^
 ||lycjsix.cn^
 ||metaversemolecule.com^
+||mh616.org^
 ||mifyeldx.top^
 ||misapopait.com^
 ||mkjnba.com^
@@ -2591,6 +2603,7 @@ newduba.cn###jq_youxi
 ||tfttbd.xyz^
 ||tgbevv.xyz^
 ||thesac2.top^
+||thesac3.top^
 ||thesac7.top^
 ||tifyeldi.top^
 ||tknkfd.xyz^
@@ -2604,6 +2617,7 @@ newduba.cn###jq_youxi
 ||tseda6.icu^
 ||tslbahi.top^
 ||ttykabh.icu^
+||tuplzt.xyz^
 ||tushwjp.icu^
 ||tuwaqtjcood.com^
 ||tvdpebx.cn^
@@ -2614,7 +2628,9 @@ newduba.cn###jq_youxi
 ||ujnkn.com^
 ||ulojlvmejkaem.xyz^
 ||unjld.com^
+||uslbaht.top^
 ||uwgnpkd.cn^
+||uxmwh0f.xyz^
 ||uxtruz.xyz^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
@@ -2687,11 +2703,6 @@ newduba.cn###jq_youxi
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||36mghtd.xyz^
-||egipsbvlgn.xyz^
-||lingsiqiwu.com^
-||baidudvbjkbssjvsvv.com^
-||duyvtanrheje.xyz^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
@@ -7789,7 +7800,7 @@ $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downh
 $image,third-party,domain=lady1.top
 $script,third-party,domain=52movieba.com|66s.cc|audio699.com|btsow.cfd|kan-tv.com|m.supfree.net|xiaoheimi.net
 $script,third-party,websocket,domain=52codes.net
-$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|webhd.cc
 $websocket,domain=5nj.com|cechi8.com
 .194007.com/4058.gif
 .gif|$domain=7mshipin.org|viidii.info
@@ -8401,6 +8412,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||8684.com/local/bdadv.
 ||8684.com/shuang11/
 ||86saohu.com/api/cctvs/show?
+||86uk.com/banners/
 ||86uk.com/uploads/*0.gif
 ||86uk.com/uploads/*0x
 ||86uk.com^$subdocument
@@ -16811,20 +16823,23 @@ v.qq.com##a[href*="amway.com.cn"]
 939394.xyz##a[href*="base."]
 kanqiuba.net##a[href*="bet"]
 141jj.com,99kubo.tv,jumi.su,preface.ai,r3sub.com##a[href*="bit.ly"]
+6park.com##a[href*="bpropolis."]
 dapenti.com##a[href*="cashier.iqiyi.com"]
 cnbeta.com,editcode.net,itboth.com,itkeyword.com,ruyo.net,zhanzhangb.com##a[href*="cloud.tencent.com"]
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url*="gaoneng.bilibili.com"]
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url*="gaoneng.bilibili.com"] + .bili-video-card__info
-bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"])
-bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]) + .bili-video-card__info
+bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bilibili.com/"])
+bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bilibili.com/"]) + .bili-video-card__info
 comicat.org,kisssub.org##a[href*="db."]
 china.com.cn##a[href*="dwz.cn"]
 tiexue.net##a[href*="game.tiexue."]
+6park.com##a[href*="geekbuying."]
 i-part.com.tw##a[href*="goo.gl%2FW9SXr1&"]
 itxueyuan.com##a[href*="guanggaowei"]
 iqiyi.com,~mall.iqiyi.com,~so.iqiyi.com##a[href*="http://mall.iqiyi.com/item/"]
 c4dsky.com##a[href*="ibaotu.com"]
 jinti.com##a[href*="immobel.com"]
+6park.com##a[href*="jdoqocy."]
 kdslife.com##a[href*="kds.2144.cn"]
 m.baidu.com##a[href*="m.lecai.com"]
 ccav1.com##a[href*="meidebi."]
@@ -20080,7 +20095,7 @@ theporn.cc##.toolbar-gg
 ||jsdelivr.net/gh/dashange123/
 !#torrentkitty
 ##.nordvpn-popup + .sidebar-vpn
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 .tor*/js/jquery.bpopup.
 /nordvpn/autoptimize_
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
