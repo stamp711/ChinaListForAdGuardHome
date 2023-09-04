@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202309030202
-! Last Modified: 2023年09月03日 02:02
+! Version: 202309040825
+! Last Modified: 2023年09月04日 08:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2277,6 +2277,7 @@ newduba.cn###jq_youxi
 ||bavde1.icu^
 ||bavde3.icu^
 ||bbges.xyz^
+||bbphonix.xyz^
 ||bcejk.xyz^
 ||bcsijjgck.xyz^
 ||bdates.fun^
@@ -2337,6 +2338,7 @@ newduba.cn###jq_youxi
 ||ciadre.fun^
 ||cix0wk.com^
 ||connectreadoasis.com^
+||cqtlimi.cn^
 ||csedasdme.xyz^
 ||cslbahf.top^
 ||ctienlf.top^
@@ -2534,6 +2536,7 @@ newduba.cn###jq_youxi
 ||jh16csf.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
+||jhvchv.xyz^
 ||jhzfwl.cn^
 ||jixmlx.xyz^
 ||jjade.xyz^
@@ -2692,6 +2695,7 @@ newduba.cn###jq_youxi
 ||one6u.xyz^
 ||oopej.xyz^
 ||ooqwc.xyz^
+||oq6ry.com^
 ||oqyiapj.cn^
 ||oslbahk.top^
 ||ossfile001.com^
@@ -2791,6 +2795,7 @@ newduba.cn###jq_youxi
 ||suy5x8.com^
 ||svarub.xyz^
 ||svvev3.com^
+||sxundrh.cn^
 ||t2zfyxjj.icu^
 ||tarqk5.com^
 ||tcuqqhj.icu^
@@ -2807,7 +2812,9 @@ newduba.cn###jq_youxi
 ||thesac4.top^
 ||thesac5.top^
 ||thesac7.top^
+||thesac9.top^
 ||tifyeldi.top^
+||tjwzyjx.icu^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tlbjw.com^
@@ -2962,6 +2969,10 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||cheda7.icu^
+||tltyygb.cn^
+||wtienle.top^
+||dvenkbn.icu^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -17514,6 +17525,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||right.com.cn/forum/*300*250$image
 @@||rltdxt.com/files/h5/app.js
 @@||rmdown.com/ads.js
+@@||rosefile.net^$generichide
 @@||ruten.com.tw/ahd/fetch_ad.php
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
 @@||s.tgfcer.com^$generichide
@@ -20410,6 +20422,7 @@ _box_ad_
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||djljz.cn/Plugins/Template/XJLY/js/app.
 !------------------------Specific element hiding rules------------------------!
+crsky.com##.adowGright
 17173.com##a[href^="https://gtv."]
 gamer.com.tw,~buy.gamer.com.tw##a[href^="https://buy.gamer.com.tw"]
 kdocs.cn##.business-list-wrap
