@@ -585,6 +585,7 @@
 [/0gouche.com/]https://dns.pub/dns-query
 [/0hgame.com/]https://dns.pub/dns-query
 [/0kee.com/]https://dns.pub/dns-query
+[/0o0o0o0o0o0.tokyo/]https://dns.pub/dns-query
 [/0qda82zu.com/]https://dns.pub/dns-query
 [/0rl.cc/]https://dns.pub/dns-query
 [/0s52.com/]https://dns.pub/dns-query
@@ -860,7 +861,6 @@
 [/114zw.org/]https://dns.pub/dns-query
 [/115.com/]https://dns.pub/dns-query
 [/11544.com/]https://dns.pub/dns-query
-[/1155.com/]https://dns.pub/dns-query
 [/1155871.com/]https://dns.pub/dns-query
 [/1156.com/]https://dns.pub/dns-query
 [/1156dns.com/]https://dns.pub/dns-query
@@ -919,7 +919,6 @@
 [/120bjgcyy.org/]https://dns.pub/dns-query
 [/120btc.com/]https://dns.pub/dns-query
 [/120fd.com/]https://dns.pub/dns-query
-[/120kaoshi.com/]https://dns.pub/dns-query
 [/120kid.com/]https://dns.pub/dns-query
 [/120kq.com/]https://dns.pub/dns-query
 [/120top.com/]https://dns.pub/dns-query
@@ -1195,7 +1194,6 @@
 [/15solo.com/]https://dns.pub/dns-query
 [/15str.com/]https://dns.pub/dns-query
 [/15tianqi.com/]https://dns.pub/dns-query
-[/15w.com/]https://dns.pub/dns-query
 [/15xdd.com/]https://dns.pub/dns-query
 [/15yc.com/]https://dns.pub/dns-query
 [/15yl.com/]https://dns.pub/dns-query
@@ -2883,7 +2881,6 @@
 [/375772rug.com/]https://dns.pub/dns-query
 [/375buy.com/]https://dns.pub/dns-query
 [/37682.biz/]https://dns.pub/dns-query
-[/37770559.com/]https://dns.pub/dns-query
 [/37937.com/]https://dns.pub/dns-query
 [/3798.com/]https://dns.pub/dns-query
 [/3799qq.com/]https://dns.pub/dns-query
@@ -3420,7 +3417,6 @@
 [/505gg.com/]https://dns.pub/dns-query
 [/505uu.com/]https://dns.pub/dns-query
 [/5066.com/]https://dns.pub/dns-query
-[/5068.com/]https://dns.pub/dns-query
 [/5068yx.com/]https://dns.pub/dns-query
 [/506fhq.com/]https://dns.pub/dns-query
 [/50970.com/]https://dns.pub/dns-query
@@ -4743,6 +4739,7 @@
 [/5jjdw.com/]https://dns.pub/dns-query
 [/5jli.com/]https://dns.pub/dns-query
 [/5joys.com/]https://dns.pub/dns-query
+[/5jtxt.com/]https://dns.pub/dns-query
 [/5jwl.com/]https://dns.pub/dns-query
 [/5jzw.com/]https://dns.pub/dns-query
 [/5k5m.com/]https://dns.pub/dns-query
@@ -5860,7 +5857,6 @@
 [/872.cc/]https://dns.pub/dns-query
 [/8721.com/]https://dns.pub/dns-query
 [/872872.com/]https://dns.pub/dns-query
-[/87311111.com/]https://dns.pub/dns-query
 [/87535353.com/]https://dns.pub/dns-query
 [/876web.com/]https://dns.pub/dns-query
 [/8770000.com/]https://dns.pub/dns-query
@@ -6061,7 +6057,6 @@
 [/8zntx.com/]https://dns.pub/dns-query
 [/8zy.com/]https://dns.pub/dns-query
 [/9-zhuce.com/]https://dns.pub/dns-query
-[/9000design.com/]https://dns.pub/dns-query
 [/9000idc.com/]https://dns.pub/dns-query
 [/9000wy.com/]https://dns.pub/dns-query
 [/900112.com/]https://dns.pub/dns-query
@@ -6394,6 +6389,7 @@
 [/93pk.com/]https://dns.pub/dns-query
 [/93sdk.com/]https://dns.pub/dns-query
 [/93soso.com/]https://dns.pub/dns-query
+[/93ta.com/]https://dns.pub/dns-query
 [/93tyy.com/]https://dns.pub/dns-query
 [/93wgames.com/]https://dns.pub/dns-query
 [/93x.net/]https://dns.pub/dns-query
@@ -6629,6 +6625,7 @@
 [/99394.com/]https://dns.pub/dns-query
 [/993h.com/]https://dns.pub/dns-query
 [/994wan.com/]https://dns.pub/dns-query
+[/9951.cc/]https://dns.pub/dns-query
 [/995120.net/]https://dns.pub/dns-query
 [/9955993.com/]https://dns.pub/dns-query
 [/996.com/]https://dns.pub/dns-query
@@ -6750,7 +6747,6 @@
 [/9cb.com/]https://dns.pub/dns-query
 [/9ccapital.com/]https://dns.pub/dns-query
 [/9chew.com/]https://dns.pub/dns-query
-[/9chun.com/]https://dns.pub/dns-query
 [/9clive.com/]https://dns.pub/dns-query
 [/9conn.net/]https://dns.pub/dns-query
 [/9cwx.com/]https://dns.pub/dns-query
@@ -7318,7 +7314,6 @@
 [/agora.io/]https://dns.pub/dns-query
 [/agrantsem.com/]https://dns.pub/dns-query
 [/agrittex.com/]https://dns.pub/dns-query
-[/agriturismoilrifugio.com/]https://dns.pub/dns-query
 [/agrochemshow.com/]https://dns.pub/dns-query
 [/agrodt.com/]https://dns.pub/dns-query
 [/agrofairs.com/]https://dns.pub/dns-query
@@ -8415,6 +8410,7 @@
 [/aocslb.com/]https://dns.pub/dns-query
 [/aodabo.tech/]https://dns.pub/dns-query
 [/aodaliyaqianzheng.com/]https://dns.pub/dns-query
+[/aodbw.com/]https://dns.pub/dns-query
 [/aoddoll.com/]https://dns.pub/dns-query
 [/aodeng.cc/]https://dns.pub/dns-query
 [/aodianyun.com/]https://dns.pub/dns-query
@@ -8442,6 +8438,7 @@
 [/aolaigo.com/]https://dns.pub/dns-query
 [/aoliday.com/]https://dns.pub/dns-query
 [/aoliongame.com/]https://dns.pub/dns-query
+[/aolvyou.com/]https://dns.pub/dns-query
 [/aolylcd.com/]https://dns.pub/dns-query
 [/aomeng.net/]https://dns.pub/dns-query
 [/aomygodstatic.com/]https://dns.pub/dns-query
@@ -8894,6 +8891,7 @@
 [/asurada.zone/]https://dns.pub/dns-query
 [/asussmart.com/]https://dns.pub/dns-query
 [/asussz-zp.com/]https://dns.pub/dns-query
+[/asusw.net/]https://dns.pub/dns-query
 [/aswetalk.net/]https://dns.pub/dns-query
 [/asyzonline.com/]https://dns.pub/dns-query
 [/aszvip.com/]https://dns.pub/dns-query
@@ -10063,7 +10061,9 @@
 [/bej9.com/]https://dns.pub/dns-query
 [/bejoin.net/]https://dns.pub/dns-query
 [/bejson.com/]https://dns.pub/dns-query
+[/belarusvisacenter.com/]https://dns.pub/dns-query
 [/belfone.com/]https://dns.pub/dns-query
+[/belgiumvisacenterd.com/]https://dns.pub/dns-query
 [/belle8.com/]https://dns.pub/dns-query
 [/beltandroadforum.org/]https://dns.pub/dns-query
 [/beltxman.com/]https://dns.pub/dns-query
@@ -10364,7 +10364,6 @@
 [/bigdata.ren/]https://dns.pub/dns-query
 [/bigdatasafe.org/]https://dns.pub/dns-query
 [/bigdatastudy.net/]https://dns.pub/dns-query
-[/bigdiao.cc/]https://dns.pub/dns-query
 [/bigecko.com/]https://dns.pub/dns-query
 [/bigehudong.com/]https://dns.pub/dns-query
 [/bigemao.com/]https://dns.pub/dns-query
@@ -10885,7 +10884,6 @@
 [/bjwhds.com/]https://dns.pub/dns-query
 [/bjwkzl.com/]https://dns.pub/dns-query
 [/bjwsxx.com/]https://dns.pub/dns-query
-[/bjwszyxy.com/]https://dns.pub/dns-query
 [/bjwwhc.com/]https://dns.pub/dns-query
 [/bjwyseo.com/]https://dns.pub/dns-query
 [/bjxcloud.com/]https://dns.pub/dns-query
@@ -10910,7 +10908,6 @@
 [/bjyunyu.com/]https://dns.pub/dns-query
 [/bjywt.com/]https://dns.pub/dns-query
 [/bjzaxy.com/]https://dns.pub/dns-query
-[/bjzbb.com/]https://dns.pub/dns-query
 [/bjzbkj.com/]https://dns.pub/dns-query
 [/bjzcha.com/]https://dns.pub/dns-query
 [/bjzcth.com/]https://dns.pub/dns-query
@@ -11029,7 +11026,6 @@
 [/blue-city.com/]https://dns.pub/dns-query
 [/blue-zero.com/]https://dns.pub/dns-query
 [/bluebeebox.com/]https://dns.pub/dns-query
-[/bluebonnetbikes.com/]https://dns.pub/dns-query
 [/bluecatyun.com/]https://dns.pub/dns-query
 [/bluecefa.com/]https://dns.pub/dns-query
 [/blued.com/]https://dns.pub/dns-query
@@ -14290,7 +14286,6 @@
 [/chubh.com/]https://dns.pub/dns-query
 [/chucaotang.com/]https://dns.pub/dns-query
 [/chucaotang.net/]https://dns.pub/dns-query
-[/chuchuguwen.com/]https://dns.pub/dns-query
 [/chuchujie.com/]https://dns.pub/dns-query
 [/chudeer.com/]https://dns.pub/dns-query
 [/chudian365.com/]https://dns.pub/dns-query
@@ -16344,6 +16339,7 @@
 [/cuanhuang.com/]https://dns.pub/dns-query
 [/cuantianhou.net/]https://dns.pub/dns-query
 [/cuav.net/]https://dns.pub/dns-query
+[/cubavcenter.com/]https://dns.pub/dns-query
 [/cubead.com/]https://dns.pub/dns-query
 [/cubejoy.com/]https://dns.pub/dns-query
 [/cubie.cc/]https://dns.pub/dns-query
@@ -16453,7 +16449,6 @@
 [/cxcc.me/]https://dns.pub/dns-query
 [/cxcyds.com/]https://dns.pub/dns-query
 [/cxd-auto.com/]https://dns.pub/dns-query
-[/cxfaka.com/]https://dns.pub/dns-query
 [/cxfuwu.com/]https://dns.pub/dns-query
 [/cxgame.net/]https://dns.pub/dns-query
 [/cxh99.com/]https://dns.pub/dns-query
@@ -16596,6 +16591,7 @@
 [/czdingming.com/]https://dns.pub/dns-query
 [/czdrbz.com/]https://dns.pub/dns-query
 [/czds.net/]https://dns.pub/dns-query
+[/czech-visacenter.com/]https://dns.pub/dns-query
 [/czedu.com/]https://dns.pub/dns-query
 [/czepb.com/]https://dns.pub/dns-query
 [/czfcw.com/]https://dns.pub/dns-query
@@ -18122,7 +18118,6 @@
 [/dldlsw.com/]https://dns.pub/dns-query
 [/dledu.com/]https://dns.pub/dns-query
 [/dlfederal.com/]https://dns.pub/dns-query
-[/dlgaoji.com/]https://dns.pub/dns-query
 [/dlgwbn.com/]https://dns.pub/dns-query
 [/dljrw.com/]https://dns.pub/dns-query
 [/dljs.net/]https://dns.pub/dns-query
@@ -19330,7 +19325,6 @@
 [/earthstar-cloud.com/]https://dns.pub/dns-query
 [/easck.com/]https://dns.pub/dns-query
 [/eascs.com/]https://dns.pub/dns-query
-[/easeapi.com/]https://dns.pub/dns-query
 [/easeeyes.com/]https://dns.pub/dns-query
 [/easemob.com/]https://dns.pub/dns-query
 [/easerun.com/]https://dns.pub/dns-query
@@ -20245,7 +20239,6 @@
 [/esafenet.com/]https://dns.pub/dns-query
 [/esavip.com/]https://dns.pub/dns-query
 [/escdn.com/]https://dns.pub/dns-query
-[/escjy.net/]https://dns.pub/dns-query
 [/esclass.com/]https://dns.pub/dns-query
 [/esdaxiagu.com/]https://dns.pub/dns-query
 [/esde.cc/]https://dns.pub/dns-query
@@ -22766,7 +22759,6 @@
 [/gearfront.net/]https://dns.pub/dns-query
 [/gearkr.com/]https://dns.pub/dns-query
 [/geautos.com/]https://dns.pub/dns-query
-[/gebi1.com/]https://dns.pub/dns-query
 [/gebilaoshi.com/]https://dns.pub/dns-query
 [/gebiqu.com/]https://dns.pub/dns-query
 [/gec123.com/]https://dns.pub/dns-query
@@ -22796,7 +22788,6 @@
 [/geekerconsulting.com/]https://dns.pub/dns-query
 [/geekfan.net/]https://dns.pub/dns-query
 [/geekfans.com/]https://dns.pub/dns-query
-[/geekgay.com/]https://dns.pub/dns-query
 [/geekhub.com/]https://dns.pub/dns-query
 [/geekiron.com/]https://dns.pub/dns-query
 [/geekluo.com/]https://dns.pub/dns-query
@@ -23090,7 +23081,6 @@
 [/gitv.tv/]https://dns.pub/dns-query
 [/gityuan.com/]https://dns.pub/dns-query
 [/gityx.com/]https://dns.pub/dns-query
-[/giuem.com/]https://dns.pub/dns-query
 [/giveda.com/]https://dns.pub/dns-query
 [/giveme5.cc/]https://dns.pub/dns-query
 [/giwkgb.com/]https://dns.pub/dns-query
@@ -23872,7 +23862,6 @@
 [/guangxi910.com/]https://dns.pub/dns-query
 [/guangxigrc.com/]https://dns.pub/dns-query
 [/guangxiyou.com/]https://dns.pub/dns-query
-[/guangyaguang.com/]https://dns.pub/dns-query
 [/guangyinglvxing.com/]https://dns.pub/dns-query
 [/guangyv.com/]https://dns.pub/dns-query
 [/guangzhitui.com/]https://dns.pub/dns-query
@@ -24417,7 +24406,6 @@
 [/gzycdy.com/]https://dns.pub/dns-query
 [/gzych.vip/]https://dns.pub/dns-query
 [/gzyct.com/]https://dns.pub/dns-query
-[/gzyeah.com/]https://dns.pub/dns-query
 [/gzylhyzx.com/]https://dns.pub/dns-query
 [/gzyouai.com/]https://dns.pub/dns-query
 [/gzyqtlxs.com/]https://dns.pub/dns-query
@@ -25085,7 +25073,6 @@
 [/haozu.com/]https://dns.pub/dns-query
 [/haozuojia.com/]https://dns.pub/dns-query
 [/hapi123.net/]https://dns.pub/dns-query
-[/hapimall.com/]https://dns.pub/dns-query
 [/hapingapp.com/]https://dns.pub/dns-query
 [/haplat.net/]https://dns.pub/dns-query
 [/happigo.com/]https://dns.pub/dns-query
@@ -27263,7 +27250,6 @@
 [/huazhucorp.com/]https://dns.pub/dns-query
 [/huazirc.com/]https://dns.pub/dns-query
 [/hubcyts.com/]https://dns.pub/dns-query
-[/hubei-design.com/]https://dns.pub/dns-query
 [/hubeibbs.net/]https://dns.pub/dns-query
 [/hubeici.com/]https://dns.pub/dns-query
 [/hubeidaily.net/]https://dns.pub/dns-query
@@ -27746,7 +27732,6 @@
 [/hxgs.net/]https://dns.pub/dns-query
 [/hxgwott.com/]https://dns.pub/dns-query
 [/hxhost.com/]https://dns.pub/dns-query
-[/hxhydraulic.com/]https://dns.pub/dns-query
 [/hxinq.com/]https://dns.pub/dns-query
 [/hxjbcdn.com/]https://dns.pub/dns-query
 [/hxjbh.com/]https://dns.pub/dns-query
@@ -28637,6 +28622,7 @@
 [/igamecj.com/]https://dns.pub/dns-query
 [/igao7.com/]https://dns.pub/dns-query
 [/igaoda.com/]https://dns.pub/dns-query
+[/igbill.com/]https://dns.pub/dns-query
 [/igdzc.com/]https://dns.pub/dns-query
 [/igea-un.org/]https://dns.pub/dns-query
 [/igeak.com/]https://dns.pub/dns-query
@@ -29499,6 +29485,7 @@
 [/irealtech.com/]https://dns.pub/dns-query
 [/irecyclingtimes.com/]https://dns.pub/dns-query
 [/iredwhale.com/]https://dns.pub/dns-query
+[/irelandvisacenter.com/]https://dns.pub/dns-query
 [/irelxtech.com/]https://dns.pub/dns-query
 [/iresearchad.com/]https://dns.pub/dns-query
 [/iresearchchina.com/]https://dns.pub/dns-query
@@ -29657,6 +29644,7 @@
 [/itaic.org/]https://dns.pub/dns-query
 [/itaiping.com/]https://dns.pub/dns-query
 [/itakeeasy.com/]https://dns.pub/dns-query
+[/italyvisacenterd.com/]https://dns.pub/dns-query
 [/itamt.com/]https://dns.pub/dns-query
 [/itangbole.com/]https://dns.pub/dns-query
 [/itangyuan.com/]https://dns.pub/dns-query
@@ -30043,6 +30031,7 @@
 [/izstz.com/]https://dns.pub/dns-query
 [/izt8.com/]https://dns.pub/dns-query
 [/iztwp.com/]https://dns.pub/dns-query
+[/izuanla.com/]https://dns.pub/dns-query
 [/izuche.com/]https://dns.pub/dns-query
 [/izuchecdn.com/]https://dns.pub/dns-query
 [/izuiyou.com/]https://dns.pub/dns-query
@@ -30323,7 +30312,6 @@
 [/jeesite.com/]https://dns.pub/dns-query
 [/jeeyaa.com/]https://dns.pub/dns-query
 [/jefang.com/]https://dns.pub/dns-query
-[/jeffdesign.net/]https://dns.pub/dns-query
 [/jeffjade.com/]https://dns.pub/dns-query
 [/jeffreyitstudio.com/]https://dns.pub/dns-query
 [/jeffstudio.net/]https://dns.pub/dns-query
@@ -31309,7 +31297,6 @@
 [/jizhuomi.com/]https://dns.pub/dns-query
 [/jizhutaoke.com/]https://dns.pub/dns-query
 [/jiziyy.com/]https://dns.pub/dns-query
-[/jizunnet.com/]https://dns.pub/dns-query
 [/jj-inn.com/]https://dns.pub/dns-query
 [/jj20.com/]https://dns.pub/dns-query
 [/jj3658.com/]https://dns.pub/dns-query
@@ -32419,7 +32406,6 @@
 [/k18.com/]https://dns.pub/dns-query
 [/k18882.com/]https://dns.pub/dns-query
 [/k1u.com/]https://dns.pub/dns-query
-[/k2938.com/]https://dns.pub/dns-query
 [/k2ma.com/]https://dns.pub/dns-query
 [/k2os.com/]https://dns.pub/dns-query
 [/k345.cc/]https://dns.pub/dns-query
@@ -32485,7 +32471,6 @@
 [/kaihuia.com/]https://dns.pub/dns-query
 [/kaijia.com/]https://dns.pub/dns-query
 [/kaikeba.com/]https://dns.pub/dns-query
-[/kailida.net/]https://dns.pub/dns-query
 [/kailincheng.com/]https://dns.pub/dns-query
 [/kailing.pub/]https://dns.pub/dns-query
 [/kaimanhua.com/]https://dns.pub/dns-query
@@ -32581,7 +32566,6 @@
 [/kangle.net/]https://dns.pub/dns-query
 [/kanglu.com/]https://dns.pub/dns-query
 [/kangpeining.com/]https://dns.pub/dns-query
-[/kangqite.com/]https://dns.pub/dns-query
 [/kangre.com/]https://dns.pub/dns-query
 [/kangshuai.biz/]https://dns.pub/dns-query
 [/kanguo.com/]https://dns.pub/dns-query
@@ -32742,7 +32726,6 @@
 [/kd9000.com/]https://dns.pub/dns-query
 [/kdadj.com/]https://dns.pub/dns-query
 [/kdatacenter.com/]https://dns.pub/dns-query
-[/kdhlw.com/]https://dns.pub/dns-query
 [/kdige.com/]https://dns.pub/dns-query
 [/kdniao.com/]https://dns.pub/dns-query
 [/kdpt.net/]https://dns.pub/dns-query
@@ -33097,7 +33080,6 @@
 [/kk556677kk.com/]https://dns.pub/dns-query
 [/kk667788kk.com/]https://dns.pub/dns-query
 [/kkapp.com/]https://dns.pub/dns-query
-[/kkbuyu8.com/]https://dns.pub/dns-query
 [/kkcache.net/]https://dns.pub/dns-query
 [/kkcaicai.com/]https://dns.pub/dns-query
 [/kkcapture.com/]https://dns.pub/dns-query
@@ -33828,7 +33810,6 @@
 [/kyemall.com/]https://dns.pub/dns-query
 [/kyhs.me/]https://dns.pub/dns-query
 [/kyhtech.com/]https://dns.pub/dns-query
-[/kyimg.com/]https://dns.pub/dns-query
 [/kyjxy.com/]https://dns.pub/dns-query
 [/kylc.com/]https://dns.pub/dns-query
 [/kyleduo.com/]https://dns.pub/dns-query
@@ -33988,6 +33969,7 @@
 [/lan-lin.com/]https://dns.pub/dns-query
 [/lan1001.com/]https://dns.pub/dns-query
 [/lanbts.com/]https://dns.pub/dns-query
+[/lancern.xyz/]https://dns.pub/dns-query
 [/lanchenglv.com/]https://dns.pub/dns-query
 [/lancn.net/]https://dns.pub/dns-query
 [/lancome-beauty.com/]https://dns.pub/dns-query
@@ -34368,7 +34350,6 @@
 [/leangoo.com/]https://dns.pub/dns-query
 [/leankun.com/]https://dns.pub/dns-query
 [/leanote.com/]https://dns.pub/dns-query
-[/leanote.org/]https://dns.pub/dns-query
 [/leansoftx.com/]https://dns.pub/dns-query
 [/leanwind.com/]https://dns.pub/dns-query
 [/leap-pc.com/]https://dns.pub/dns-query
@@ -34895,7 +34876,6 @@
 [/lidazhuang.com/]https://dns.pub/dns-query
 [/lidecloud.com/]https://dns.pub/dns-query
 [/lidepower.com/]https://dns.pub/dns-query
-[/lidetc.com/]https://dns.pub/dns-query
 [/lidewen.com/]https://dns.pub/dns-query
 [/liding.me/]https://dns.pub/dns-query
 [/lidodo.com/]https://dns.pub/dns-query
@@ -36531,6 +36511,7 @@
 [/macw.com/]https://dns.pub/dns-query
 [/macxf.com/]https://dns.pub/dns-query
 [/macxin.com/]https://dns.pub/dns-query
+[/macxz.com/]https://dns.pub/dns-query
 [/macz.com/]https://dns.pub/dns-query
 [/maczd.com/]https://dns.pub/dns-query
 [/maczhi.com/]https://dns.pub/dns-query
@@ -37163,6 +37144,7 @@
 [/meiguiwxw.com/]https://dns.pub/dns-query
 [/meiguo-qianzheng.com/]https://dns.pub/dns-query
 [/meiguoxiaoxue.com/]https://dns.pub/dns-query
+[/meiguoxq.com/]https://dns.pub/dns-query
 [/meiguozhuji.com/]https://dns.pub/dns-query
 [/meigushe.com/]https://dns.pub/dns-query
 [/meih5.com/]https://dns.pub/dns-query
@@ -39349,6 +39331,7 @@
 [/netentsec.com/]https://dns.pub/dns-query
 [/netesee.com/]https://dns.pub/dns-query
 [/netgamecar.com/]https://dns.pub/dns-query
+[/netherlandvcenter.com/]https://dns.pub/dns-query
 [/netiler.com/]https://dns.pub/dns-query
 [/netinbag.com/]https://dns.pub/dns-query
 [/netinfi.com/]https://dns.pub/dns-query
@@ -39479,6 +39462,7 @@
 [/newxitong.com/]https://dns.pub/dns-query
 [/newxue.com/]https://dns.pub/dns-query
 [/newyx.net/]https://dns.pub/dns-query
+[/newzealandvscenter.com/]https://dns.pub/dns-query
 [/newzgc.com/]https://dns.pub/dns-query
 [/newzhizao.com/]https://dns.pub/dns-query
 [/nexmoe.com/]https://dns.pub/dns-query
@@ -39583,7 +39567,6 @@
 [/nicelabel.cc/]https://dns.pub/dns-query
 [/nicelinks.site/]https://dns.pub/dns-query
 [/niceloo.com/]https://dns.pub/dns-query
-[/niceonegame.com/]https://dns.pub/dns-query
 [/nicesnow.com/]https://dns.pub/dns-query
 [/nicetheme.xyz/]https://dns.pub/dns-query
 [/nicetuan.net/]https://dns.pub/dns-query
@@ -39636,7 +39619,6 @@
 [/ningkekeji.com/]https://dns.pub/dns-query
 [/ningmengdou.com/]https://dns.pub/dns-query
 [/ningmengyun.com/]https://dns.pub/dns-query
-[/ningmoe.com/]https://dns.pub/dns-query
 [/ningoo.net/]https://dns.pub/dns-query
 [/ningto.com/]https://dns.pub/dns-query
 [/nington.com/]https://dns.pub/dns-query
@@ -39809,6 +39791,7 @@
 [/nn12333.com/]https://dns.pub/dns-query
 [/nncc626.com/]https://dns.pub/dns-query
 [/nncj.com/]https://dns.pub/dns-query
+[/nnddssaaddeeyy.com/]https://dns.pub/dns-query
 [/nndims.com/]https://dns.pub/dns-query
 [/nndssk.com/]https://dns.pub/dns-query
 [/nnduyi.com/]https://dns.pub/dns-query
@@ -41188,6 +41171,7 @@
 [/pc51.com/]https://dns.pub/dns-query
 [/pc521.net/]https://dns.pub/dns-query
 [/pc5210.com/]https://dns.pub/dns-query
+[/pc528.net/]https://dns.pub/dns-query
 [/pc55.com/]https://dns.pub/dns-query
 [/pc6.com/]https://dns.pub/dns-query
 [/pc6a.com/]https://dns.pub/dns-query
@@ -41967,6 +41951,7 @@
 [/portablesoft.org/]https://dns.pub/dns-query
 [/portalcdn.cdnetworks.com/]https://dns.pub/dns-query
 [/ports-intl.com/]https://dns.pub/dns-query
+[/portugal-visacenter.com/]https://dns.pub/dns-query
 [/pos580.com/]https://dns.pub/dns-query
 [/posbar.com/]https://dns.pub/dns-query
 [/poseidon.dl.playstation.net/]https://dns.pub/dns-query
@@ -42607,7 +42592,6 @@
 [/qhcz.net/]https://dns.pub/dns-query
 [/qhd.net/]https://dns.pub/dns-query
 [/qhdatongnews.com/]https://dns.pub/dns-query
-[/qhdczzs.com/]https://dns.pub/dns-query
 [/qhdfxkj.com/]https://dns.pub/dns-query
 [/qhdgjj.com/]https://dns.pub/dns-query
 [/qhdglc.com/]https://dns.pub/dns-query
@@ -44697,6 +44681,7 @@
 [/rrzu.com/]https://dns.pub/dns-query
 [/rrzuji.com/]https://dns.pub/dns-query
 [/rrzxw.net/]https://dns.pub/dns-query
+[/rs-xrys.com/]https://dns.pub/dns-query
 [/rs485.net/]https://dns.pub/dns-query
 [/rscala.com/]https://dns.pub/dns-query
 [/rscloudmart.com/]https://dns.pub/dns-query
@@ -44841,6 +44826,7 @@
 [/runtronic.com/]https://dns.pub/dns-query
 [/runwise.co/]https://dns.pub/dns-query
 [/runwith.cc/]https://dns.pub/dns-query
+[/runxinzhi.com/]https://dns.pub/dns-query
 [/runzi.cc/]https://dns.pub/dns-query
 [/ruochu.com/]https://dns.pub/dns-query
 [/ruohuo.net/]https://dns.pub/dns-query
@@ -45708,7 +45694,6 @@
 [/serverless.ink/]https://dns.pub/dns-query
 [/servicemesher.com/]https://dns.pub/dns-query
 [/servicewechat.com/]https://dns.pub/dns-query
-[/servingcdn.com/]https://dns.pub/dns-query
 [/sesamestreetenglishchina.com/]https://dns.pub/dns-query
 [/seseacg.com/]https://dns.pub/dns-query
 [/sesier.com/]https://dns.pub/dns-query
@@ -46167,6 +46152,7 @@
 [/shengdianhuadg.com/]https://dns.pub/dns-query
 [/shengdianhuadk.com/]https://dns.pub/dns-query
 [/shengejing.com/]https://dns.pub/dns-query
+[/shengenv.com/]https://dns.pub/dns-query
 [/shengfanwang.com/]https://dns.pub/dns-query
 [/shenghan.org/]https://dns.pub/dns-query
 [/shenghefilms.com/]https://dns.pub/dns-query
@@ -47113,7 +47099,6 @@
 [/sino-life.com/]https://dns.pub/dns-query
 [/sino-manager.com/]https://dns.pub/dns-query
 [/sino-rainbow.cc/]https://dns.pub/dns-query
-[/sino-uniontrust.com/]https://dns.pub/dns-query
 [/sino-web.net/]https://dns.pub/dns-query
 [/sinoancher.com/]https://dns.pub/dns-query
 [/sinoaquafilter.com/]https://dns.pub/dns-query
@@ -47439,6 +47424,8 @@
 [/sllai.com/]https://dns.pub/dns-query
 [/slogra.com/]https://dns.pub/dns-query
 [/slooti.com/]https://dns.pub/dns-query
+[/slovakia-visacenter.com/]https://dns.pub/dns-query
+[/slovenia-visacenter.com/]https://dns.pub/dns-query
 [/slpi1.com/]https://dns.pub/dns-query
 [/slrbs.com/]https://dns.pub/dns-query
 [/slready.com/]https://dns.pub/dns-query
@@ -48767,6 +48754,7 @@
 [/swiftstar.net/]https://dns.pub/dns-query
 [/swijoy.com/]https://dns.pub/dns-query
 [/switchxiazai.com/]https://dns.pub/dns-query
+[/switzerland-visacenter.com/]https://dns.pub/dns-query
 [/swjoy.com/]https://dns.pub/dns-query
 [/swkong.com/]https://dns.pub/dns-query
 [/swliuxue.com/]https://dns.pub/dns-query
@@ -50533,7 +50521,6 @@
 [/tjzb.com/]https://dns.pub/dns-query
 [/tjzcsj.com/]https://dns.pub/dns-query
 [/tjzekun.com/]https://dns.pub/dns-query
-[/tjzentan.com/]https://dns.pub/dns-query
 [/tjzfcg.com/]https://dns.pub/dns-query
 [/tjzhongyiyao.com/]https://dns.pub/dns-query
 [/tjzyec.com/]https://dns.pub/dns-query
@@ -52002,10 +51989,13 @@
 [/ukoo.net/]https://dns.pub/dns-query
 [/ukpass.org/]https://dns.pub/dns-query
 [/ukpathway.com/]https://dns.pub/dns-query
+[/ukplanking.com/]https://dns.pub/dns-query
 [/ukubang.com/]https://dns.pub/dns-query
 [/ukui.org/]https://dns.pub/dns-query
 [/ukulelecn.com/]https://dns.pub/dns-query
+[/ukvisacenterd.com/]https://dns.pub/dns-query
 [/ulaojiu.com/]https://dns.pub/dns-query
+[/ulapia.com/]https://dns.pub/dns-query
 [/ule.com/]https://dns.pub/dns-query
 [/ule.hk/]https://dns.pub/dns-query
 [/uleapp.com/]https://dns.pub/dns-query
@@ -52128,7 +52118,6 @@
 [/unitedmoney.com/]https://dns.pub/dns-query
 [/unitek-it.com/]https://dns.pub/dns-query
 [/uniteyun.com/]https://dns.pub/dns-query
-[/unitop-apex.com/]https://dns.pub/dns-query
 [/unitymanual.com/]https://dns.pub/dns-query
 [/uniview.com/]https://dns.pub/dns-query
 [/uniworldart.com/]https://dns.pub/dns-query
@@ -52828,6 +52817,7 @@
 [/virscan.org/]https://dns.pub/dns-query
 [/virtualevent.net/]https://dns.pub/dns-query
 [/virusdefender.net/]https://dns.pub/dns-query
+[/visa198.com/]https://dns.pub/dns-query
 [/visa800.com/]https://dns.pub/dns-query
 [/visabao.com/]https://dns.pub/dns-query
 [/visacits.com/]https://dns.pub/dns-query
@@ -54632,6 +54622,7 @@
 [/wilddog.com/]https://dns.pub/dns-query
 [/wilddream.net/]https://dns.pub/dns-query
 [/wildgun.net/]https://dns.pub/dns-query
+[/wildto.com/]https://dns.pub/dns-query
 [/willapps.com/]https://dns.pub/dns-query
 [/willcdn.com/]https://dns.pub/dns-query
 [/willmao.com/]https://dns.pub/dns-query
@@ -55308,6 +55299,7 @@
 [/wsglb0.info/]https://dns.pub/dns-query
 [/wsglb0.org/]https://dns.pub/dns-query
 [/wsglw.com/]https://dns.pub/dns-query
+[/wsgph.com/]https://dns.pub/dns-query
 [/wsgxsp.com/]https://dns.pub/dns-query
 [/wshang.com/]https://dns.pub/dns-query
 [/wshangw.net/]https://dns.pub/dns-query
@@ -55464,7 +55456,6 @@
 [/wujiehd.com/]https://dns.pub/dns-query
 [/wujiehuyu.com/]https://dns.pub/dns-query
 [/wujiexiang.com/]https://dns.pub/dns-query
-[/wujiexueyuan.com/]https://dns.pub/dns-query
 [/wujiit.com/]https://dns.pub/dns-query
 [/wujijiasu.com/]https://dns.pub/dns-query
 [/wujinimg.com/]https://dns.pub/dns-query
@@ -56575,7 +56566,6 @@
 [/xiaomaiketang.com/]https://dns.pub/dns-query
 [/xiaomantu.com/]https://dns.pub/dns-query
 [/xiaomaomv.com/]https://dns.pub/dns-query
-[/xiaomaowan.com/]https://dns.pub/dns-query
 [/xiaomape.com/]https://dns.pub/dns-query
 [/xiaomashijia.com/]https://dns.pub/dns-query
 [/xiaomastack.com/]https://dns.pub/dns-query
@@ -56629,7 +56619,6 @@
 [/xiaorizi.me/]https://dns.pub/dns-query
 [/xiaorui.cc/]https://dns.pub/dns-query
 [/xiaoruibao.com/]https://dns.pub/dns-query
-[/xiaoshengqi8.com/]https://dns.pub/dns-query
 [/xiaoshentui.com/]https://dns.pub/dns-query
 [/xiaoshijie.com/]https://dns.pub/dns-query
 [/xiaoshituina.vip/]https://dns.pub/dns-query
@@ -56668,7 +56657,6 @@
 [/xiaotuzhan.com/]https://dns.pub/dns-query
 [/xiaou2014.com/]https://dns.pub/dns-query
 [/xiaoupan.com/]https://dns.pub/dns-query
-[/xiaoushuo.com/]https://dns.pub/dns-query
 [/xiaowang.net/]https://dns.pub/dns-query
 [/xiaowangshen.com/]https://dns.pub/dns-query
 [/xiaowangyun.com/]https://dns.pub/dns-query
@@ -56768,6 +56756,7 @@
 [/xiazaiwx.com/]https://dns.pub/dns-query
 [/xiazaiziti.com/]https://dns.pub/dns-query
 [/xibaiwang.com/]https://dns.pub/dns-query
+[/xibanyaqz.com/]https://dns.pub/dns-query
 [/xibao100.com/]https://dns.pub/dns-query
 [/xibeicanyin.com/]https://dns.pub/dns-query
 [/xibeidev.com/]https://dns.pub/dns-query
@@ -57118,7 +57107,6 @@
 [/xinsilu.com/]https://dns.pub/dns-query
 [/xinstall.com/]https://dns.pub/dns-query
 [/xinstatic.com/]https://dns.pub/dns-query
-[/xinsui.net/]https://dns.pub/dns-query
 [/xintaiwtp1.com/]https://dns.pub/dns-query
 [/xintaizhou.com/]https://dns.pub/dns-query
 [/xintheme.com/]https://dns.pub/dns-query
@@ -57775,7 +57763,6 @@
 [/xszp.cc/]https://dns.pub/dns-query
 [/xszrcw.com/]https://dns.pub/dns-query
 [/xszww.com/]https://dns.pub/dns-query
-[/xszysc.com/]https://dns.pub/dns-query
 [/xt-kp.com/]https://dns.pub/dns-query
 [/xt-tattoo.com/]https://dns.pub/dns-query
 [/xt12333.com/]https://dns.pub/dns-query
@@ -58537,7 +58524,6 @@
 [/yaosai.com/]https://dns.pub/dns-query
 [/yaotia.com/]https://dns.pub/dns-query
 [/yaowan.com/]https://dns.pub/dns-query
-[/yaowei.info/]https://dns.pub/dns-query
 [/yaoyedan.net/]https://dns.pub/dns-query
 [/yaoying.vip/]https://dns.pub/dns-query
 [/yaoyl.com/]https://dns.pub/dns-query
@@ -59432,7 +59418,6 @@
 [/yixi.tv/]https://dns.pub/dns-query
 [/yixia.com/]https://dns.pub/dns-query
 [/yixiangzuji.com/]https://dns.pub/dns-query
-[/yixiaoxi.com/]https://dns.pub/dns-query
 [/yixiaozu.com/]https://dns.pub/dns-query
 [/yixie8.com/]https://dns.pub/dns-query
 [/yixiekeji.com/]https://dns.pub/dns-query
@@ -60947,6 +60932,7 @@
 [/ywtd.xyz/]https://dns.pub/dns-query
 [/ywtrzm.com/]https://dns.pub/dns-query
 [/ywtuchuang1.com/]https://dns.pub/dns-query
+[/ywwpay.com/]https://dns.pub/dns-query
 [/ywxue.com/]https://dns.pub/dns-query
 [/ywxzz.com/]https://dns.pub/dns-query
 [/ywyanxing.com/]https://dns.pub/dns-query
@@ -61306,7 +61292,6 @@
 [/zaticdn.com/]https://dns.pub/dns-query
 [/zatxt.com/]https://dns.pub/dns-query
 [/zaxdcredit.com/]https://dns.pub/dns-query
-[/zazhiboss.com/]https://dns.pub/dns-query
 [/zazhipu.com/]https://dns.pub/dns-query
 [/zazsz.com/]https://dns.pub/dns-query
 [/zb-kc.com/]https://dns.pub/dns-query
