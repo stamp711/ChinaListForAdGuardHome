@@ -16239,6 +16239,7 @@
 [/ctfmall.com/]https://dns.pub/dns-query
 [/ctfo.com/]https://dns.pub/dns-query
 [/ctfund.com/]https://dns.pub/dns-query
+[/ctg75.com/]https://dns.pub/dns-query
 [/ctghealthy.com/]https://dns.pub/dns-query
 [/ctghr.com/]https://dns.pub/dns-query
 [/cthhmu.com/]https://dns.pub/dns-query
@@ -33820,7 +33821,6 @@
 [/lactec.net/]https://dns.pub/dns-query
 [/ladiyoga.com/]https://dns.pub/dns-query
 [/ladjzs.com/]https://dns.pub/dns-query
-[/ladouban.com/]https://dns.pub/dns-query
 [/lady177.com/]https://dns.pub/dns-query
 [/lady361.com/]https://dns.pub/dns-query
 [/lady8844.com/]https://dns.pub/dns-query
