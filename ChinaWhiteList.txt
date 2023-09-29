@@ -1836,7 +1836,6 @@
 [/2022cdnpl.com/]https://dns.pub/dns-query
 [/2022pola.com/]https://dns.pub/dns-query
 [/2023game.com/]https://dns.pub/dns-query
-[/2029.cc/]https://dns.pub/dns-query
 [/202m.com/]https://dns.pub/dns-query
 [/202wan.com/]https://dns.pub/dns-query
 [/2048sj.com/]https://dns.pub/dns-query
@@ -2536,7 +2535,6 @@
 [/33aml.com/]https://dns.pub/dns-query
 [/33app.net/]https://dns.pub/dns-query
 [/33bus.com/]https://dns.pub/dns-query
-[/33hei.com/]https://dns.pub/dns-query
 [/33ip.com/]https://dns.pub/dns-query
 [/33iq.com/]https://dns.pub/dns-query
 [/33jianzhi.com/]https://dns.pub/dns-query
@@ -5410,7 +5408,6 @@
 [/77dushu.com/]https://dns.pub/dns-query
 [/77ebooks.com/]https://dns.pub/dns-query
 [/77hd.com/]https://dns.pub/dns-query
-[/77hei.com/]https://dns.pub/dns-query
 [/77l.com/]https://dns.pub/dns-query
 [/77mh.app/]https://dns.pub/dns-query
 [/77music.com/]https://dns.pub/dns-query
@@ -12087,6 +12084,7 @@
 [/capitalcloud.net/]https://dns.pub/dns-query
 [/capitalonline.net/]https://dns.pub/dns-query
 [/capjoy.com/]https://dns.pub/dns-query
+[/caplanking.com/]https://dns.pub/dns-query
 [/capsuleshanghai.com/]https://dns.pub/dns-query
 [/capvision.com/]https://dns.pub/dns-query
 [/capwhale.com/]https://dns.pub/dns-query
@@ -29080,7 +29078,6 @@
 [/indier.com/]https://dns.pub/dns-query
 [/indmi.com/]https://dns.pub/dns-query
 [/induta.com/]https://dns.pub/dns-query
-[/indvaan.com/]https://dns.pub/dns-query
 [/ineice.com/]https://dns.pub/dns-query
 [/inengyuan.com/]https://dns.pub/dns-query
 [/inesa-it.com/]https://dns.pub/dns-query
@@ -31715,7 +31712,6 @@
 [/jsdaima.com/]https://dns.pub/dns-query
 [/jsdcly.com/]https://dns.pub/dns-query
 [/jsdesign1.com/]https://dns.pub/dns-query
-[/jsdthx.com/]https://dns.pub/dns-query
 [/jseepub.com/]https://dns.pub/dns-query
 [/jseoptics.com/]https://dns.pub/dns-query
 [/jser.io/]https://dns.pub/dns-query
@@ -33551,7 +33547,6 @@
 [/kuguopush.com/]https://dns.pub/dns-query
 [/kugz.net/]https://dns.pub/dns-query
 [/kuhii.com/]https://dns.pub/dns-query
-[/kuhua.net/]https://dns.pub/dns-query
 [/kuicc.com/]https://dns.pub/dns-query
 [/kuihuakeji.com/]https://dns.pub/dns-query
 [/kuihuo.com/]https://dns.pub/dns-query
@@ -39956,7 +39951,6 @@
 [/ntrcb.com/]https://dns.pub/dns-query
 [/nttui.com/]https://dns.pub/dns-query
 [/ntuiw.com/]https://dns.pub/dns-query
-[/ntvalumium.com/]https://dns.pub/dns-query
 [/ntwikis.com/]https://dns.pub/dns-query
 [/ntwzy.com/]https://dns.pub/dns-query
 [/ntyswlkj.com/]https://dns.pub/dns-query
@@ -40858,7 +40852,6 @@
 [/pabulika.com/]https://dns.pub/dns-query
 [/pacdn.com/]https://dns.pub/dns-query
 [/pacgatelaw.com/]https://dns.pub/dns-query
-[/package-design.net/]https://dns.pub/dns-query
 [/packtom.com/]https://dns.pub/dns-query
 [/packty.com/]https://dns.pub/dns-query
 [/pactera.com/]https://dns.pub/dns-query
@@ -41184,7 +41177,6 @@
 [/pddcdn.com/]https://dns.pub/dns-query
 [/pddeu.com/]https://dns.pub/dns-query
 [/pddim.com/]https://dns.pub/dns-query
-[/pddjw.com/]https://dns.pub/dns-query
 [/pddpic.com/]https://dns.pub/dns-query
 [/pddugc.com/]https://dns.pub/dns-query
 [/pddzj.com/]https://dns.pub/dns-query
@@ -49365,7 +49357,6 @@
 [/tangrenjv.com/]https://dns.pub/dns-query
 [/tangruiqian.com/]https://dns.pub/dns-query
 [/tangsanshu.com/]https://dns.pub/dns-query
-[/tangshencs.com/]https://dns.pub/dns-query
 [/tangshijun.com/]https://dns.pub/dns-query
 [/tangshuang.net/]https://dns.pub/dns-query
 [/tangshui.net/]https://dns.pub/dns-query
@@ -52300,6 +52291,7 @@
 [/uuzham.com/]https://dns.pub/dns-query
 [/uuzhufu.com/]https://dns.pub/dns-query
 [/uuzo.net/]https://dns.pub/dns-query
+[/uuzone.com/]https://dns.pub/dns-query
 [/uuzu.com/]https://dns.pub/dns-query
 [/uuzuonline.com/]https://dns.pub/dns-query
 [/uuzuonline.net/]https://dns.pub/dns-query
@@ -53521,6 +53513,7 @@
 [/wboll.com/]https://dns.pub/dns-query
 [/wbolt.com/]https://dns.pub/dns-query
 [/wbpvc.com/]https://dns.pub/dns-query
+[/wbsdz.com/]https://dns.pub/dns-query
 [/wbsrf.com/]https://dns.pub/dns-query
 [/wbsz.com/]https://dns.pub/dns-query
 [/wbtech.com/]https://dns.pub/dns-query
