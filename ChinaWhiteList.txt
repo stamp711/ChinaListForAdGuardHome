@@ -8499,7 +8499,6 @@
 [/apowo.com/]https://dns.pub/dns-query
 [/apowogame.com/]https://dns.pub/dns-query
 [/apoyl.com/]https://dns.pub/dns-query
-[/app-123.com/]https://dns.pub/dns-query
 [/app-router.com/]https://dns.pub/dns-query
 [/app-web-seo-aso.com/]https://dns.pub/dns-query
 [/app-zh.com/]https://dns.pub/dns-query
@@ -36637,6 +36636,7 @@
 [/marioin.com/]https://dns.pub/dns-query
 [/markdown.xyz/]https://dns.pub/dns-query
 [/markdream.com/]https://dns.pub/dns-query
+[/marketingconv.com/]https://dns.pub/dns-query
 [/marketreportchina.com/]https://dns.pub/dns-query
 [/markhoo.com/]https://dns.pub/dns-query
 [/markiapp.com/]https://dns.pub/dns-query
@@ -49126,7 +49126,6 @@
 [/tandjx.com/]https://dns.pub/dns-query
 [/tang-lei.com/]https://dns.pub/dns-query
 [/tang.su/]https://dns.pub/dns-query
-[/tang8.com/]https://dns.pub/dns-query
 [/tangdaoya.com/]https://dns.pub/dns-query
 [/tangdou.com/]https://dns.pub/dns-query
 [/tangdouimg.com/]https://dns.pub/dns-query
@@ -60247,7 +60246,6 @@
 [/yuncdndun.com/]https://dns.pub/dns-query
 [/yunceng.com/]https://dns.pub/dns-query
 [/yuncheng.com/]https://dns.pub/dns-query
-[/yunchong-powder.com/]https://dns.pub/dns-query
 [/yunchou.com/]https://dns.pub/dns-query
 [/yuncii.com/]https://dns.pub/dns-query
 [/yuncode.net/]https://dns.pub/dns-query
