@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202310270206
-! Last Modified: 2023年10月27日 02:06
+! Version: 202310280205
+! Last Modified: 2023年10月28日 02:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2077,7 +2077,6 @@ newduba.cn###jq_youxi
 ##A[href="http://t.cn/A6hQCVsv"]
 ~taobao.com,~tmall.com##A[href="https://s.click.taobao.com/cTAwFvu"]
 ##A[href^="/e/public/ClickAd?adid="]
-##[style*="b-cdn.net"][style*="background-size"]
 ##[style*="mi-img.com"][style*="calc"]
 ~sinaimg.cn##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ~alicdn.com##a > img[width="960"][src*=".alicdn.com/"]
@@ -2249,6 +2248,7 @@ newduba.cn###jq_youxi
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
+||avplwte.xyz^
 ||awaw.asia^
 ||bbfnrn.xyz^
 ||beezwol.com^
@@ -2268,6 +2268,7 @@ newduba.cn###jq_youxi
 ||cheda6.icu^
 ||chrtds.xyz^
 ||cjndvoglik.xyz^
+||cjohpsc.cn^
 ||cmdcdacq.xyz^
 ||cntc8.icu^
 ||crazyit8.com^
@@ -2278,6 +2279,7 @@ newduba.cn###jq_youxi
 ||dcdglb.xyz^
 ||ddkh59.com^
 ||ddvoht.xyz^
+||df-long.cn^
 ||dhgfhedxx.xyz^
 ||diaocaixiaq.cn^
 ||djiuss.cn^
@@ -2327,6 +2329,8 @@ newduba.cn###jq_youxi
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx38.top^
+||gmx41.top^
 ||gmx42.top^
 ||gmx43.top^
 ||gmx44.top^
@@ -2386,8 +2390,10 @@ newduba.cn###jq_youxi
 ||liuyuhuaa.cn^
 ||lkoqtvvajktpjsk.xyz^
 ||llblwzg.xyz^
+||lmfehr.xyz^
 ||lnxpdj.xyz^
 ||lovespenhas.com^
+||lryqef.xyz^
 ||lwmzoaf.cn^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
@@ -2460,10 +2466,13 @@ newduba.cn###jq_youxi
 ||shx11.xyz^
 ||smlpcz.icu^
 ||sregfle.cn^
+||suzoqz.icu^
+||syjkscy.cn^
 ||tcgaqh.icu^
 ||tdhlmto.cn^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
+||tongjiniao.com^
 ||trdmtx.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
@@ -2494,6 +2503,7 @@ newduba.cn###jq_youxi
 ||whdwydt.cn^
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
+||woxwhfdo.xyz^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
 ||wuruigroup.com^
@@ -7433,6 +7443,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||51ztzj.com/res/web/img/pic/inshow.jpg
 ||520call.me/ad/ad_
 ||520cc.tw/AD/
+||520click.com/ad.$domain=~video.520cc.cc
 ||520xingyun.com/images/188*.gif
 ||520xs.la/js/dianrui-
 ||520z-2.com/uploadfile/sucai/
@@ -17181,7 +17192,6 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||520cc.cc/api/jspopunder.
 @@||520cc.cc/jspopunder.
 @@||520cc.cc^*/ad.php
-@@||520click.com/ad.php
 @@||5278.cool^$generichide
 @@||52zy.com/gg/
 @@||58.com/adJump?adType=
