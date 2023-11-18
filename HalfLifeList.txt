@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202311170206
-! Last Modified: 2023年11月17日 02:06
+! Version: 202311180207
+! Last Modified: 2023年11月18日 02:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1476,6 +1476,7 @@ ubmcmm.baidustatic.com
 ###breadCrumb + .t[style="margin-top:8px"]
 ###cat_intro_first_ad
 ###cat_intro_second_ad
+###chs_bannerArea
 ###comic_reader + #adDisabledBtn
 ###comiis_xizi_gg02
 ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
@@ -2233,9 +2234,12 @@ newduba.cn###jq_youxi
 ||17123.net^
 ||1bctkn.xyz^
 ||1cpkcnm.com^
+||1iuybpo.com^
 ||1k2l3m4n5o.com^
+||1kfnsra.com^
 ||1kqfzwd.com^
 ||1t24.com^$third-party
+||1weorpu.com^
 ||20szp.com^
 ||24w0p.com^
 ||273knt.xyz^
@@ -2278,6 +2282,7 @@ newduba.cn###jq_youxi
 ||awaw.asia^
 ||azdiqsb.cn^
 ||bbfnrn.xyz^
+||bctxtl.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
 ||berrynicolo.com^
@@ -2302,8 +2307,10 @@ newduba.cn###jq_youxi
 ||bzbopfh.cn^
 ||bzvhgbr.xyz^
 ||c1ecda.com^
+||c78zf.xyz^
 ||cadizer.com^
 ||cammak.xyz^
+||caonme.xyz^
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cgbswl.icu^
@@ -2435,6 +2442,7 @@ newduba.cn###jq_youxi
 ||gscsahv013.com^
 ||gscsahv014.com^
 ||gslejoki.xyz^
+||gszetzdm.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
 ||haise3.top^
@@ -2447,6 +2455,7 @@ newduba.cn###jq_youxi
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
 ||hibj.online^
+||hihlj.online^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkrytf.xyz^
@@ -2456,6 +2465,7 @@ newduba.cn###jq_youxi
 ||hunklm.com^
 ||huxifena.cn^
 ||hvpard.xyz^
+||hw0.com.cn^
 ||hwuogmusthxfpk.xyz^
 ||hwvwxerw.xyz^
 ||hxhx9.cn^
@@ -2500,6 +2510,7 @@ newduba.cn###jq_youxi
 ||kkmsa.top^
 ||klfbnklddfbkn.com^
 ||klwhuci.cn^
+||kncrya.xyz^
 ||knhmgn.com^
 ||knuaxfv.cn^
 ||kshrsf.icu^
@@ -2533,6 +2544,7 @@ newduba.cn###jq_youxi
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
 ||m05ib.xyz^
+||m2k3j7x8.com^
 ||mads7.icu^
 ||mbiypew.cn^
 ||mcds7.icu^
@@ -2591,6 +2603,7 @@ newduba.cn###jq_youxi
 ||orssengseen.com^
 ||ovfvkfc.xyz^
 ||pajhvd.xyz^
+||pdngnx.xyz^
 ||pdweoyw.cn^
 ||pexavfro.xyz^
 ||pfrbnl.xyz^
@@ -2640,6 +2653,7 @@ newduba.cn###jq_youxi
 ||sglahyea.xyz^
 ||shipostrich.com^
 ||shx11.xyz^
+||sllo.top^
 ||smlpcz.icu^
 ||splfnok.cn^
 ||sqevnrb.com^
@@ -2647,9 +2661,11 @@ newduba.cn###jq_youxi
 ||srlhgo.cn^
 ||suzoqz.icu^
 ||syjkscy.cn^
+||tae0t.site^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
+||teamjwar.com^
 ||tewsdnka35.xyz^
 ||tfczk.xyz^
 ||tfrwxv.xyz^
@@ -2768,6 +2784,7 @@ newduba.cn###jq_youxi
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
+||zdjtxjp.xyz^
 ||zents2.top^
 ||zhongfumzzew.com^
 ||zjdruhn.xyz^
@@ -12115,7 +12132,6 @@ hao.rising.cn###change
 360.com###channel-game
 360.com###channel-mall
 i-part.com.tw###chatroomFrame + div[style="text-align: center;padding-top: 10px"]
-cqfishing.net###chs_bannerArea
 seseda90.com###clone_ad
 gz0668.com###closexguide
 baidu.com###cms-company
@@ -12450,6 +12466,7 @@ gasaq.com###guanggao_left
 gasaq.com###guanggao_right
 hao123.com###guesslikesite
 hao123.com###guesslikesite-block
+52asus.com###guiigo-black-mask
 szhk.com###h_banner
 hao123.com###hao123-gw11
 javhope.com###havhope
@@ -20811,6 +20828,7 @@ _box_ad_
 ||tencent.com/developer/api/common/getAds
 ||tencent.com/developer/api/common/getOneAds
 !------------------------Specific element hiding rules------------------------!
+caiyunapp.com##.active-imgContainer
 baidu.com##.player-pause-code
 123pan.com##.ant-carousel
 123pan.com##.banner-container-pc
