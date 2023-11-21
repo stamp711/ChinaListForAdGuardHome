@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202311200203
-! Last Modified: 2023年11月20日 02:03
+! Version: 202311210207
+! Last Modified: 2023年11月21日 02:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2332,6 +2332,7 @@ newduba.cn###jq_youxi
 ||cjndvoglik.xyz^
 ||cjohpsc.cn^
 ||cklithuw.xyz^
+||ckmbig.xyz^
 ||clcmdie.com^
 ||cmdcdacq.xyz^
 ||cnrdlpk.xyz^
@@ -2387,12 +2388,15 @@ newduba.cn###jq_youxi
 ||ewioud.com^
 ||exemptambientcream.com^
 ||eyjvq.xyz^
+||eypqbjju.xyz^
 ||ezacci.xyz^
+||f4nfg.site^
 ||fastjs.org^
 ||faxffjo.com^
 ||fcgmoas.cn^
 ||fcgxidqwcx.xyz^
 ||fehrda.xyz^
+||feijied.xyz^
 ||fenem.top^
 ||fepmpify.xyz^
 ||fgttbz.xyz^
@@ -2405,9 +2409,12 @@ newduba.cn###jq_youxi
 ||fptdxkm.com^
 ||fsgiosi.com^
 ||ftzzbx.xyz^
+||fwhhcpj.xyz^
 ||fzgetdy.cn^
+||g0fc3.com^
 ||g2ak5.com^
 ||gaopinoa.cn^
+||gcbtgh26.xyz^
 ||gejhhh.cn^
 ||gelbjvl.cn^
 ||gfbdb1.com^
@@ -2465,6 +2472,7 @@ newduba.cn###jq_youxi
 ||haise3.top^
 ||haise4.top^
 ||haise5.top^
+||haxqxd.xyz^
 ||hcgbhq.com^
 ||hchuviq.cn^
 ||hcqumrjbx.xyz^
@@ -2473,10 +2481,12 @@ newduba.cn###jq_youxi
 ||hfwld.cn^
 ||hibj.online^
 ||hihlj.online^
+||hinm.online^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkrytf.xyz^
 ||hnkhgw.com^
+||holdntlc.com^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hunklm.com^
@@ -2504,6 +2514,7 @@ newduba.cn###jq_youxi
 ||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
+||jane2.top^
 ||jcbjcb9.cn^
 ||jeqxuvv.icu^
 ||jevwdao.cn^
@@ -2543,7 +2554,7 @@ newduba.cn###jq_youxi
 ||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
-||l404k.com^
+||l404k.com^$script
 ||l80ays.com^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
@@ -2624,6 +2635,7 @@ newduba.cn###jq_youxi
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
+||oxrvfsi.xyz^
 ||pajhvd.xyz^
 ||pdngnx.xyz^
 ||pdweoyw.cn^
@@ -2661,7 +2673,9 @@ newduba.cn###jq_youxi
 ||r9ffi.fun^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
+||rett.top^
 ||rfrhfh.xyz^
+||rgpujh.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
 ||rkds2.icu^
@@ -2817,6 +2831,7 @@ newduba.cn###jq_youxi
 ||zcpsc.top^
 ||zdjtxjp.xyz^
 ||zents2.top^
+||zhangyuting04.cn^
 ||zhongfumzzew.com^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
@@ -7950,6 +7965,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||90oo.com/tp/msn.jpg
 ||90vs.com:3389/zs_img/.__
 ||90zy.cn/data/attachment/portal/
+||9191.site/ad.js
 ||91avv8.com/vU18BNDYo1ktVpge.js
 ||91danji.com/attachments/201810/12/10/2hdyj7ut9.jpg
 ||91danji.com/js/lmt.js
@@ -18810,6 +18826,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||inone517.com^
 ||inping.com^$third-party
 ||ios.426g.com^
+||ipad.pc899.cn^
 ||ipssss.com^
 ||iuou.myadobe.cn^
 ||iuou.ysw365.com^
@@ -19303,6 +19320,7 @@ smjb.net##div[style*="height: 50%"]
 ||23qb.com/ak
 ||23qb.com/skin/style
 ||23qb.com/skin/xiu.js
+||333uu.org/config/
 ||33yq.org/static/1.
 ||360xs.com/templates/html5/js/djtop.js
 ||477zw.com/js/nzm
@@ -19342,6 +19360,7 @@ smjb.net##div[style*="height: 50%"]
 ||quge66.com/jdjd/
 ||rmipoz.com/dp.js
 ||rr3r.com/requestData.
+||shanhaimiwenlu.com/sh
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||shumilou.co/style/html5.js
 ||ttzw.tv/tz/h.js
