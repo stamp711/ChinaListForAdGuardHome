@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202311290206
-! Last Modified: 2023年11月29日 02:06
+! Version: 202311300206
+! Last Modified: 2023年11月30日 02:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2294,7 +2294,10 @@ newduba.cn###jq_youxi
 ||autyxdek.xyz^
 ||avplwte.xyz^
 ||awaw.asia^
+||ax7fv.space^
 ||azdiqsb.cn^
+||bachou.cn^
+||bavkvoks.xyz^
 ||bbfnrn.xyz^
 ||bcovazp.icu^
 ||bctxtl.xyz^
@@ -2347,6 +2350,7 @@ newduba.cn###jq_youxi
 ||cnrdlpk.xyz^
 ||cntc8.icu^
 ||cojvur.icu^
+||commonwealthproficient.com^
 ||corcztpc.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -2355,6 +2359,7 @@ newduba.cn###jq_youxi
 ||csmfee.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
+||cvtbdap.xyz^
 ||cxpjrqa.cn^
 ||cy5kr.fun^
 ||danun.cn^
@@ -2432,6 +2437,7 @@ newduba.cn###jq_youxi
 ||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fwhhcpj.xyz^
+||fxkfhbn.xyz^
 ||fytpft.xyz^
 ||fzgetdy.cn^
 ||g0fc3.com^
@@ -2441,6 +2447,7 @@ newduba.cn###jq_youxi
 ||gejhhh.cn^
 ||gelbjvl.cn^
 ||gfbdb1.com^
+||ggrfab.icu^
 ||ghbdsbfd.com^
 ||gixgav.icu^
 ||gizlnr.com^
@@ -2665,6 +2672,7 @@ newduba.cn###jq_youxi
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
 ||njppuaj.cn^
+||njreka.xyz^
 ||njrnwan.cn^
 ||njtbiml.xyz^
 ||nlfbdgr.xyz^
@@ -2688,6 +2696,7 @@ newduba.cn###jq_youxi
 ||omkxes.xyz^
 ||omzxutfm.com^
 ||ooejkd.xyz^
+||oouiqi.xyz^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
@@ -2753,10 +2762,12 @@ newduba.cn###jq_youxi
 ||rkds2.icu^
 ||rkds5.icu^
 ||rntdqwc.xyz^
+||roio.top^
 ||ronm.top^
 ||roxewwq.cn^
 ||rqrvfp.xyz^
 ||rrfccx.com^
+||rshsk.xyz^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
 ||rvvji.online^
@@ -10125,6 +10136,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||jsyefc.com^
 ||jsztl.com/img/particular/tbyhq.jpg
 ||juapp5.com/geek_image/chaopai.jpeg
+||jubaibaic.com/xx/
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||juji.tv/Runtime/js/
 ||jupi.cc^*.gif
@@ -19709,7 +19721,7 @@ theporn.cc##.toolbar-gg
 !#torrentkitty
 ###vpnModal.nordvpn-popup
 ##.nordvpn-popup + .sidebar-vpn
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 .tor*/js/jquery.bpopup.
 /nordvpn/autoptimize_
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
@@ -19872,7 +19884,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/log/report/*$script,domain=bilibili.com
-@@/sensorsdata-$domain=zkh.com
+@@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
