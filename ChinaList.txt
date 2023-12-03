@@ -114,6 +114,7 @@
 [/021fenglei.com/]https://dns.pub/dns-query
 [/021fx.com/]https://dns.pub/dns-query
 [/021gjhb.com/]https://dns.pub/dns-query
+[/021hunbohui.com/]https://dns.pub/dns-query
 [/021ja.com/]https://dns.pub/dns-query
 [/021jingwei.com/]https://dns.pub/dns-query
 [/021jingwu.com/]https://dns.pub/dns-query
@@ -835,7 +836,6 @@
 [/114zpw.com/]https://dns.pub/dns-query
 [/114zw.org/]https://dns.pub/dns-query
 [/115.com/]https://dns.pub/dns-query
-[/11544.com/]https://dns.pub/dns-query
 [/1155871.com/]https://dns.pub/dns-query
 [/1156.com/]https://dns.pub/dns-query
 [/1156dns.com/]https://dns.pub/dns-query
@@ -10220,6 +10220,7 @@
 [/bihu.com/]https://dns.pub/dns-query
 [/bihubao.com/]https://dns.pub/dns-query
 [/biikan.com/]https://dns.pub/dns-query
+[/biioii.com/]https://dns.pub/dns-query
 [/biji13.com/]https://dns.pub/dns-query
 [/bijiago.com/]https://dns.pub/dns-query
 [/bijiagou.com/]https://dns.pub/dns-query
@@ -38326,6 +38327,7 @@
 [/myoldtime.com/]https://dns.pub/dns-query
 [/myopenwrt.org/]https://dns.pub/dns-query
 [/myoppo.com/]https://dns.pub/dns-query
+[/myorbita.net/]https://dns.pub/dns-query
 [/myottad.com/]https://dns.pub/dns-query
 [/myouth.net/]https://dns.pub/dns-query
 [/myp2pch.net/]https://dns.pub/dns-query
@@ -41332,7 +41334,6 @@
 [/poppur.com/]https://dns.pub/dns-query
 [/popqiu.com/]https://dns.pub/dns-query
 [/popsoft.com/]https://dns.pub/dns-query
-[/popu.org/]https://dns.pub/dns-query
 [/popumed.com/]https://dns.pub/dns-query
 [/poputar.com/]https://dns.pub/dns-query
 [/popziti.com/]https://dns.pub/dns-query
@@ -51558,6 +51559,7 @@
 [/utepo.com/]https://dns.pub/dns-query
 [/utermux.dev/]https://dns.pub/dns-query
 [/utfinancing.com/]https://dns.pub/dns-query
+[/utgd.net/]https://dns.pub/dns-query
 [/uthinks.com/]https://dns.pub/dns-query
 [/utiankong.com/]https://dns.pub/dns-query
 [/utogame.com/]https://dns.pub/dns-query
@@ -54709,6 +54711,7 @@
 [/wumii.com/]https://dns.pub/dns-query
 [/wumii.tv/]https://dns.pub/dns-query
 [/wuming.com/]https://dns.pub/dns-query
+[/wupfrl.com/]https://dns.pub/dns-query
 [/wuqing.cc/]https://dns.pub/dns-query
 [/wuqiong.info/]https://dns.pub/dns-query
 [/wuqishike.com/]https://dns.pub/dns-query
@@ -60216,7 +60219,6 @@
 [/yytek.com/]https://dns.pub/dns-query
 [/yytingli.com/]https://dns.pub/dns-query
 [/yyuap.com/]https://dns.pub/dns-query
-[/yyuasa.com/]https://dns.pub/dns-query
 [/yywlsj.com/]https://dns.pub/dns-query
 [/yywords.com/]https://dns.pub/dns-query
 [/yywt.online/]https://dns.pub/dns-query
