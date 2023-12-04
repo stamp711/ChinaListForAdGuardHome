@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202312030202
-! Last Modified: 2023年12月03日 02:02
+! Version: 202312040827
+! Last Modified: 2023年12月04日 08:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2254,6 +2254,7 @@ newduba.cn###jq_youxi
 ||24w0p.com^
 ||273knt.xyz^
 ||2c0a5.xyz^
+||2s8s.com^
 ||2u3v4w5x6y.com^
 ||3562wsgkbcm.xyz^
 ||38bw0.space^
@@ -2273,15 +2274,18 @@ newduba.cn###jq_youxi
 ||88lajs3.com^
 ||88lajs4.com^
 ||88lajs6.com^
+||88lm02.com^
 ||8d07a.xyz^
 ||8zkt7.xyz^
 ||913mj.xyz^
 ||999aa666bb.com^
+||9i8i.com^
 ||a4bj6.xyz^
 ||a99hz.space^
 ||aadmei.xyz^
 ||aaiwuq.xyz^
 ||aaknmt.icu^
+||aapubcti.xyz^
 ||actrqdr.cn^
 ||aflsj.com^
 ||agossuoeach.com^
@@ -2304,6 +2308,7 @@ newduba.cn###jq_youxi
 ||arbbj6.com^
 ||asfybkiy.xyz^
 ||athecsz.cn^
+||atmdew.xyz^
 ||aueajkn.cn^
 ||autyxdek.xyz^
 ||avplwte.xyz^
@@ -2318,6 +2323,7 @@ newduba.cn###jq_youxi
 ||bctxtl.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
+||bepmrb.xyz^
 ||berrynicolo.com^
 ||beste3.icu^
 ||bfbchr.xyz^
@@ -2363,6 +2369,7 @@ newduba.cn###jq_youxi
 ||ckmbig.xyz^
 ||clcmdie.com^
 ||cmdcdacq.xyz^
+||cmiega.top^
 ||cnrdlpk.xyz^
 ||cntc8.icu^
 ||cojvur.icu^
@@ -2431,6 +2438,7 @@ newduba.cn###jq_youxi
 ||eyjvq.xyz^
 ||eypqbjju.xyz^
 ||ezacci.xyz^
+||f23al.xyz^
 ||f4nfg.site^
 ||fastjs.org^
 ||faxffjo.com^
@@ -2445,6 +2453,7 @@ newduba.cn###jq_youxi
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||fifqjp.xyz^
+||fjxstt.xyz^
 ||fkjsjwbs.xyz^
 ||fluhmmr.cn^
 ||fmvbyji.cn^
@@ -2462,6 +2471,7 @@ newduba.cn###jq_youxi
 ||g0fc3.com^
 ||g2ak5.com^
 ||gaopinoa.cn^
+||gbc27.online^
 ||gcbtgh26.xyz^
 ||gejhhh.cn^
 ||gelbjvl.cn^
@@ -2534,6 +2544,7 @@ newduba.cn###jq_youxi
 ||hibj.online^
 ||hihlj.online^
 ||hinm.online^
+||hitchprivilege.com^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkljed.xyz^
@@ -2550,6 +2561,7 @@ newduba.cn###jq_youxi
 ||huxsvl.xyz^
 ||hvpard.xyz^
 ||hw0.com.cn^
+||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hwvwxerw.xyz^
 ||hxhx9.cn^
@@ -2560,6 +2572,7 @@ newduba.cn###jq_youxi
 ||icvsleec.xyz^
 ||icwnix.icu^
 ||idddlon.xyz^
+||ieequd.icu^
 ||igkgag.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -2581,6 +2594,7 @@ newduba.cn###jq_youxi
 ||jcbjcb9.cn^
 ||jeqxuvv.icu^
 ||jevwdao.cn^
+||jhl1993.cn^
 ||jiangjinmoa.cn^
 ||jiangyahuid.top^
 ||jiangyahuir.top^
@@ -2594,6 +2608,7 @@ newduba.cn###jq_youxi
 ||jofknbpe.xyz^
 ||jppxnhe.xyz^
 ||jqtkzuco.xyz^
+||jqvajfvs.xyz^
 ||juhooqv.cn^
 ||julefhgu.xyz^
 ||juljrd.xyz^
@@ -2631,6 +2646,7 @@ newduba.cn###jq_youxi
 ||kzprugp.xyz^
 ||l404k.com^$script
 ||l80ays.com^
+||latu.cc^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
 ||leidad.xyz^
@@ -2657,6 +2673,7 @@ newduba.cn###jq_youxi
 ||lwmzoaf.cn^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
+||lznpcwl.xyz^
 ||m05ib.xyz^
 ||m2k3j7x8.com^
 ||mads7.icu^
@@ -2668,6 +2685,7 @@ newduba.cn###jq_youxi
 ||merywf.xyz^
 ||mfnfylx.xyz^
 ||mggzah.icu^
+||mhdlll.com^
 ||mhglue.xyz^
 ||mhnzhlase.xyz^
 ||mhzftye.xyz^
@@ -2675,6 +2693,7 @@ newduba.cn###jq_youxi
 ||mmiedf.xyz^
 ||mmvjuti.cn^
 ||mnhncf.cn^
+||motcmn.icu^
 ||mpgsqk.xyz^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
@@ -2694,6 +2713,7 @@ newduba.cn###jq_youxi
 ||ncjpbv.xyz^
 ||ndbaxn.xyz^
 ||ndvfwlv.cn^
+||needqnv.xyz^
 ||neeujqf.cn^
 ||negnixa.cn^
 ||nerydw.xyz^
@@ -2761,6 +2781,7 @@ newduba.cn###jq_youxi
 ||qboywc.xyz^
 ||qbswezw.cn^
 ||qdtjjxr.xyz^
+||qgl27.xyz^
 ||qimacdg.cn^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
@@ -2788,6 +2809,7 @@ newduba.cn###jq_youxi
 ||rett.top^
 ||rfrhfh.xyz^
 ||rgpujh.xyz^
+||rivdxb.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
 ||rkds2.icu^
@@ -2848,7 +2870,9 @@ newduba.cn###jq_youxi
 ||trdmtx.xyz^
 ||trrmkzesvyqrary.com^
 ||ttgjwxp.icu^
+||tunovl.xyz^
 ||tuvixr.xyz^
+||twlmq.space^
 ||txzepl.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
@@ -2866,6 +2890,7 @@ newduba.cn###jq_youxi
 ||unidict.cn^
 ||unqrroh.cn^
 ||uqeuxpl.cn^
+||uskoie.xyz^
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
@@ -2944,6 +2969,7 @@ newduba.cn###jq_youxi
 ||xmvmir.icu^
 ||xqgduov.cn^
 ||xrcembm.cn^
+||xrrhwgj.xyz^
 ||xucyufv.icu^
 ||xvorpqz.cn^
 ||xvzfyra.xyz^
@@ -2998,20 +3024,15 @@ newduba.cn###jq_youxi
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||atmdew.xyz^
-||9i8i.com^
-||cmiega.top^
-||fjxstt.xyz^
-||gbc27.online^
-||aapubcti.xyz^
-||lznpcwl.xyz^
-||hwpvbdj.xyz^
-||tunovl.xyz^
-||ieequd.icu^
-||latu.cc^
-||qgl27.xyz^
-||jhl1993.cn^
-||hitchprivilege.com^
+||2hpg0.fun^
+||pipc.top^
+||geicmu.xyz^
+||pqnqrjxe.xyz^
+||mmtdfxh.xyz^
+||jjvzqjh.xyz^
+||lutrbr.xyz^
+||bbrnpj.xyz^
+||9g659.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -6327,7 +6348,6 @@ newduba.cn###jq_youxi
 ##a[href*=".xacg.info/"]
 ##button[onclick*=".xacg.info/"]
 ||06789.xyz^
-||mnnmnn.com^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||16m.cc^$third-party
@@ -6413,6 +6433,7 @@ newduba.cn###jq_youxi
 ||lu.sogoucdn.com^
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
 ||miaozhen.com^$third-party
+||mnnmnn.com^
 ||mobads.baidu.com^$third-party
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||n0211.com^
@@ -7068,6 +7089,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||58avgo.*/AirADPic/
 ||58cdn.com.cn/ds/tgbrand/*.js
 ||58cdn.com.cn/ds/zhuangxiu/jzad-
+||58cdn.com.cn/nowater/webim/big/n_v2e722db7ca7f1458d92b7d6e57f833548.
 ||58file.com/down/xyk.
 ||59.36.101.209:888/link/*_280x192.
 ||591hx.com/images/0000.jpg
@@ -11086,7 +11108,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
-||58cdn.com.cn/nowater/webim/big/n_v2e722db7ca7f1458d92b7d6e57f833548.
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
