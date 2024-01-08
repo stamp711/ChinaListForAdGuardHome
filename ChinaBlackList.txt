@@ -291,7 +291,6 @@
 [/0523zp.com/]https://dns.pub/dns-query
 [/0523zz.com/]https://dns.pub/dns-query
 [/05273.com/]https://dns.pub/dns-query
-[/0527ys.com/]https://dns.pub/dns-query
 [/0527zz.com/]https://dns.pub/dns-query
 [/052yx.com/]https://dns.pub/dns-query
 [/0531.com/]https://dns.pub/dns-query
@@ -3640,7 +3639,6 @@
 [/51lifes.com/]https://dns.pub/dns-query
 [/51lingji.com/]https://dns.pub/dns-query
 [/51liucheng.com/]https://dns.pub/dns-query
-[/51ljms.com/]https://dns.pub/dns-query
 [/51lucy.com/]https://dns.pub/dns-query
 [/51lunwenwang.com/]https://dns.pub/dns-query
 [/51luying.com/]https://dns.pub/dns-query
@@ -32646,7 +32644,6 @@
 [/koto.com/]https://dns.pub/dns-query
 [/kotoo.com/]https://dns.pub/dns-query
 [/koubei.com/]https://dns.pub/dns-query
-[/koubeiblog.com/]https://dns.pub/dns-query
 [/koubeikc.com/]https://dns.pub/dns-query
 [/koucai365.com/]https://dns.pub/dns-query
 [/koudai.com/]https://dns.pub/dns-query
@@ -33142,6 +33139,7 @@
 [/kye-erp.com/]https://dns.pub/dns-query
 [/kyemall.com/]https://dns.pub/dns-query
 [/kygf1.com/]https://dns.pub/dns-query
+[/kygf3.com/]https://dns.pub/dns-query
 [/kyhtech.com/]https://dns.pub/dns-query
 [/kyjxy.com/]https://dns.pub/dns-query
 [/kylc.com/]https://dns.pub/dns-query
@@ -34000,6 +33998,7 @@
 [/lezi.com/]https://dns.pub/dns-query
 [/lezuan.net/]https://dns.pub/dns-query
 [/lezuan9.com/]https://dns.pub/dns-query
+[/lezuocai.com/]https://dns.pub/dns-query
 [/lf127.net/]https://dns.pub/dns-query
 [/lfan.net/]https://dns.pub/dns-query
 [/lfang.com/]https://dns.pub/dns-query
@@ -44225,6 +44224,7 @@
 [/sayabear.com/]https://dns.pub/dns-query
 [/sayll.com/]https://dns.pub/dns-query
 [/sayloving.com/]https://dns.pub/dns-query
+[/sayodevice.com/]https://dns.pub/dns-query
 [/saywash.com/]https://dns.pub/dns-query
 [/sbanzu.com/]https://dns.pub/dns-query
 [/sbc-mcc.com/]https://dns.pub/dns-query
@@ -44943,7 +44943,6 @@
 [/shandongsannong.com/]https://dns.pub/dns-query
 [/shandongyunpin.com/]https://dns.pub/dns-query
 [/shandw.com/]https://dns.pub/dns-query
-[/shane-nanyang.com/]https://dns.pub/dns-query
 [/shang-chain.com/]https://dns.pub/dns-query
 [/shang-ma.com/]https://dns.pub/dns-query
 [/shang0898.com/]https://dns.pub/dns-query
@@ -49022,7 +49021,6 @@
 [/th.app/]https://dns.pub/dns-query
 [/th38.com/]https://dns.pub/dns-query
 [/thamco.com/]https://dns.pub/dns-query
-[/thanhong.me/]https://dns.pub/dns-query
 [/thankbabe.com/]https://dns.pub/dns-query
 [/thatinterpreter.net/]https://dns.pub/dns-query
 [/thatsmags.com/]https://dns.pub/dns-query
@@ -58437,7 +58435,6 @@
 [/ymd88.com/]https://dns.pub/dns-query
 [/ymexf.com/]https://dns.pub/dns-query
 [/ymfile.com/]https://dns.pub/dns-query
-[/ymgmno.com/]https://dns.pub/dns-query
 [/ymhudong.com/]https://dns.pub/dns-query
 [/ymiot.net/]https://dns.pub/dns-query
 [/ymkuzhan.com/]https://dns.pub/dns-query
