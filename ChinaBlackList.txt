@@ -2405,6 +2405,7 @@
 [/3322.cc/]https://dns.pub/dns-query
 [/3322.net/]https://dns.pub/dns-query
 [/3322.org/]https://dns.pub/dns-query
+[/33226163.xyz/]https://dns.pub/dns-query
 [/3323.com/]https://dns.pub/dns-query
 [/3323399.com/]https://dns.pub/dns-query
 [/332831.com/]https://dns.pub/dns-query
@@ -3797,6 +3798,7 @@
 [/51uyi.com/]https://dns.pub/dns-query
 [/51vimeo.com/]https://dns.pub/dns-query
 [/51vip.biz/]https://dns.pub/dns-query
+[/51voa.com/]https://dns.pub/dns-query
 [/51vs.com/]https://dns.pub/dns-query
 [/51vv.com/]https://dns.pub/dns-query
 [/51vv2.com/]https://dns.pub/dns-query
@@ -4447,7 +4449,6 @@
 [/591wy.com/]https://dns.pub/dns-query
 [/591yhw.com/]https://dns.pub/dns-query
 [/5923d.com/]https://dns.pub/dns-query
-[/592sy.com/]https://dns.pub/dns-query
 [/592zn.com/]https://dns.pub/dns-query
 [/59313313.com/]https://dns.pub/dns-query
 [/59370.com/]https://dns.pub/dns-query
@@ -12754,7 +12755,6 @@
 [/chanway.net/]https://dns.pub/dns-query
 [/chanwind.com/]https://dns.pub/dns-query
 [/chanxuehezuo.com/]https://dns.pub/dns-query
-[/chanyeren.com/]https://dns.pub/dns-query
 [/chanzhi.org/]https://dns.pub/dns-query
 [/chanzuimei.com/]https://dns.pub/dns-query
 [/chao-fan.com/]https://dns.pub/dns-query
@@ -16262,7 +16262,6 @@
 [/czyxba.com/]https://dns.pub/dns-query
 [/czzsw.com/]https://dns.pub/dns-query
 [/czzy-edu.com/]https://dns.pub/dns-query
-[/czzy88.com/]https://dns.pub/dns-query
 [/d-controls.com/]https://dns.pub/dns-query
 [/d-ctrip.com/]https://dns.pub/dns-query
 [/d-heaven.com/]https://dns.pub/dns-query
@@ -33350,7 +33349,6 @@
 [/languangdy.com/]https://dns.pub/dns-query
 [/langya.org/]https://dns.pub/dns-query
 [/langyabang.com/]https://dns.pub/dns-query
-[/langyuseo.com/]https://dns.pub/dns-query
 [/langzi.fun/]https://dns.pub/dns-query
 [/lanh.love/]https://dns.pub/dns-query
 [/lanhaicaijing.com/]https://dns.pub/dns-query
@@ -59126,7 +59124,6 @@
 [/yte1.com/]https://dns.pub/dns-query
 [/yteng.net/]https://dns.pub/dns-query
 [/ytesting.com/]https://dns.pub/dns-query
-[/ytet.org/]https://dns.pub/dns-query
 [/ytfuzhen.com/]https://dns.pub/dns-query
 [/ytghnb.com/]https://dns.pub/dns-query
 [/ythouse.com/]https://dns.pub/dns-query
@@ -61203,6 +61200,7 @@
 [/zhtmid.com/]https://dns.pub/dns-query
 [/zhu23.work/]https://dns.pub/dns-query
 [/zhu360.com/]https://dns.pub/dns-query
+[/zhuaidei.com/]https://dns.pub/dns-query
 [/zhuainiu.com/]https://dns.pub/dns-query
 [/zhuan16.com/]https://dns.pub/dns-query
 [/zhuanfa.net/]https://dns.pub/dns-query
