@@ -2,8 +2,8 @@
 
 ! Title: HalfLifeList
 ! Expires: 12 hours
-! Version: 202401200200
-! Last Modified: 2024年01月20日 02:00
+! Version: 202401210200
+! Last Modified: 2024年01月21日 02:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1437,6 +1437,7 @@ ubmcmm.baidustatic.com
 ###adv-fixed-square
 ###adv_wrap_hh
 ###adx_cggp
+###alert_windows > .q-dialog__backdrop
 ###app > .publicAllContentBg > .bigBannerBg
 ###appad.cate
 ###apprecom1.apprecom
@@ -1477,6 +1478,7 @@ ubmcmm.baidustatic.com
 ###dbgg
 ###dgf_pc
 ###diads
+###div_top_ads
 ###duilian_left
 ###duilian_right
 ###dy_card_dy
@@ -1735,6 +1737,7 @@ newduba.cn###jq_youxi
 ##.advert-short
 ##.advertising_lightbox
 ##.afc_popup
+##.alert_windows > .q-card__actions > a
 ##.anniversary-wrap-2018
 ##.app-down-fix.body-fix
 ##.appdownload_ad + .hider
@@ -2168,6 +2171,7 @@ newduba.cn###jq_youxi
 ~mgtv.com##a[target="_blank"] > img[src*="hitv.com"]
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
+##body.desktop span[class^="c"] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body[onload*="u()"] > #x
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
@@ -2249,6 +2253,8 @@ newduba.cn###jq_youxi
 ##a[href*="/abg0066.com"]
 ##a[href*="/dsf188.cc"]
 ##a[href*="/dsf88.cc"]
+##a[href*="/hgcool360.top"]
+##a[href*="/hgcoolaa.top"]
 ||055g.com^
 ||05826.online^
 ||05pg9z.com^
@@ -2314,6 +2320,7 @@ newduba.cn###jq_youxi
 ||7dusx.xyz^
 ||7ry30.xyz^
 ||7vnkf.online^
+||82zcb.icu^
 ||888bb666cc.com^
 ||888cool.cn^
 ||888xx222kk.com^
@@ -2350,6 +2357,7 @@ newduba.cn###jq_youxi
 ||abcd789.com^
 ||abe1.cn^
 ||acemof.top^
+||acsegt86.shop^
 ||actrqdr.cn^
 ||adtx2.cn^
 ||aerbgpn.xyz^
@@ -2399,6 +2407,7 @@ newduba.cn###jq_youxi
 ||avvfjhg.xyz^
 ||awareista.com^
 ||awaw.asia^
+||awcdst.icu^
 ||awzddev.cn^
 ||ax7fv.space^
 ||aymwiq.xyz^
@@ -2521,6 +2530,7 @@ newduba.cn###jq_youxi
 ||corcztpc.xyz^
 ||courtoyz.com^
 ||cpddgcr.xyz^
+||cpffkbpq.xyz^
 ||cpmlwhra.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -2651,6 +2661,7 @@ newduba.cn###jq_youxi
 ||fortxfq.cn^
 ||fotaxf.xyz^
 ||foxoxn.xyz^
+||foysswr.cn^
 ||fptdxkm.com^
 ||fqfclmlo.xyz^
 ||fqtljn.xyz^
@@ -2766,6 +2777,7 @@ newduba.cn###jq_youxi
 ||hjdha.cn^
 ||hjdkvt.xyz^
 ||hjnjjcw.xyz^
+||hkaiedb.icu^
 ||hkljed.xyz^
 ||hkrytf.xyz^
 ||hkvuzv.xyz^
@@ -2780,7 +2792,9 @@ newduba.cn###jq_youxi
 ||hscnpk86.shop^
 ||hshmbx.xyz^
 ||hsi2i.fun^
+||htubzpb.cn^
 ||huhwllvk.xyz^
+||hulichuang.mobi^
 ||hunklm.com^
 ||huryds.top^
 ||huxifena.cn^
@@ -2851,6 +2865,7 @@ newduba.cn###jq_youxi
 ||jiangyahuid.top^
 ||jiangyahuir.top^
 ||jili9.io^
+||jingalbundles.com^
 ||jingxuanjingyan.com^
 ||jjvzqjh.xyz^
 ||jkbdpp.xyz^
@@ -2938,6 +2953,7 @@ newduba.cn###jq_youxi
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ksvkfwth.xyz^
+||ktauoy.xyz^
 ||ktnwxhjv.xyz^
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
@@ -3132,6 +3148,7 @@ newduba.cn###jq_youxi
 ||nnfalf.xyz^
 ||nnrbyty.xyz^
 ||nofizx.xyz^
+||npnpxoz.xyz^
 ||nrfhbd.xyz^
 ||nrzzaep.xyz^
 ||nshypdry.xyz^
@@ -3212,6 +3229,7 @@ newduba.cn###jq_youxi
 ||ptflrj.xyz^
 ||ptppcyg.xyz^
 ||pugxfvm.cn^
+||pupsjr.xyz^
 ||pvnzrr.xyz^
 ||pxxnejx.xyz^
 ||pzcogpj.icu^
@@ -3299,6 +3317,7 @@ newduba.cn###jq_youxi
 ||rxrdjb.xyz^
 ||rycff.online^
 ||rydzfldt.xyz^
+||ryyuvrt.cn^
 ||rzflhxn.cn^
 ||s019.com^
 ||s5ue6.com^
@@ -3332,6 +3351,7 @@ newduba.cn###jq_youxi
 ||smbx8.net^
 ||smgsue.xyz^
 ||smlpcz.icu^
+||so1nv.xyz^
 ||sogou.st^
 ||sotunet.com^
 ||splfnok.cn^
@@ -3560,6 +3580,7 @@ newduba.cn###jq_youxi
 ||wbkaqly.cn^
 ||wcbghap63.shop^
 ||wclsylk.cn^
+||wdadad.cn^
 ||wecklrb.cn^
 ||werssf.com^
 ||wewbnso.cn^
@@ -3633,6 +3654,7 @@ newduba.cn###jq_youxi
 ||xogtrmjz.xyz^
 ||xoojqxh.icu^
 ||xoqsxdpx.xyz^
+||xpffkbpq.xyz^
 ||xphcrjth.xyz^
 ||xpyerxzn.xyz^
 ||xqgduov.cn^
@@ -3685,8 +3707,10 @@ newduba.cn###jq_youxi
 ||ymmiyun.com^
 ||ymniqh.icu^
 ||ynulcpt.cn^
+||yohnoirs.com^
 ||yongzhen8.com^
 ||ypcngw.xyz^
+||ypffkbpq.xyz^
 ||yqlxwb.icu^
 ||yshlor.icu^
 ||ysxt9.com^
@@ -3711,6 +3735,7 @@ newduba.cn###jq_youxi
 ||zdjtxjp.xyz^
 ||zents2.top^
 ||zf4.top^
+||zfp32.buzz^
 ||zfvtswv.xyz^
 ||zghrxn.xyz^
 ||zhangyuting04.cn^
@@ -11519,6 +11544,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||windows.net/732d.js
 ||windowszj.net/d/js/list/click
 ||winwin7.com/statics/js/pos_js/
+||winwin7.com/statics/js/user/xz.
 ||wlrjy.com/assets/images/*.gif
 ||wlrjy.com/assets/images/tuidc.png
 ||wmcdn.net^$domain=liyuans.com
@@ -12331,7 +12357,7 @@ ebiotrade.com###dlBoxs
 docin.com###docindex_ad
 udn.com###doctop
 niutuku.com###downAD1
-xiazai.zol.com.cn###downBoxGaosu > a
+zol.com.cn###downBoxGaosu + a
 downmsn.com###downShow_tellDownload
 qiannao.com###downTb + div
 sm.cn###download-uc
@@ -18056,6 +18082,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||sjsmitaa.org/bin/showads.
 @@||smsonline.cloud^$generichide
 @@||smtcaw.com^$generichide
+@@||soft8ware.com^$generichide
 @@||softwarebrother.com^$generichide
 @@||sogou.com/adpub/cfg/sendmsg.
 @@||sozi.cn/images/ad/tj
