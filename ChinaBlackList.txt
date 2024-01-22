@@ -975,7 +975,6 @@
 [/125.la/]https://dns.pub/dns-query
 [/12530.com/]https://dns.pub/dns-query
 [/12580.com/]https://dns.pub/dns-query
-[/12580.net/]https://dns.pub/dns-query
 [/12580.tv/]https://dns.pub/dns-query
 [/12580study.com/]https://dns.pub/dns-query
 [/125edu.com/]https://dns.pub/dns-query
@@ -1100,7 +1099,6 @@
 [/13yx.com/]https://dns.pub/dns-query
 [/140414.com/]https://dns.pub/dns-query
 [/1415926.com/]https://dns.pub/dns-query
-[/1415926.mobi/]https://dns.pub/dns-query
 [/14294.com/]https://dns.pub/dns-query
 [/14498.com/]https://dns.pub/dns-query
 [/1451cn.com/]https://dns.pub/dns-query
@@ -18574,6 +18572,7 @@
 [/duobei.com/]https://dns.pub/dns-query
 [/duobeiyun.net/]https://dns.pub/dns-query
 [/duobiji.com/]https://dns.pub/dns-query
+[/duocaish.com/]https://dns.pub/dns-query
 [/duocaitou.com/]https://dns.pub/dns-query
 [/duochang.cc/]https://dns.pub/dns-query
 [/duodaa.com/]https://dns.pub/dns-query
@@ -21199,7 +21198,6 @@
 [/fl365.com/]https://dns.pub/dns-query
 [/fl5.co/]https://dns.pub/dns-query
 [/flachina.com/]https://dns.pub/dns-query
-[/flacro.me/]https://dns.pub/dns-query
 [/flamecdn.com/]https://dns.pub/dns-query
 [/flamesky.org/]https://dns.pub/dns-query
 [/flamingcold.com/]https://dns.pub/dns-query
@@ -29825,7 +29823,6 @@
 [/jdedu.net/]https://dns.pub/dns-query
 [/jdemall.com/]https://dns.pub/dns-query
 [/jdfcloud.com/]https://dns.pub/dns-query
-[/jdfhq.com/]https://dns.pub/dns-query
 [/jdfschool.com/]https://dns.pub/dns-query
 [/jdgogo.com/]https://dns.pub/dns-query
 [/jdgslb.com/]https://dns.pub/dns-query
@@ -38972,7 +38969,6 @@
 [/niceimg.net/]https://dns.pub/dns-query
 [/niceisp.com/]https://dns.pub/dns-query
 [/nicekid.com/]https://dns.pub/dns-query
-[/nicekodi.xyz/]https://dns.pub/dns-query
 [/nicelabel.cc/]https://dns.pub/dns-query
 [/nicelinks.site/]https://dns.pub/dns-query
 [/niceloo.com/]https://dns.pub/dns-query
@@ -41604,6 +41600,7 @@
 [/puh3.com/]https://dns.pub/dns-query
 [/puhuacapital.com/]https://dns.pub/dns-query
 [/puhuahui.com/]https://dns.pub/dns-query
+[/puidc.com/]https://dns.pub/dns-query
 [/puiedu.com/]https://dns.pub/dns-query
 [/pujia8.com/]https://dns.pub/dns-query
 [/pujiaba.com/]https://dns.pub/dns-query
@@ -44245,7 +44242,6 @@
 [/rzok.net/]https://dns.pub/dns-query
 [/rzspx.com/]https://dns.pub/dns-query
 [/rzszp.com/]https://dns.pub/dns-query
-[/rzwssy.com/]https://dns.pub/dns-query
 [/rzx.me/]https://dns.pub/dns-query
 [/rzzyfw.com/]https://dns.pub/dns-query
 [/s-02.com/]https://dns.pub/dns-query
@@ -46217,6 +46213,7 @@
 [/shyihuoh.com/]https://dns.pub/dns-query
 [/shykx.com/]https://dns.pub/dns-query
 [/shykz123456.com/]https://dns.pub/dns-query
+[/shyojin.com/]https://dns.pub/dns-query
 [/shyonghui.xyz/]https://dns.pub/dns-query
 [/shyongzeng.com/]https://dns.pub/dns-query
 [/shyouai.com/]https://dns.pub/dns-query
@@ -47050,6 +47047,7 @@
 [/sokutu.com/]https://dns.pub/dns-query
 [/solarbe.com/]https://dns.pub/dns-query
 [/solaridc.com/]https://dns.pub/dns-query
+[/soldeazy.com/]https://dns.pub/dns-query
 [/soldierstory-toys.com/]https://dns.pub/dns-query
 [/soleilneon.com/]https://dns.pub/dns-query
 [/solepic.com/]https://dns.pub/dns-query
@@ -58946,6 +58944,7 @@
 [/yongheyinian.com/]https://dns.pub/dns-query
 [/yonghongtech.com/]https://dns.pub/dns-query
 [/yonghuivip.com/]https://dns.pub/dns-query
+[/yongjindl.com/]https://dns.pub/dns-query
 [/yongkao.com/]https://dns.pub/dns-query
 [/yongqianbao.com/]https://dns.pub/dns-query
 [/yongqiaonews.com/]https://dns.pub/dns-query
